@@ -1,0 +1,4290 @@
+{
+  "version": 3,
+  "event_slug": "pontypriddparkrelays300826",
+  "thumbnail_host": "Cloudflare R2",
+  "match_field": "Flickr photo title without file extension",
+  "face_order": "sharpness_score descending",
+  "photos": {
+    "R62_5790": {
+      "filename": "R62_5790.jpg",
+      "title": "R62_5790",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_13_cluster_13.jpg",
+          "cluster_id": 13,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_13",
+          "linked_bib": null,
+          "sharpness_score": 2265.98,
+          "thumbnail_width": 112,
+          "thumbnail_height": 131
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_7_cluster_7.jpg",
+          "cluster_id": 7,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_7",
+          "linked_bib": null,
+          "sharpness_score": 2113.03,
+          "thumbnail_width": 113,
+          "thumbnail_height": 136
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 1753.78,
+          "thumbnail_width": 118,
+          "thumbnail_height": 135
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_2_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_2",
+          "linked_bib": null,
+          "sharpness_score": 1609.27,
+          "thumbnail_width": 112,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_8_cluster_8.jpg",
+          "cluster_id": 8,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_8",
+          "linked_bib": null,
+          "sharpness_score": 1600.59,
+          "thumbnail_width": 98,
+          "thumbnail_height": 129
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_15_cluster_15.jpg",
+          "cluster_id": 15,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_15",
+          "linked_bib": null,
+          "sharpness_score": 1476.74,
+          "thumbnail_width": 123,
+          "thumbnail_height": 156
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_11_cluster_11.jpg",
+          "cluster_id": 11,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_11",
+          "linked_bib": null,
+          "sharpness_score": 1469.72,
+          "thumbnail_width": 120,
+          "thumbnail_height": 162
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_14_cluster_14.jpg",
+          "cluster_id": 14,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_14",
+          "linked_bib": null,
+          "sharpness_score": 1453.48,
+          "thumbnail_width": 87,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_9_cluster_9.jpg",
+          "cluster_id": 9,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_9",
+          "linked_bib": null,
+          "sharpness_score": 1429.39,
+          "thumbnail_width": 118,
+          "thumbnail_height": 140
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_12_cluster_12.jpg",
+          "cluster_id": 12,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_12",
+          "linked_bib": null,
+          "sharpness_score": 1189.6,
+          "thumbnail_width": 109,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_4_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 882.77,
+          "thumbnail_width": 114,
+          "thumbnail_height": 141
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_6_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 869.11,
+          "thumbnail_width": 104,
+          "thumbnail_height": 152
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_10_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 614.58,
+          "thumbnail_width": 88,
+          "thumbnail_height": 113
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_3_cluster_3.jpg",
+          "cluster_id": 3,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_3",
+          "linked_bib": null,
+          "sharpness_score": 601.3,
+          "thumbnail_width": 125,
+          "thumbnail_height": 184
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5790_face_5_cluster_5.jpg",
+          "cluster_id": 5,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_5",
+          "linked_bib": null,
+          "sharpness_score": 540.95,
+          "thumbnail_width": 109,
+          "thumbnail_height": 128
+        }
+      ]
+    },
+    "R62_5791": {
+      "filename": "R62_5791.jpg",
+      "title": "R62_5791",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_15_cluster_24.jpg",
+          "cluster_id": 24,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_24",
+          "linked_bib": null,
+          "sharpness_score": 3501.3,
+          "thumbnail_width": 112,
+          "thumbnail_height": 166
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_20_cluster_13.jpg",
+          "cluster_id": 13,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_13",
+          "linked_bib": null,
+          "sharpness_score": 2605.73,
+          "thumbnail_width": 113,
+          "thumbnail_height": 152
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_14_cluster_23.jpg",
+          "cluster_id": 23,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_23",
+          "linked_bib": null,
+          "sharpness_score": 2389.05,
+          "thumbnail_width": 113,
+          "thumbnail_height": 151
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_2_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_2",
+          "linked_bib": null,
+          "sharpness_score": 2203.78,
+          "thumbnail_width": 112,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_1_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 2002.35,
+          "thumbnail_width": 103,
+          "thumbnail_height": 124
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_3_cluster_12.jpg",
+          "cluster_id": 12,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_12",
+          "linked_bib": null,
+          "sharpness_score": 1924.93,
+          "thumbnail_width": 112,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_12_cluster_22.jpg",
+          "cluster_id": 22,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_22",
+          "linked_bib": null,
+          "sharpness_score": 1923.15,
+          "thumbnail_width": 118,
+          "thumbnail_height": 155
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_10_cluster_20.jpg",
+          "cluster_id": 20,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_20",
+          "linked_bib": null,
+          "sharpness_score": 1822.41,
+          "thumbnail_width": 115,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_9_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 1804.34,
+          "thumbnail_width": 112,
+          "thumbnail_height": 145
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_16_cluster_25.jpg",
+          "cluster_id": 25,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_25",
+          "linked_bib": null,
+          "sharpness_score": 1610.31,
+          "thumbnail_width": 88,
+          "thumbnail_height": 124
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_18_cluster_26.jpg",
+          "cluster_id": 26,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_26",
+          "linked_bib": null,
+          "sharpness_score": 1500.44,
+          "thumbnail_width": 103,
+          "thumbnail_height": 131
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_17_cluster_11.jpg",
+          "cluster_id": 11,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_11",
+          "linked_bib": null,
+          "sharpness_score": 1423.8,
+          "thumbnail_width": 124,
+          "thumbnail_height": 172
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_19_cluster_27.jpg",
+          "cluster_id": 27,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_27",
+          "linked_bib": null,
+          "sharpness_score": 1291.36,
+          "thumbnail_width": 109,
+          "thumbnail_height": 144
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_21_cluster_28.jpg",
+          "cluster_id": 28,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_28",
+          "linked_bib": null,
+          "sharpness_score": 1177.52,
+          "thumbnail_width": 87,
+          "thumbnail_height": 139
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_7_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 1046.86,
+          "thumbnail_width": 112,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_6_cluster_9.jpg",
+          "cluster_id": 9,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_9",
+          "linked_bib": null,
+          "sharpness_score": 1045.55,
+          "thumbnail_width": 98,
+          "thumbnail_height": 140
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_4_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 955.57,
+          "thumbnail_width": 112,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_13_cluster_5.jpg",
+          "cluster_id": 5,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_5",
+          "linked_bib": null,
+          "sharpness_score": 908.72,
+          "thumbnail_width": 103,
+          "thumbnail_height": 123
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_5_cluster_18.jpg",
+          "cluster_id": 18,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_18",
+          "linked_bib": null,
+          "sharpness_score": 855.63,
+          "thumbnail_width": 115,
+          "thumbnail_height": 147
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_11_cluster_21.jpg",
+          "cluster_id": 21,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_21",
+          "linked_bib": null,
+          "sharpness_score": 783.87,
+          "thumbnail_width": 92,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5791_face_8_cluster_19.jpg",
+          "cluster_id": 19,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_19",
+          "linked_bib": null,
+          "sharpness_score": 56.21,
+          "thumbnail_width": 80,
+          "thumbnail_height": 96
+        }
+      ]
+    },
+    "R62_5792": {
+      "filename": "R62_5792.jpg",
+      "title": "R62_5792",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_15_cluster_12.jpg",
+          "cluster_id": 12,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_12",
+          "linked_bib": null,
+          "sharpness_score": 2757.2,
+          "thumbnail_width": 104,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_9_cluster_24.jpg",
+          "cluster_id": 24,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_24",
+          "linked_bib": null,
+          "sharpness_score": 2636.69,
+          "thumbnail_width": 120,
+          "thumbnail_height": 172
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_11_cluster_32.jpg",
+          "cluster_id": 32,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_32",
+          "linked_bib": null,
+          "sharpness_score": 2542.29,
+          "thumbnail_width": 115,
+          "thumbnail_height": 109
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_16_cluster_15.jpg",
+          "cluster_id": 15,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_15",
+          "linked_bib": null,
+          "sharpness_score": 2163.77,
+          "thumbnail_width": 109,
+          "thumbnail_height": 171
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 2073.44,
+          "thumbnail_width": 113,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_3_cluster_20.jpg",
+          "cluster_id": 20,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_20",
+          "linked_bib": null,
+          "sharpness_score": 1860.3,
+          "thumbnail_width": 114,
+          "thumbnail_height": 144
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_19_cluster_27.jpg",
+          "cluster_id": 27,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_27",
+          "linked_bib": null,
+          "sharpness_score": 1794.18,
+          "thumbnail_width": 98,
+          "thumbnail_height": 119
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_8_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 1687.06,
+          "thumbnail_width": 109,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_2_cluster_9.jpg",
+          "cluster_id": 9,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_9",
+          "linked_bib": null,
+          "sharpness_score": 1648.63,
+          "thumbnail_width": 118,
+          "thumbnail_height": 141
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_12_cluster_33.jpg",
+          "cluster_id": 33,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_33",
+          "linked_bib": null,
+          "sharpness_score": 1576.31,
+          "thumbnail_width": 125,
+          "thumbnail_height": 151
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_17_cluster_36.jpg",
+          "cluster_id": 36,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_36",
+          "linked_bib": null,
+          "sharpness_score": 1552.5,
+          "thumbnail_width": 119,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_13_cluster_34.jpg",
+          "cluster_id": 34,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_34",
+          "linked_bib": null,
+          "sharpness_score": 1479.09,
+          "thumbnail_width": 93,
+          "thumbnail_height": 151
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_7_cluster_30.jpg",
+          "cluster_id": 30,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_30",
+          "linked_bib": null,
+          "sharpness_score": 1464.06,
+          "thumbnail_width": 119,
+          "thumbnail_height": 131
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_6_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 1350.56,
+          "thumbnail_width": 109,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_4_cluster_29.jpg",
+          "cluster_id": 29,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_29",
+          "linked_bib": null,
+          "sharpness_score": 837.77,
+          "thumbnail_width": 118,
+          "thumbnail_height": 135
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_20_cluster_38.jpg",
+          "cluster_id": 38,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_38",
+          "linked_bib": null,
+          "sharpness_score": 727.82,
+          "thumbnail_width": 86,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_10_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_31",
+          "linked_bib": null,
+          "sharpness_score": 721.02,
+          "thumbnail_width": 107,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_14_cluster_35.jpg",
+          "cluster_id": 35,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_35",
+          "linked_bib": null,
+          "sharpness_score": 705.12,
+          "thumbnail_width": 91,
+          "thumbnail_height": 112
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_5_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 352.98,
+          "thumbnail_width": 107,
+          "thumbnail_height": 131
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5792_face_18_cluster_37.jpg",
+          "cluster_id": 37,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_37",
+          "linked_bib": null,
+          "sharpness_score": 269.97,
+          "thumbnail_width": 61,
+          "thumbnail_height": 112
+        }
+      ]
+    },
+    "R62_5793": {
+      "filename": "R62_5793.jpg",
+      "title": "R62_5793",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_13_cluster_24.jpg",
+          "cluster_id": 24,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_24",
+          "linked_bib": null,
+          "sharpness_score": 3465.7,
+          "thumbnail_width": 82,
+          "thumbnail_height": 136
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_16_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 3052.73,
+          "thumbnail_width": 103,
+          "thumbnail_height": 119
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_5_cluster_20.jpg",
+          "cluster_id": 20,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_20",
+          "linked_bib": null,
+          "sharpness_score": 2859.34,
+          "thumbnail_width": 108,
+          "thumbnail_height": 135
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_1_cluster_12.jpg",
+          "cluster_id": 12,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_12",
+          "linked_bib": null,
+          "sharpness_score": 2811.72,
+          "thumbnail_width": 107,
+          "thumbnail_height": 136
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_4_cluster_40.jpg",
+          "cluster_id": 40,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_40",
+          "linked_bib": null,
+          "sharpness_score": 2590.56,
+          "thumbnail_width": 115,
+          "thumbnail_height": 120
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_19_cluster_21.jpg",
+          "cluster_id": 21,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_21",
+          "linked_bib": null,
+          "sharpness_score": 2569.77,
+          "thumbnail_width": 86,
+          "thumbnail_height": 102
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_6_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_2",
+          "linked_bib": null,
+          "sharpness_score": 2291.51,
+          "thumbnail_width": 104,
+          "thumbnail_height": 119
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_8_cluster_41.jpg",
+          "cluster_id": 41,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_41",
+          "linked_bib": null,
+          "sharpness_score": 2244.19,
+          "thumbnail_width": 93,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_14_cluster_43.jpg",
+          "cluster_id": 43,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_43",
+          "linked_bib": null,
+          "sharpness_score": 2149.23,
+          "thumbnail_width": 102,
+          "thumbnail_height": 123
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_12_cluster_42.jpg",
+          "cluster_id": 42,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_42",
+          "linked_bib": null,
+          "sharpness_score": 2143.08,
+          "thumbnail_width": 112,
+          "thumbnail_height": 124
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_7_cluster_9.jpg",
+          "cluster_id": 9,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_9",
+          "linked_bib": null,
+          "sharpness_score": 2079.54,
+          "thumbnail_width": 108,
+          "thumbnail_height": 141
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_3_cluster_39.jpg",
+          "cluster_id": 39,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_39",
+          "linked_bib": null,
+          "sharpness_score": 1931.8,
+          "thumbnail_width": 119,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_15_cluster_44.jpg",
+          "cluster_id": 44,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_44",
+          "linked_bib": null,
+          "sharpness_score": 1897.28,
+          "thumbnail_width": 91,
+          "thumbnail_height": 119
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_9_cluster_29.jpg",
+          "cluster_id": 29,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_29",
+          "linked_bib": null,
+          "sharpness_score": 1876.57,
+          "thumbnail_width": 112,
+          "thumbnail_height": 123
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_2_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 1789.8,
+          "thumbnail_width": 103,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_17_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_31",
+          "linked_bib": null,
+          "sharpness_score": 1564.17,
+          "thumbnail_width": 96,
+          "thumbnail_height": 118
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_11_cluster_3.jpg",
+          "cluster_id": 3,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_3",
+          "linked_bib": null,
+          "sharpness_score": 1511.0,
+          "thumbnail_width": 135,
+          "thumbnail_height": 167
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_10_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 958.3,
+          "thumbnail_width": 93,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5793_face_18_cluster_45.jpg",
+          "cluster_id": 45,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_45",
+          "linked_bib": null,
+          "sharpness_score": 769.95,
+          "thumbnail_width": 66,
+          "thumbnail_height": 119
+        }
+      ]
+    },
+    "R62_5794": {
+      "filename": "R62_5794.jpg",
+      "title": "R62_5794",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_12_cluster_24.jpg",
+          "cluster_id": 24,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_24",
+          "linked_bib": null,
+          "sharpness_score": 3807.31,
+          "thumbnail_width": 109,
+          "thumbnail_height": 163
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_20_cluster_54.jpg",
+          "cluster_id": 54,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_54",
+          "linked_bib": null,
+          "sharpness_score": 3505.4,
+          "thumbnail_width": 82,
+          "thumbnail_height": 88
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_6_cluster_12.jpg",
+          "cluster_id": 12,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_12",
+          "linked_bib": null,
+          "sharpness_score": 2617.45,
+          "thumbnail_width": 118,
+          "thumbnail_height": 140
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_17_cluster_52.jpg",
+          "cluster_id": 52,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_52",
+          "linked_bib": null,
+          "sharpness_score": 2542.32,
+          "thumbnail_width": 71,
+          "thumbnail_height": 152
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_8_cluster_49.jpg",
+          "cluster_id": 49,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_49",
+          "linked_bib": null,
+          "sharpness_score": 2479.16,
+          "thumbnail_width": 103,
+          "thumbnail_height": 102
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_18_cluster_9.jpg",
+          "cluster_id": 9,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_9",
+          "linked_bib": null,
+          "sharpness_score": 2288.59,
+          "thumbnail_width": 128,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_10_cluster_11.jpg",
+          "cluster_id": 11,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_11",
+          "linked_bib": null,
+          "sharpness_score": 2007.8,
+          "thumbnail_width": 128,
+          "thumbnail_height": 167
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_2_cluster_46.jpg",
+          "cluster_id": 46,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_46",
+          "linked_bib": null,
+          "sharpness_score": 1972.79,
+          "thumbnail_width": 115,
+          "thumbnail_height": 146
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_5_cluster_47.jpg",
+          "cluster_id": 47,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_47",
+          "linked_bib": null,
+          "sharpness_score": 1764.34,
+          "thumbnail_width": 83,
+          "thumbnail_height": 125
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_13_cluster_33.jpg",
+          "cluster_id": 33,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_33",
+          "linked_bib": null,
+          "sharpness_score": 1719.09,
+          "thumbnail_width": 124,
+          "thumbnail_height": 147
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_21_cluster_55.jpg",
+          "cluster_id": 55,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_55",
+          "linked_bib": null,
+          "sharpness_score": 1595.29,
+          "thumbnail_width": 72,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_14_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 1516.26,
+          "thumbnail_width": 92,
+          "thumbnail_height": 118
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_7_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 1476.51,
+          "thumbnail_width": 102,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_11_cluster_50.jpg",
+          "cluster_id": 50,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_50",
+          "linked_bib": null,
+          "sharpness_score": 1358.6,
+          "thumbnail_width": 83,
+          "thumbnail_height": 146
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_15_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 1347.62,
+          "thumbnail_width": 96,
+          "thumbnail_height": 136
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_9_cluster_39.jpg",
+          "cluster_id": 39,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_39",
+          "linked_bib": null,
+          "sharpness_score": 1270.26,
+          "thumbnail_width": 134,
+          "thumbnail_height": 129
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_16_cluster_51.jpg",
+          "cluster_id": 51,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_51",
+          "linked_bib": null,
+          "sharpness_score": 1215.84,
+          "thumbnail_width": 77,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_4_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 1213.35,
+          "thumbnail_width": 107,
+          "thumbnail_height": 140
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_1_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 1159.12,
+          "thumbnail_width": 118,
+          "thumbnail_height": 135
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_3_cluster_41.jpg",
+          "cluster_id": 41,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_41",
+          "linked_bib": null,
+          "sharpness_score": 945.97,
+          "thumbnail_width": 112,
+          "thumbnail_height": 131
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5794_face_19_cluster_53.jpg",
+          "cluster_id": 53,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_53",
+          "linked_bib": null,
+          "sharpness_score": 452.55,
+          "thumbnail_width": 48,
+          "thumbnail_height": 77
+        }
+      ]
+    },
+    "R62_5796": {
+      "filename": "R62_5796.jpg",
+      "title": "R62_5796",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5796_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 311.52,
+          "thumbnail_width": 134,
+          "thumbnail_height": 179
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5796_face_2_cluster_56.jpg",
+          "cluster_id": 56,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_56",
+          "linked_bib": null,
+          "sharpness_score": 45.97,
+          "thumbnail_width": 93,
+          "thumbnail_height": 113
+        }
+      ]
+    },
+    "R62_5797": {
+      "filename": "R62_5797.jpg",
+      "title": "R62_5797",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5797_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 39.1,
+          "thumbnail_width": 540,
+          "thumbnail_height": 693
+        }
+      ]
+    },
+    "R62_5798": {
+      "filename": "R62_5798.jpg",
+      "title": "R62_5798",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_9_cluster_64.jpg",
+          "cluster_id": 64,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_64",
+          "linked_bib": null,
+          "sharpness_score": 1876.11,
+          "thumbnail_width": 56,
+          "thumbnail_height": 86
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_3_cluster_58.jpg",
+          "cluster_id": 58,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_58",
+          "linked_bib": null,
+          "sharpness_score": 1824.77,
+          "thumbnail_width": 86,
+          "thumbnail_height": 124
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_2_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 1701.65,
+          "thumbnail_width": 83,
+          "thumbnail_height": 109
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_4_cluster_59.jpg",
+          "cluster_id": 59,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_59",
+          "linked_bib": null,
+          "sharpness_score": 936.83,
+          "thumbnail_width": 61,
+          "thumbnail_height": 87
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_16_cluster_68.jpg",
+          "cluster_id": 68,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_68",
+          "linked_bib": null,
+          "sharpness_score": 913.25,
+          "thumbnail_width": 51,
+          "thumbnail_height": 72
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_5_cluster_60.jpg",
+          "cluster_id": 60,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_60",
+          "linked_bib": null,
+          "sharpness_score": 696.93,
+          "thumbnail_width": 56,
+          "thumbnail_height": 87
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_8_cluster_63.jpg",
+          "cluster_id": 63,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_63",
+          "linked_bib": null,
+          "sharpness_score": 650.22,
+          "thumbnail_width": 64,
+          "thumbnail_height": 86
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_7_cluster_62.jpg",
+          "cluster_id": 62,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_62",
+          "linked_bib": null,
+          "sharpness_score": 605.42,
+          "thumbnail_width": 66,
+          "thumbnail_height": 88
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_13_cluster_67.jpg",
+          "cluster_id": 67,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_67",
+          "linked_bib": null,
+          "sharpness_score": 536.7,
+          "thumbnail_width": 48,
+          "thumbnail_height": 64
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_1_cluster_57.jpg",
+          "cluster_id": 57,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_57",
+          "linked_bib": null,
+          "sharpness_score": 514.52,
+          "thumbnail_width": 72,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_12_cluster_66.jpg",
+          "cluster_id": 66,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_66",
+          "linked_bib": null,
+          "sharpness_score": 361.51,
+          "thumbnail_width": 76,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_6_cluster_61.jpg",
+          "cluster_id": 61,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_61",
+          "linked_bib": null,
+          "sharpness_score": 121.35,
+          "thumbnail_width": 48,
+          "thumbnail_height": 56
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5798_face_10_cluster_65.jpg",
+          "cluster_id": 65,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_65",
+          "linked_bib": null,
+          "sharpness_score": 51.91,
+          "thumbnail_width": 48,
+          "thumbnail_height": 61
+        }
+      ]
+    },
+    "R62_5799": {
+      "filename": "R62_5799.jpg",
+      "title": "R62_5799",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5799_face_1_cluster_69.jpg",
+          "cluster_id": 69,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_69",
+          "linked_bib": "37-B",
+          "sharpness_score": 1346.72,
+          "thumbnail_width": 128,
+          "thumbnail_height": 184
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5799_face_4_cluster_71.jpg",
+          "cluster_id": 71,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_71",
+          "linked_bib": null,
+          "sharpness_score": 736.41,
+          "thumbnail_width": 82,
+          "thumbnail_height": 104
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5799_face_2_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 730.88,
+          "thumbnail_width": 123,
+          "thumbnail_height": 160
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5799_face_3_cluster_70.jpg",
+          "cluster_id": 70,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_70",
+          "linked_bib": "24-B",
+          "sharpness_score": 81.43,
+          "thumbnail_width": 98,
+          "thumbnail_height": 129
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5799_face_5_cluster_72.jpg",
+          "cluster_id": 72,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_72",
+          "linked_bib": null,
+          "sharpness_score": 17.59,
+          "thumbnail_width": 66,
+          "thumbnail_height": 88
+        }
+      ]
+    },
+    "R62_5800": {
+      "filename": "R62_5800.jpg",
+      "title": "R62_5800",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5800_face_1_cluster_69.jpg",
+          "cluster_id": 69,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_69",
+          "linked_bib": "37-B",
+          "sharpness_score": 384.92,
+          "thumbnail_width": 278,
+          "thumbnail_height": 408
+        }
+      ]
+    },
+    "R62_5801": {
+      "filename": "R62_5801.jpg",
+      "title": "R62_5801",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5801_face_1_cluster_69.jpg",
+          "cluster_id": 69,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_69",
+          "linked_bib": "37-B",
+          "sharpness_score": 304.1,
+          "thumbnail_width": 547,
+          "thumbnail_height": 795
+        }
+      ]
+    },
+    "R62_5802": {
+      "filename": "R62_5802.jpg",
+      "title": "R62_5802",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5802_face_1_cluster_40.jpg",
+          "cluster_id": 40,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_40",
+          "linked_bib": null,
+          "sharpness_score": 2460.34,
+          "thumbnail_width": 102,
+          "thumbnail_height": 146
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5802_face_3_cluster_74.jpg",
+          "cluster_id": 74,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_74",
+          "linked_bib": null,
+          "sharpness_score": 1535.15,
+          "thumbnail_width": 62,
+          "thumbnail_height": 109
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5802_face_2_cluster_73.jpg",
+          "cluster_id": 73,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_73",
+          "linked_bib": null,
+          "sharpness_score": 1220.13,
+          "thumbnail_width": 86,
+          "thumbnail_height": 129
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5802_face_4_cluster_75.jpg",
+          "cluster_id": 75,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_75",
+          "linked_bib": null,
+          "sharpness_score": 41.9,
+          "thumbnail_width": 43,
+          "thumbnail_height": 91
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5802_face_5_cluster_65.jpg",
+          "cluster_id": 65,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_65",
+          "linked_bib": null,
+          "sharpness_score": 18.06,
+          "thumbnail_width": 48,
+          "thumbnail_height": 64
+        }
+      ]
+    },
+    "R62_5803": {
+      "filename": "R62_5803.jpg",
+      "title": "R62_5803",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5803_face_1_cluster_70.jpg",
+          "cluster_id": 70,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_70",
+          "linked_bib": "24-B",
+          "sharpness_score": 1496.59,
+          "thumbnail_width": 136,
+          "thumbnail_height": 208
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5803_face_2_cluster_76.jpg",
+          "cluster_id": 76,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_76",
+          "linked_bib": null,
+          "sharpness_score": 36.25,
+          "thumbnail_width": 70,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5803_face_3_cluster_77.jpg",
+          "cluster_id": 77,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_77",
+          "linked_bib": null,
+          "sharpness_score": 34.67,
+          "thumbnail_width": 65,
+          "thumbnail_height": 107
+        }
+      ]
+    },
+    "R62_5804": {
+      "filename": "R62_5804.jpg",
+      "title": "R62_5804",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R62_5804_face_1_cluster_70.jpg",
+          "cluster_id": 70,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_70",
+          "linked_bib": "24-B",
+          "sharpness_score": 324.48,
+          "thumbnail_width": 599,
+          "thumbnail_height": 813
+        }
+      ]
+    },
+    "R7__5150": {
+      "filename": "R7__5150.jpg",
+      "title": "R7__5150",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_15_cluster_83.jpg",
+          "cluster_id": 83,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_83",
+          "linked_bib": null,
+          "sharpness_score": 3162.71,
+          "thumbnail_width": 75,
+          "thumbnail_height": 102
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_16_cluster_84.jpg",
+          "cluster_id": 84,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_84",
+          "linked_bib": null,
+          "sharpness_score": 2910.66,
+          "thumbnail_width": 83,
+          "thumbnail_height": 113
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_23_cluster_87.jpg",
+          "cluster_id": 87,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_87",
+          "linked_bib": null,
+          "sharpness_score": 2899.77,
+          "thumbnail_width": 83,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_25_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 2803.27,
+          "thumbnail_width": 75,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_22_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_31",
+          "linked_bib": null,
+          "sharpness_score": 2661.43,
+          "thumbnail_width": 112,
+          "thumbnail_height": 131
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_26_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 2622.0,
+          "thumbnail_width": 75,
+          "thumbnail_height": 88
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_9_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 2176.71,
+          "thumbnail_width": 83,
+          "thumbnail_height": 99
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_5_cluster_78.jpg",
+          "cluster_id": 78,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_78",
+          "linked_bib": null,
+          "sharpness_score": 2118.23,
+          "thumbnail_width": 72,
+          "thumbnail_height": 93
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_28_cluster_89.jpg",
+          "cluster_id": 89,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_89",
+          "linked_bib": null,
+          "sharpness_score": 1925.85,
+          "thumbnail_width": 86,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_12_cluster_46.jpg",
+          "cluster_id": 46,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_46",
+          "linked_bib": null,
+          "sharpness_score": 1896.03,
+          "thumbnail_width": 107,
+          "thumbnail_height": 135
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_3_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 1850.07,
+          "thumbnail_width": 104,
+          "thumbnail_height": 125
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_10_cluster_24.jpg",
+          "cluster_id": 24,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_24",
+          "linked_bib": null,
+          "sharpness_score": 1673.55,
+          "thumbnail_width": 141,
+          "thumbnail_height": 179
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_17_cluster_85.jpg",
+          "cluster_id": 85,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_85",
+          "linked_bib": null,
+          "sharpness_score": 1619.53,
+          "thumbnail_width": 76,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_11_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 1590.58,
+          "thumbnail_width": 72,
+          "thumbnail_height": 108
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_6_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_2",
+          "linked_bib": null,
+          "sharpness_score": 1570.6,
+          "thumbnail_width": 109,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_21_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 1501.46,
+          "thumbnail_width": 77,
+          "thumbnail_height": 93
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_31_cluster_40.jpg",
+          "cluster_id": 40,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_40",
+          "linked_bib": null,
+          "sharpness_score": 1494.42,
+          "thumbnail_width": 130,
+          "thumbnail_height": 147
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_7_cluster_9.jpg",
+          "cluster_id": 9,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_9",
+          "linked_bib": null,
+          "sharpness_score": 1461.14,
+          "thumbnail_width": 124,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_30_cluster_90.jpg",
+          "cluster_id": 90,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_90",
+          "linked_bib": null,
+          "sharpness_score": 1456.33,
+          "thumbnail_width": 56,
+          "thumbnail_height": 76
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_8_cluster_79.jpg",
+          "cluster_id": 79,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_79",
+          "linked_bib": null,
+          "sharpness_score": 1411.28,
+          "thumbnail_width": 75,
+          "thumbnail_height": 91
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_14_cluster_82.jpg",
+          "cluster_id": 82,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_82",
+          "linked_bib": null,
+          "sharpness_score": 1319.68,
+          "thumbnail_width": 81,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_18_cluster_33.jpg",
+          "cluster_id": 33,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_33",
+          "linked_bib": null,
+          "sharpness_score": 1256.01,
+          "thumbnail_width": 120,
+          "thumbnail_height": 161
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_19_cluster_86.jpg",
+          "cluster_id": 86,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_86",
+          "linked_bib": null,
+          "sharpness_score": 1222.94,
+          "thumbnail_width": 87,
+          "thumbnail_height": 118
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_34_cluster_92.jpg",
+          "cluster_id": 92,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_92",
+          "linked_bib": null,
+          "sharpness_score": 1157.59,
+          "thumbnail_width": 56,
+          "thumbnail_height": 86
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_29_cluster_11.jpg",
+          "cluster_id": 11,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_11",
+          "linked_bib": null,
+          "sharpness_score": 1116.81,
+          "thumbnail_width": 145,
+          "thumbnail_height": 167
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_2_cluster_39.jpg",
+          "cluster_id": 39,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_39",
+          "linked_bib": null,
+          "sharpness_score": 1044.27,
+          "thumbnail_width": 147,
+          "thumbnail_height": 193
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_13_cluster_81.jpg",
+          "cluster_id": 81,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_81",
+          "linked_bib": null,
+          "sharpness_score": 919.06,
+          "thumbnail_width": 71,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 880.06,
+          "thumbnail_width": 150,
+          "thumbnail_height": 216
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_4_cluster_20.jpg",
+          "cluster_id": 20,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_20",
+          "linked_bib": null,
+          "sharpness_score": 772.71,
+          "thumbnail_width": 155,
+          "thumbnail_height": 211
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_32_cluster_91.jpg",
+          "cluster_id": 91,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_91",
+          "linked_bib": null,
+          "sharpness_score": 764.7,
+          "thumbnail_width": 75,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_20_cluster_19.jpg",
+          "cluster_id": 19,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_19",
+          "linked_bib": null,
+          "sharpness_score": 548.81,
+          "thumbnail_width": 44,
+          "thumbnail_height": 55
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5150_face_24_cluster_88.jpg",
+          "cluster_id": 88,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_88",
+          "linked_bib": null,
+          "sharpness_score": 88.78,
+          "thumbnail_width": 50,
+          "thumbnail_height": 56
+        }
+      ]
+    },
+    "R7__5151": {
+      "filename": "R7__5151.jpg",
+      "title": "R7__5151",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_10_cluster_93.jpg",
+          "cluster_id": 93,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_93",
+          "linked_bib": null,
+          "sharpness_score": 3180.83,
+          "thumbnail_width": 82,
+          "thumbnail_height": 102
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_22_cluster_97.jpg",
+          "cluster_id": 97,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_97",
+          "linked_bib": null,
+          "sharpness_score": 2665.18,
+          "thumbnail_width": 53,
+          "thumbnail_height": 80
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_34_cluster_102.jpg",
+          "cluster_id": 102,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_102",
+          "linked_bib": null,
+          "sharpness_score": 2505.3,
+          "thumbnail_width": 59,
+          "thumbnail_height": 102
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_4_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 2249.62,
+          "thumbnail_width": 83,
+          "thumbnail_height": 96
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_8_cluster_12.jpg",
+          "cluster_id": 12,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_12",
+          "linked_bib": null,
+          "sharpness_score": 2186.52,
+          "thumbnail_width": 96,
+          "thumbnail_height": 135
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_17_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 2139.21,
+          "thumbnail_width": 70,
+          "thumbnail_height": 88
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_14_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_31",
+          "linked_bib": null,
+          "sharpness_score": 2085.87,
+          "thumbnail_width": 109,
+          "thumbnail_height": 129
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_26_cluster_21.jpg",
+          "cluster_id": 21,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_21",
+          "linked_bib": null,
+          "sharpness_score": 2074.76,
+          "thumbnail_width": 75,
+          "thumbnail_height": 93
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_15_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 2074.07,
+          "thumbnail_width": 102,
+          "thumbnail_height": 129
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_31_cluster_100.jpg",
+          "cluster_id": 100,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_100",
+          "linked_bib": null,
+          "sharpness_score": 2048.36,
+          "thumbnail_width": 72,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_19_cluster_92.jpg",
+          "cluster_id": 92,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_92",
+          "linked_bib": null,
+          "sharpness_score": 2044.32,
+          "thumbnail_width": 64,
+          "thumbnail_height": 72
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_29_cluster_99.jpg",
+          "cluster_id": 99,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_99",
+          "linked_bib": null,
+          "sharpness_score": 1974.66,
+          "thumbnail_width": 67,
+          "thumbnail_height": 77
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_27_cluster_78.jpg",
+          "cluster_id": 78,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_78",
+          "linked_bib": null,
+          "sharpness_score": 1924.17,
+          "thumbnail_width": 71,
+          "thumbnail_height": 80
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_33_cluster_101.jpg",
+          "cluster_id": 101,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_101",
+          "linked_bib": null,
+          "sharpness_score": 1765.24,
+          "thumbnail_width": 65,
+          "thumbnail_height": 65
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_6_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_2",
+          "linked_bib": null,
+          "sharpness_score": 1745.82,
+          "thumbnail_width": 114,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_25_cluster_98.jpg",
+          "cluster_id": 98,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_98",
+          "linked_bib": null,
+          "sharpness_score": 1714.66,
+          "thumbnail_width": 67,
+          "thumbnail_height": 86
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_11_cluster_46.jpg",
+          "cluster_id": 46,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_46",
+          "linked_bib": null,
+          "sharpness_score": 1674.2,
+          "thumbnail_width": 112,
+          "thumbnail_height": 147
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_35_cluster_103.jpg",
+          "cluster_id": 103,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_103",
+          "linked_bib": null,
+          "sharpness_score": 1621.77,
+          "thumbnail_width": 56,
+          "thumbnail_height": 71
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_13_cluster_79.jpg",
+          "cluster_id": 79,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_79",
+          "linked_bib": null,
+          "sharpness_score": 1564.16,
+          "thumbnail_width": 70,
+          "thumbnail_height": 92
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_2_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 1560.02,
+          "thumbnail_width": 75,
+          "thumbnail_height": 104
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_21_cluster_96.jpg",
+          "cluster_id": 96,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_96",
+          "linked_bib": null,
+          "sharpness_score": 1322.46,
+          "thumbnail_width": 61,
+          "thumbnail_height": 83
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_28_cluster_81.jpg",
+          "cluster_id": 81,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_81",
+          "linked_bib": null,
+          "sharpness_score": 1286.31,
+          "thumbnail_width": 67,
+          "thumbnail_height": 83
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_12_cluster_94.jpg",
+          "cluster_id": 94,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_94",
+          "linked_bib": null,
+          "sharpness_score": 1237.62,
+          "thumbnail_width": 72,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_30_cluster_90.jpg",
+          "cluster_id": 90,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_90",
+          "linked_bib": null,
+          "sharpness_score": 1212.87,
+          "thumbnail_width": 60,
+          "thumbnail_height": 76
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_18_cluster_9.jpg",
+          "cluster_id": 9,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_9",
+          "linked_bib": null,
+          "sharpness_score": 1174.93,
+          "thumbnail_width": 129,
+          "thumbnail_height": 160
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_16_cluster_40.jpg",
+          "cluster_id": 40,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_40",
+          "linked_bib": null,
+          "sharpness_score": 1149.24,
+          "thumbnail_width": 139,
+          "thumbnail_height": 163
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_5_cluster_11.jpg",
+          "cluster_id": 11,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_11",
+          "linked_bib": null,
+          "sharpness_score": 1097.39,
+          "thumbnail_width": 141,
+          "thumbnail_height": 188
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_9_cluster_33.jpg",
+          "cluster_id": 33,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_33",
+          "linked_bib": null,
+          "sharpness_score": 1095.39,
+          "thumbnail_width": 128,
+          "thumbnail_height": 156
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_20_cluster_95.jpg",
+          "cluster_id": 95,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_95",
+          "linked_bib": null,
+          "sharpness_score": 911.19,
+          "thumbnail_width": 91,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_7_cluster_24.jpg",
+          "cluster_id": 24,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_24",
+          "linked_bib": null,
+          "sharpness_score": 771.17,
+          "thumbnail_width": 155,
+          "thumbnail_height": 193
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_1",
+          "linked_bib": "37-A",
+          "sharpness_score": 546.24,
+          "thumbnail_width": 172,
+          "thumbnail_height": 241
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_3_cluster_20.jpg",
+          "cluster_id": 20,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_20",
+          "linked_bib": null,
+          "sharpness_score": 387.23,
+          "thumbnail_width": 171,
+          "thumbnail_height": 230
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5151_face_23_cluster_88.jpg",
+          "cluster_id": 88,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_88",
+          "linked_bib": null,
+          "sharpness_score": 94.64,
+          "thumbnail_width": 45,
+          "thumbnail_height": 59
+        }
+      ]
+    },
+    "R7__5152": {
+      "filename": "R7__5152.jpg",
+      "title": "R7__5152",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_15_cluster_93.jpg",
+          "cluster_id": 93,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_93",
+          "linked_bib": null,
+          "sharpness_score": 2461.58,
+          "thumbnail_width": 103,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_17_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 2215.56,
+          "thumbnail_width": 91,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_21_cluster_94.jpg",
+          "cluster_id": 94,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_94",
+          "linked_bib": null,
+          "sharpness_score": 2213.17,
+          "thumbnail_width": 83,
+          "thumbnail_height": 114
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_29_cluster_110.jpg",
+          "cluster_id": 110,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_110",
+          "linked_bib": null,
+          "sharpness_score": 2079.17,
+          "thumbnail_width": 44,
+          "thumbnail_height": 59
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_5_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 2051.53,
+          "thumbnail_width": 104,
+          "thumbnail_height": 125
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_30_cluster_99.jpg",
+          "cluster_id": 99,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_99",
+          "linked_bib": null,
+          "sharpness_score": 1950.45,
+          "thumbnail_width": 86,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_18_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 1801.58,
+          "thumbnail_width": 83,
+          "thumbnail_height": 103
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_27_cluster_12.jpg",
+          "cluster_id": 12,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_12",
+          "linked_bib": null,
+          "sharpness_score": 1764.21,
+          "thumbnail_width": 124,
+          "thumbnail_height": 144
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_28_cluster_109.jpg",
+          "cluster_id": 109,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_109",
+          "linked_bib": null,
+          "sharpness_score": 1722.81,
+          "thumbnail_width": 80,
+          "thumbnail_height": 81
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_12_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 1619.44,
+          "thumbnail_width": 114,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_16_cluster_107.jpg",
+          "cluster_id": 107,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_107",
+          "linked_bib": null,
+          "sharpness_score": 1605.28,
+          "thumbnail_width": 49,
+          "thumbnail_height": 59
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_8_cluster_104.jpg",
+          "cluster_id": 104,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_104",
+          "linked_bib": null,
+          "sharpness_score": 1461.08,
+          "thumbnail_width": 98,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_10_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 1360.34,
+          "thumbnail_width": 134,
+          "thumbnail_height": 166
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_33_cluster_85.jpg",
+          "cluster_id": 85,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_85",
+          "linked_bib": null,
+          "sharpness_score": 1326.41,
+          "thumbnail_width": 71,
+          "thumbnail_height": 102
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_3_cluster_18.jpg",
+          "cluster_id": 18,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_18",
+          "linked_bib": null,
+          "sharpness_score": 1319.69,
+          "thumbnail_width": 88,
+          "thumbnail_height": 119
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_31_cluster_111.jpg",
+          "cluster_id": 111,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_111",
+          "linked_bib": null,
+          "sharpness_score": 1298.67,
+          "thumbnail_width": 93,
+          "thumbnail_height": 146
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_11_cluster_105.jpg",
+          "cluster_id": 105,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_105",
+          "linked_bib": null,
+          "sharpness_score": 1281.87,
+          "thumbnail_width": 80,
+          "thumbnail_height": 87
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_26_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_31",
+          "linked_bib": null,
+          "sharpness_score": 1264.08,
+          "thumbnail_width": 150,
+          "thumbnail_height": 162
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_7_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 1242.38,
+          "thumbnail_width": 87,
+          "thumbnail_height": 124
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_1_cluster_78.jpg",
+          "cluster_id": 78,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_78",
+          "linked_bib": null,
+          "sharpness_score": 1213.45,
+          "thumbnail_width": 81,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_39_cluster_115.jpg",
+          "cluster_id": 115,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_115",
+          "linked_bib": null,
+          "sharpness_score": 1205.3,
+          "thumbnail_width": 98,
+          "thumbnail_height": 147
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_19_cluster_92.jpg",
+          "cluster_id": 92,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_92",
+          "linked_bib": null,
+          "sharpness_score": 1161.96,
+          "thumbnail_width": 75,
+          "thumbnail_height": 87
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_24_cluster_19.jpg",
+          "cluster_id": 19,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_19",
+          "linked_bib": null,
+          "sharpness_score": 1082.57,
+          "thumbnail_width": 44,
+          "thumbnail_height": 51
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_2_cluster_46.jpg",
+          "cluster_id": 46,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_46",
+          "linked_bib": null,
+          "sharpness_score": 1075.28,
+          "thumbnail_width": 150,
+          "thumbnail_height": 205
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_9_cluster_79.jpg",
+          "cluster_id": 79,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_79",
+          "linked_bib": null,
+          "sharpness_score": 967.29,
+          "thumbnail_width": 91,
+          "thumbnail_height": 113
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_20_cluster_81.jpg",
+          "cluster_id": 81,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_81",
+          "linked_bib": null,
+          "sharpness_score": 928.32,
+          "thumbnail_width": 87,
+          "thumbnail_height": 102
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_22_cluster_108.jpg",
+          "cluster_id": 108,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_108",
+          "linked_bib": null,
+          "sharpness_score": 815.73,
+          "thumbnail_width": 136,
+          "thumbnail_height": 182
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_35_cluster_113.jpg",
+          "cluster_id": 113,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_113",
+          "linked_bib": null,
+          "sharpness_score": 781.36,
+          "thumbnail_width": 72,
+          "thumbnail_height": 96
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_32_cluster_112.jpg",
+          "cluster_id": 112,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_112",
+          "linked_bib": null,
+          "sharpness_score": 757.2,
+          "thumbnail_width": 60,
+          "thumbnail_height": 70
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_36_cluster_90.jpg",
+          "cluster_id": 90,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_90",
+          "linked_bib": null,
+          "sharpness_score": 744.9,
+          "thumbnail_width": 75,
+          "thumbnail_height": 93
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_14_cluster_11.jpg",
+          "cluster_id": 11,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_11",
+          "linked_bib": null,
+          "sharpness_score": 650.64,
+          "thumbnail_width": 193,
+          "thumbnail_height": 263
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_13_cluster_106.jpg",
+          "cluster_id": 106,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_106",
+          "linked_bib": null,
+          "sharpness_score": 582.72,
+          "thumbnail_width": 48,
+          "thumbnail_height": 64
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_6_cluster_33.jpg",
+          "cluster_id": 33,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_33",
+          "linked_bib": null,
+          "sharpness_score": 525.38,
+          "thumbnail_width": 171,
+          "thumbnail_height": 210
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_4_cluster_40.jpg",
+          "cluster_id": 40,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_40",
+          "linked_bib": null,
+          "sharpness_score": 309.64,
+          "thumbnail_width": 178,
+          "thumbnail_height": 226
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_38_cluster_114.jpg",
+          "cluster_id": 114,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_114",
+          "linked_bib": null,
+          "sharpness_score": 178.19,
+          "thumbnail_width": 123,
+          "thumbnail_height": 176
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_23_cluster_88.jpg",
+          "cluster_id": 88,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_88",
+          "linked_bib": null,
+          "sharpness_score": 144.88,
+          "thumbnail_width": 54,
+          "thumbnail_height": 65
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5152_face_25_cluster_20.jpg",
+          "cluster_id": 20,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_20",
+          "linked_bib": null,
+          "sharpness_score": 50.08,
+          "thumbnail_width": 242,
+          "thumbnail_height": 337
+        }
+      ]
+    },
+    "R7__5154": {
+      "filename": "R7__5154.jpg",
+      "title": "R7__5154",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_13_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 1777.77,
+          "thumbnail_width": 140,
+          "thumbnail_height": 161
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_35_cluster_123.jpg",
+          "cluster_id": 123,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_123",
+          "linked_bib": null,
+          "sharpness_score": 1665.27,
+          "thumbnail_width": 72,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_9_cluster_90.jpg",
+          "cluster_id": 90,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_90",
+          "linked_bib": null,
+          "sharpness_score": 1655.1,
+          "thumbnail_width": 82,
+          "thumbnail_height": 109
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_18_cluster_119.jpg",
+          "cluster_id": 119,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_119",
+          "linked_bib": null,
+          "sharpness_score": 1482.96,
+          "thumbnail_width": 103,
+          "thumbnail_height": 120
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_37_cluster_98.jpg",
+          "cluster_id": 98,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_98",
+          "linked_bib": null,
+          "sharpness_score": 1416.33,
+          "thumbnail_width": 125,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_3_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 1257.16,
+          "thumbnail_width": 109,
+          "thumbnail_height": 141
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_20_cluster_21.jpg",
+          "cluster_id": 21,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_21",
+          "linked_bib": null,
+          "sharpness_score": 1176.97,
+          "thumbnail_width": 97,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_24_cluster_22.jpg",
+          "cluster_id": 22,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_22",
+          "linked_bib": null,
+          "sharpness_score": 1170.17,
+          "thumbnail_width": 152,
+          "thumbnail_height": 236
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_41_cluster_126.jpg",
+          "cluster_id": 126,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_126",
+          "linked_bib": null,
+          "sharpness_score": 1147.79,
+          "thumbnail_width": 88,
+          "thumbnail_height": 104
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_19_cluster_105.jpg",
+          "cluster_id": 105,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_105",
+          "linked_bib": null,
+          "sharpness_score": 1105.54,
+          "thumbnail_width": 96,
+          "thumbnail_height": 104
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_11_cluster_104.jpg",
+          "cluster_id": 104,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_104",
+          "linked_bib": null,
+          "sharpness_score": 1093.8,
+          "thumbnail_width": 103,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_7_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 1091.77,
+          "thumbnail_width": 112,
+          "thumbnail_height": 136
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_32_cluster_43.jpg",
+          "cluster_id": 43,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_43",
+          "linked_bib": null,
+          "sharpness_score": 1085.34,
+          "thumbnail_width": 139,
+          "thumbnail_height": 168
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_17_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 1082.03,
+          "thumbnail_width": 147,
+          "thumbnail_height": 179
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_10_cluster_117.jpg",
+          "cluster_id": 117,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_117",
+          "linked_bib": null,
+          "sharpness_score": 1045.96,
+          "thumbnail_width": 81,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_14_cluster_92.jpg",
+          "cluster_id": 92,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_92",
+          "linked_bib": null,
+          "sharpness_score": 1037.28,
+          "thumbnail_width": 80,
+          "thumbnail_height": 88
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_16_cluster_118.jpg",
+          "cluster_id": 118,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_118",
+          "linked_bib": null,
+          "sharpness_score": 1016.97,
+          "thumbnail_width": 88,
+          "thumbnail_height": 104
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_27_cluster_120.jpg",
+          "cluster_id": 120,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_120",
+          "linked_bib": null,
+          "sharpness_score": 966.61,
+          "thumbnail_width": 66,
+          "thumbnail_height": 103
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_36_cluster_124.jpg",
+          "cluster_id": 124,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_124",
+          "linked_bib": null,
+          "sharpness_score": 952.26,
+          "thumbnail_width": 96,
+          "thumbnail_height": 136
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_21_cluster_78.jpg",
+          "cluster_id": 78,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_78",
+          "linked_bib": null,
+          "sharpness_score": 911.09,
+          "thumbnail_width": 96,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_6_cluster_81.jpg",
+          "cluster_id": 81,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_81",
+          "linked_bib": null,
+          "sharpness_score": 877.26,
+          "thumbnail_width": 98,
+          "thumbnail_height": 145
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_2_cluster_116.jpg",
+          "cluster_id": 116,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_116",
+          "linked_bib": null,
+          "sharpness_score": 702.67,
+          "thumbnail_width": 93,
+          "thumbnail_height": 118
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_38_cluster_125.jpg",
+          "cluster_id": 125,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_125",
+          "linked_bib": null,
+          "sharpness_score": 696.19,
+          "thumbnail_width": 49,
+          "thumbnail_height": 59
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_8_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 651.48,
+          "thumbnail_width": 98,
+          "thumbnail_height": 129
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_12_cluster_58.jpg",
+          "cluster_id": 58,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_58",
+          "linked_bib": null,
+          "sharpness_score": 648.34,
+          "thumbnail_width": 67,
+          "thumbnail_height": 83
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_29_cluster_121.jpg",
+          "cluster_id": 121,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_121",
+          "linked_bib": null,
+          "sharpness_score": 593.79,
+          "thumbnail_width": 104,
+          "thumbnail_height": 125
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_26_cluster_91.jpg",
+          "cluster_id": 91,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_91",
+          "linked_bib": null,
+          "sharpness_score": 532.45,
+          "thumbnail_width": 125,
+          "thumbnail_height": 193
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_33_cluster_122.jpg",
+          "cluster_id": 122,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_122",
+          "linked_bib": null,
+          "sharpness_score": 509.63,
+          "thumbnail_width": 76,
+          "thumbnail_height": 112
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_4_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_31",
+          "linked_bib": null,
+          "sharpness_score": 505.6,
+          "thumbnail_width": 198,
+          "thumbnail_height": 246
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_1_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 497.52,
+          "thumbnail_width": 177,
+          "thumbnail_height": 225
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_25_cluster_107.jpg",
+          "cluster_id": 107,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_107",
+          "linked_bib": null,
+          "sharpness_score": 419.6,
+          "thumbnail_width": 50,
+          "thumbnail_height": 56
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_31_cluster_33.jpg",
+          "cluster_id": 33,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_33",
+          "linked_bib": null,
+          "sharpness_score": 376.74,
+          "thumbnail_width": 262,
+          "thumbnail_height": 328
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_22_cluster_19.jpg",
+          "cluster_id": 19,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_19",
+          "linked_bib": null,
+          "sharpness_score": 331.82,
+          "thumbnail_width": 48,
+          "thumbnail_height": 55
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_5_cluster_46.jpg",
+          "cluster_id": 46,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_46",
+          "linked_bib": null,
+          "sharpness_score": 319.54,
+          "thumbnail_width": 210,
+          "thumbnail_height": 269
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_15_cluster_40.jpg",
+          "cluster_id": 40,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_40",
+          "linked_bib": null,
+          "sharpness_score": 230.57,
+          "thumbnail_width": 290,
+          "thumbnail_height": 358
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5154_face_23_cluster_88.jpg",
+          "cluster_id": 88,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_88",
+          "linked_bib": null,
+          "sharpness_score": 92.41,
+          "thumbnail_width": 56,
+          "thumbnail_height": 67
+        }
+      ]
+    },
+    "R7__5156": {
+      "filename": "R7__5156.jpg",
+      "title": "R7__5156",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_35_cluster_136.jpg",
+          "cluster_id": 136,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_136",
+          "linked_bib": null,
+          "sharpness_score": 3609.65,
+          "thumbnail_width": 65,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_21_cluster_92.jpg",
+          "cluster_id": 92,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_92",
+          "linked_bib": null,
+          "sharpness_score": 2838.09,
+          "thumbnail_width": 70,
+          "thumbnail_height": 77
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_11_cluster_21.jpg",
+          "cluster_id": 21,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_21",
+          "linked_bib": null,
+          "sharpness_score": 2408.08,
+          "thumbnail_width": 107,
+          "thumbnail_height": 123
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_17_cluster_35.jpg",
+          "cluster_id": 35,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_35",
+          "linked_bib": null,
+          "sharpness_score": 2183.34,
+          "thumbnail_width": 87,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_42_cluster_139.jpg",
+          "cluster_id": 139,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_139",
+          "linked_bib": null,
+          "sharpness_score": 2182.2,
+          "thumbnail_width": 70,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_7_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 2105.4,
+          "thumbnail_width": 96,
+          "thumbnail_height": 131
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_34_cluster_135.jpg",
+          "cluster_id": 135,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_135",
+          "linked_bib": null,
+          "sharpness_score": 2080.44,
+          "thumbnail_width": 77,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_36_cluster_85.jpg",
+          "cluster_id": 85,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_85",
+          "linked_bib": null,
+          "sharpness_score": 2025.81,
+          "thumbnail_width": 56,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_1_cluster_83.jpg",
+          "cluster_id": 83,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_83",
+          "linked_bib": null,
+          "sharpness_score": 2021.78,
+          "thumbnail_width": 80,
+          "thumbnail_height": 96
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_9_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 1997.29,
+          "thumbnail_width": 102,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_12_cluster_104.jpg",
+          "cluster_id": 104,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_104",
+          "linked_bib": null,
+          "sharpness_score": 1958.42,
+          "thumbnail_width": 80,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_33_cluster_134.jpg",
+          "cluster_id": 134,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_134",
+          "linked_bib": null,
+          "sharpness_score": 1912.13,
+          "thumbnail_width": 80,
+          "thumbnail_height": 99
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_13_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 1908.86,
+          "thumbnail_width": 112,
+          "thumbnail_height": 141
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_4_cluster_127.jpg",
+          "cluster_id": 127,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_127",
+          "linked_bib": null,
+          "sharpness_score": 1856.56,
+          "thumbnail_width": 108,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_43_cluster_140.jpg",
+          "cluster_id": 140,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_140",
+          "linked_bib": null,
+          "sharpness_score": 1718.09,
+          "thumbnail_width": 50,
+          "thumbnail_height": 72
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_29_cluster_133.jpg",
+          "cluster_id": 133,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_133",
+          "linked_bib": null,
+          "sharpness_score": 1692.59,
+          "thumbnail_width": 91,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_16_cluster_119.jpg",
+          "cluster_id": 119,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_119",
+          "linked_bib": null,
+          "sharpness_score": 1672.03,
+          "thumbnail_width": 97,
+          "thumbnail_height": 119
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_23_cluster_99.jpg",
+          "cluster_id": 99,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_99",
+          "linked_bib": null,
+          "sharpness_score": 1591.15,
+          "thumbnail_width": 98,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_22_cluster_130.jpg",
+          "cluster_id": 130,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_130",
+          "linked_bib": null,
+          "sharpness_score": 1522.47,
+          "thumbnail_width": 98,
+          "thumbnail_height": 92
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_6_cluster_118.jpg",
+          "cluster_id": 118,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_118",
+          "linked_bib": null,
+          "sharpness_score": 1421.89,
+          "thumbnail_width": 80,
+          "thumbnail_height": 91
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_10_cluster_128.jpg",
+          "cluster_id": 128,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_128",
+          "linked_bib": null,
+          "sharpness_score": 1362.94,
+          "thumbnail_width": 103,
+          "thumbnail_height": 119
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_28_cluster_132.jpg",
+          "cluster_id": 132,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_132",
+          "linked_bib": null,
+          "sharpness_score": 1307.41,
+          "thumbnail_width": 96,
+          "thumbnail_height": 118
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_27_cluster_131.jpg",
+          "cluster_id": 131,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_131",
+          "linked_bib": null,
+          "sharpness_score": 1260.88,
+          "thumbnail_width": 93,
+          "thumbnail_height": 128
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_15_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 1172.45,
+          "thumbnail_width": 88,
+          "thumbnail_height": 119
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_18_cluster_129.jpg",
+          "cluster_id": 129,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_129",
+          "linked_bib": null,
+          "sharpness_score": 1170.88,
+          "thumbnail_width": 76,
+          "thumbnail_height": 99
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_37_cluster_137.jpg",
+          "cluster_id": 137,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_137",
+          "linked_bib": null,
+          "sharpness_score": 1167.37,
+          "thumbnail_width": 77,
+          "thumbnail_height": 92
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_40_cluster_138.jpg",
+          "cluster_id": 138,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_138",
+          "linked_bib": null,
+          "sharpness_score": 1039.44,
+          "thumbnail_width": 59,
+          "thumbnail_height": 72
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_31_cluster_58.jpg",
+          "cluster_id": 58,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_58",
+          "linked_bib": null,
+          "sharpness_score": 1025.29,
+          "thumbnail_width": 48,
+          "thumbnail_height": 64
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_5_cluster_79.jpg",
+          "cluster_id": 79,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_79",
+          "linked_bib": null,
+          "sharpness_score": 992.48,
+          "thumbnail_width": 91,
+          "thumbnail_height": 113
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_2_cluster_116.jpg",
+          "cluster_id": 116,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_116",
+          "linked_bib": null,
+          "sharpness_score": 921.76,
+          "thumbnail_width": 86,
+          "thumbnail_height": 103
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_30_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 896.48,
+          "thumbnail_width": 134,
+          "thumbnail_height": 162
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_26_cluster_100.jpg",
+          "cluster_id": 100,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_100",
+          "linked_bib": null,
+          "sharpness_score": 827.94,
+          "thumbnail_width": 109,
+          "thumbnail_height": 162
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_8_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 677.76,
+          "thumbnail_width": 150,
+          "thumbnail_height": 176
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_19_cluster_22.jpg",
+          "cluster_id": 22,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_22",
+          "linked_bib": null,
+          "sharpness_score": 488.17,
+          "thumbnail_width": 167,
+          "thumbnail_height": 204
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_3_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 290.16,
+          "thumbnail_width": 200,
+          "thumbnail_height": 256
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_24_cluster_94.jpg",
+          "cluster_id": 94,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_94",
+          "linked_bib": null,
+          "sharpness_score": 288.91,
+          "thumbnail_width": 134,
+          "thumbnail_height": 163
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_14_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_31",
+          "linked_bib": null,
+          "sharpness_score": 264.66,
+          "thumbnail_width": 232,
+          "thumbnail_height": 290
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_41_cluster_88.jpg",
+          "cluster_id": 88,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_88",
+          "linked_bib": null,
+          "sharpness_score": 190.32,
+          "thumbnail_width": 48,
+          "thumbnail_height": 61
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5156_face_20_cluster_33.jpg",
+          "cluster_id": 33,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_33",
+          "linked_bib": null,
+          "sharpness_score": 172.67,
+          "thumbnail_width": 360,
+          "thumbnail_height": 451
+        }
+      ]
+    },
+    "R7__5157": {
+      "filename": "R7__5157.jpg",
+      "title": "R7__5157",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_20_cluster_136.jpg",
+          "cluster_id": 136,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_136",
+          "linked_bib": null,
+          "sharpness_score": 3065.55,
+          "thumbnail_width": 76,
+          "thumbnail_height": 112
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_26_cluster_144.jpg",
+          "cluster_id": 144,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_144",
+          "linked_bib": null,
+          "sharpness_score": 3065.11,
+          "thumbnail_width": 76,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_18_cluster_142.jpg",
+          "cluster_id": 142,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_142",
+          "linked_bib": null,
+          "sharpness_score": 2671.28,
+          "thumbnail_width": 70,
+          "thumbnail_height": 86
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_11_cluster_135.jpg",
+          "cluster_id": 135,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_135",
+          "linked_bib": null,
+          "sharpness_score": 2657.92,
+          "thumbnail_width": 77,
+          "thumbnail_height": 125
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_19_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 2608.89,
+          "thumbnail_width": 87,
+          "thumbnail_height": 136
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_36_cluster_126.jpg",
+          "cluster_id": 126,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_126",
+          "linked_bib": null,
+          "sharpness_score": 2552.69,
+          "thumbnail_width": 66,
+          "thumbnail_height": 83
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_35_cluster_148.jpg",
+          "cluster_id": 148,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_148",
+          "linked_bib": null,
+          "sharpness_score": 2191.15,
+          "thumbnail_width": 45,
+          "thumbnail_height": 86
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_14_cluster_132.jpg",
+          "cluster_id": 132,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_132",
+          "linked_bib": null,
+          "sharpness_score": 2090.1,
+          "thumbnail_width": 99,
+          "thumbnail_height": 135
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_12_cluster_41.jpg",
+          "cluster_id": 41,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_41",
+          "linked_bib": null,
+          "sharpness_score": 2073.05,
+          "thumbnail_width": 107,
+          "thumbnail_height": 125
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_31_cluster_139.jpg",
+          "cluster_id": 139,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_139",
+          "linked_bib": null,
+          "sharpness_score": 1941.73,
+          "thumbnail_width": 59,
+          "thumbnail_height": 77
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_37_cluster_126.jpg",
+          "cluster_id": 126,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_126",
+          "linked_bib": null,
+          "sharpness_score": 1932.26,
+          "thumbnail_width": 54,
+          "thumbnail_height": 64
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_9_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 1902.54,
+          "thumbnail_width": 109,
+          "thumbnail_height": 141
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_25_cluster_92.jpg",
+          "cluster_id": 92,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_92",
+          "linked_bib": null,
+          "sharpness_score": 1721.13,
+          "thumbnail_width": 50,
+          "thumbnail_height": 77
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_22_cluster_143.jpg",
+          "cluster_id": 143,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_143",
+          "linked_bib": null,
+          "sharpness_score": 1701.72,
+          "thumbnail_width": 103,
+          "thumbnail_height": 123
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_23_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 1668.75,
+          "thumbnail_width": 123,
+          "thumbnail_height": 155
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_15_cluster_81.jpg",
+          "cluster_id": 81,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_81",
+          "linked_bib": null,
+          "sharpness_score": 1667.83,
+          "thumbnail_width": 99,
+          "thumbnail_height": 144
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_17_cluster_129.jpg",
+          "cluster_id": 129,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_129",
+          "linked_bib": null,
+          "sharpness_score": 1471.48,
+          "thumbnail_width": 86,
+          "thumbnail_height": 113
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_34_cluster_147.jpg",
+          "cluster_id": 147,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_147",
+          "linked_bib": null,
+          "sharpness_score": 1470.27,
+          "thumbnail_width": 71,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_16_cluster_78.jpg",
+          "cluster_id": 78,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_78",
+          "linked_bib": null,
+          "sharpness_score": 1342.47,
+          "thumbnail_width": 93,
+          "thumbnail_height": 114
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_5_cluster_79.jpg",
+          "cluster_id": 79,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_79",
+          "linked_bib": null,
+          "sharpness_score": 1303.19,
+          "thumbnail_width": 99,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_3_cluster_128.jpg",
+          "cluster_id": 128,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_128",
+          "linked_bib": null,
+          "sharpness_score": 1208.18,
+          "thumbnail_width": 115,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_7_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 1168.86,
+          "thumbnail_width": 93,
+          "thumbnail_height": 125
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_6_cluster_118.jpg",
+          "cluster_id": 118,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_118",
+          "linked_bib": null,
+          "sharpness_score": 1161.75,
+          "thumbnail_width": 80,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_10_cluster_22.jpg",
+          "cluster_id": 22,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_22",
+          "linked_bib": null,
+          "sharpness_score": 834.87,
+          "thumbnail_width": 204,
+          "thumbnail_height": 290
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_27_cluster_145.jpg",
+          "cluster_id": 145,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_145",
+          "linked_bib": null,
+          "sharpness_score": 810.67,
+          "thumbnail_width": 97,
+          "thumbnail_height": 104
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_4_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 715.4,
+          "thumbnail_width": 144,
+          "thumbnail_height": 177
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_8_cluster_94.jpg",
+          "cluster_id": 94,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_94",
+          "linked_bib": null,
+          "sharpness_score": 583.68,
+          "thumbnail_width": 162,
+          "thumbnail_height": 193
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_21_cluster_93.jpg",
+          "cluster_id": 93,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_93",
+          "linked_bib": null,
+          "sharpness_score": 511.91,
+          "thumbnail_width": 168,
+          "thumbnail_height": 203
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_2_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 440.39,
+          "thumbnail_width": 183,
+          "thumbnail_height": 208
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_1_cluster_141.jpg",
+          "cluster_id": 141,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_141",
+          "linked_bib": null,
+          "sharpness_score": 438.88,
+          "thumbnail_width": 187,
+          "thumbnail_height": 248
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_29_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_31",
+          "linked_bib": null,
+          "sharpness_score": 412.92,
+          "thumbnail_width": 290,
+          "thumbnail_height": 328
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_33_cluster_146.jpg",
+          "cluster_id": 146,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_146",
+          "linked_bib": null,
+          "sharpness_score": 305.28,
+          "thumbnail_width": 115,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_30_cluster_88.jpg",
+          "cluster_id": 88,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_88",
+          "linked_bib": null,
+          "sharpness_score": 191.1,
+          "thumbnail_width": 48,
+          "thumbnail_height": 56
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5157_face_13_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 35.8,
+          "thumbnail_width": 241,
+          "thumbnail_height": 315
+        }
+      ]
+    },
+    "R7__5158": {
+      "filename": "R7__5158.jpg",
+      "title": "R7__5158",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_28_cluster_135.jpg",
+          "cluster_id": 135,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_135",
+          "linked_bib": null,
+          "sharpness_score": 3821.97,
+          "thumbnail_width": 65,
+          "thumbnail_height": 103
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_30_cluster_151.jpg",
+          "cluster_id": 151,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_151",
+          "linked_bib": null,
+          "sharpness_score": 2808.69,
+          "thumbnail_width": 54,
+          "thumbnail_height": 72
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_23_cluster_150.jpg",
+          "cluster_id": 150,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_150",
+          "linked_bib": null,
+          "sharpness_score": 2667.42,
+          "thumbnail_width": 97,
+          "thumbnail_height": 103
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_17_cluster_149.jpg",
+          "cluster_id": 149,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_149",
+          "linked_bib": null,
+          "sharpness_score": 2522.18,
+          "thumbnail_width": 96,
+          "thumbnail_height": 124
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_9_cluster_35.jpg",
+          "cluster_id": 35,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_35",
+          "linked_bib": null,
+          "sharpness_score": 2234.17,
+          "thumbnail_width": 107,
+          "thumbnail_height": 114
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_11_cluster_99.jpg",
+          "cluster_id": 99,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_99",
+          "linked_bib": null,
+          "sharpness_score": 2108.33,
+          "thumbnail_width": 108,
+          "thumbnail_height": 131
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_33_cluster_139.jpg",
+          "cluster_id": 139,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_139",
+          "linked_bib": null,
+          "sharpness_score": 1837.21,
+          "thumbnail_width": 61,
+          "thumbnail_height": 96
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_12_cluster_78.jpg",
+          "cluster_id": 78,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_78",
+          "linked_bib": null,
+          "sharpness_score": 1770.29,
+          "thumbnail_width": 97,
+          "thumbnail_height": 124
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_22_cluster_92.jpg",
+          "cluster_id": 92,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_92",
+          "linked_bib": null,
+          "sharpness_score": 1769.59,
+          "thumbnail_width": 50,
+          "thumbnail_height": 82
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_13_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 1503.36,
+          "thumbnail_width": 112,
+          "thumbnail_height": 156
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_3_cluster_79.jpg",
+          "cluster_id": 79,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_79",
+          "linked_bib": null,
+          "sharpness_score": 1441.79,
+          "thumbnail_width": 107,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_14_cluster_132.jpg",
+          "cluster_id": 132,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_132",
+          "linked_bib": null,
+          "sharpness_score": 1421.41,
+          "thumbnail_width": 113,
+          "thumbnail_height": 146
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_19_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 1385.47,
+          "thumbnail_width": 125,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_10_cluster_118.jpg",
+          "cluster_id": 118,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_118",
+          "linked_bib": null,
+          "sharpness_score": 1326.71,
+          "thumbnail_width": 83,
+          "thumbnail_height": 103
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_6_cluster_116.jpg",
+          "cluster_id": 116,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_116",
+          "linked_bib": null,
+          "sharpness_score": 1218.01,
+          "thumbnail_width": 86,
+          "thumbnail_height": 118
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_31_cluster_152.jpg",
+          "cluster_id": 152,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_152",
+          "linked_bib": null,
+          "sharpness_score": 1173.95,
+          "thumbnail_width": 51,
+          "thumbnail_height": 61
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_15_cluster_41.jpg",
+          "cluster_id": 41,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_41",
+          "linked_bib": null,
+          "sharpness_score": 1059.71,
+          "thumbnail_width": 120,
+          "thumbnail_height": 166
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_8_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 1051.59,
+          "thumbnail_width": 102,
+          "thumbnail_height": 146
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_4_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 893.87,
+          "thumbnail_width": 140,
+          "thumbnail_height": 179
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_18_cluster_119.jpg",
+          "cluster_id": 119,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_119",
+          "linked_bib": null,
+          "sharpness_score": 819.43,
+          "thumbnail_width": 115,
+          "thumbnail_height": 139
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_24_cluster_81.jpg",
+          "cluster_id": 81,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_81",
+          "linked_bib": null,
+          "sharpness_score": 801.19,
+          "thumbnail_width": 104,
+          "thumbnail_height": 145
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_16_cluster_128.jpg",
+          "cluster_id": 128,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_128",
+          "linked_bib": null,
+          "sharpness_score": 754.47,
+          "thumbnail_width": 134,
+          "thumbnail_height": 160
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_5_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 521.16,
+          "thumbnail_width": 230,
+          "thumbnail_height": 264
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_7_cluster_22.jpg",
+          "cluster_id": 22,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_22",
+          "linked_bib": null,
+          "sharpness_score": 425.6,
+          "thumbnail_width": 225,
+          "thumbnail_height": 390
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_2_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 296.41,
+          "thumbnail_width": 178,
+          "thumbnail_height": 221
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_32_cluster_124.jpg",
+          "cluster_id": 124,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_124",
+          "linked_bib": null,
+          "sharpness_score": 251.59,
+          "thumbnail_width": 99,
+          "thumbnail_height": 152
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5158_face_1_cluster_94.jpg",
+          "cluster_id": 94,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_94",
+          "linked_bib": null,
+          "sharpness_score": 250.32,
+          "thumbnail_width": 192,
+          "thumbnail_height": 226
+        }
+      ]
+    },
+    "R7__5160": {
+      "filename": "R7__5160.jpg",
+      "title": "R7__5160",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_30_cluster_151.jpg",
+          "cluster_id": 151,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_151",
+          "linked_bib": null,
+          "sharpness_score": 2773.07,
+          "thumbnail_width": 55,
+          "thumbnail_height": 82
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_13_cluster_153.jpg",
+          "cluster_id": 153,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_153",
+          "linked_bib": null,
+          "sharpness_score": 2168.29,
+          "thumbnail_width": 96,
+          "thumbnail_height": 103
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_31_cluster_138.jpg",
+          "cluster_id": 138,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_138",
+          "linked_bib": null,
+          "sharpness_score": 1932.38,
+          "thumbnail_width": 107,
+          "thumbnail_height": 109
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_33_cluster_159.jpg",
+          "cluster_id": 159,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_159",
+          "linked_bib": null,
+          "sharpness_score": 1887.55,
+          "thumbnail_width": 56,
+          "thumbnail_height": 70
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_7_cluster_142.jpg",
+          "cluster_id": 142,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_142",
+          "linked_bib": null,
+          "sharpness_score": 1797.26,
+          "thumbnail_width": 86,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_21_cluster_78.jpg",
+          "cluster_id": 78,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_78",
+          "linked_bib": null,
+          "sharpness_score": 1787.23,
+          "thumbnail_width": 93,
+          "thumbnail_height": 147
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_23_cluster_154.jpg",
+          "cluster_id": 154,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_154",
+          "linked_bib": null,
+          "sharpness_score": 1746.16,
+          "thumbnail_width": 82,
+          "thumbnail_height": 124
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_15_cluster_35.jpg",
+          "cluster_id": 35,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_35",
+          "linked_bib": null,
+          "sharpness_score": 1723.21,
+          "thumbnail_width": 125,
+          "thumbnail_height": 134
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_36_cluster_161.jpg",
+          "cluster_id": 161,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_161",
+          "linked_bib": null,
+          "sharpness_score": 1619.72,
+          "thumbnail_width": 54,
+          "thumbnail_height": 67
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_16_cluster_149.jpg",
+          "cluster_id": 149,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_149",
+          "linked_bib": null,
+          "sharpness_score": 1499.1,
+          "thumbnail_width": 107,
+          "thumbnail_height": 144
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_17_cluster_132.jpg",
+          "cluster_id": 132,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_132",
+          "linked_bib": null,
+          "sharpness_score": 1427.71,
+          "thumbnail_width": 131,
+          "thumbnail_height": 183
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_29_cluster_158.jpg",
+          "cluster_id": 158,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_158",
+          "linked_bib": null,
+          "sharpness_score": 1360.45,
+          "thumbnail_width": 75,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_28_cluster_157.jpg",
+          "cluster_id": 157,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_157",
+          "linked_bib": null,
+          "sharpness_score": 1357.18,
+          "thumbnail_width": 55,
+          "thumbnail_height": 86
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_19_cluster_129.jpg",
+          "cluster_id": 129,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_129",
+          "linked_bib": null,
+          "sharpness_score": 1322.16,
+          "thumbnail_width": 115,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_24_cluster_155.jpg",
+          "cluster_id": 155,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_155",
+          "linked_bib": null,
+          "sharpness_score": 1321.77,
+          "thumbnail_width": 61,
+          "thumbnail_height": 72
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_6_cluster_90.jpg",
+          "cluster_id": 90,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_90",
+          "linked_bib": null,
+          "sharpness_score": 1280.54,
+          "thumbnail_width": 82,
+          "thumbnail_height": 103
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_25_cluster_147.jpg",
+          "cluster_id": 147,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_147",
+          "linked_bib": null,
+          "sharpness_score": 1209.97,
+          "thumbnail_width": 66,
+          "thumbnail_height": 96
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_9_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 1168.03,
+          "thumbnail_width": 128,
+          "thumbnail_height": 176
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_26_cluster_156.jpg",
+          "cluster_id": 156,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_156",
+          "linked_bib": null,
+          "sharpness_score": 1140.58,
+          "thumbnail_width": 72,
+          "thumbnail_height": 92
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_11_cluster_99.jpg",
+          "cluster_id": 99,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_99",
+          "linked_bib": null,
+          "sharpness_score": 1012.96,
+          "thumbnail_width": 139,
+          "thumbnail_height": 163
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_8_cluster_118.jpg",
+          "cluster_id": 118,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_118",
+          "linked_bib": null,
+          "sharpness_score": 956.84,
+          "thumbnail_width": 99,
+          "thumbnail_height": 115
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_18_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 897.96,
+          "thumbnail_width": 120,
+          "thumbnail_height": 161
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_20_cluster_81.jpg",
+          "cluster_id": 81,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_81",
+          "linked_bib": null,
+          "sharpness_score": 818.81,
+          "thumbnail_width": 130,
+          "thumbnail_height": 172
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_10_cluster_79.jpg",
+          "cluster_id": 79,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_79",
+          "linked_bib": null,
+          "sharpness_score": 691.76,
+          "thumbnail_width": 123,
+          "thumbnail_height": 135
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_34_cluster_160.jpg",
+          "cluster_id": 160,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_160",
+          "linked_bib": null,
+          "sharpness_score": 664.12,
+          "thumbnail_width": 118,
+          "thumbnail_height": 168
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_2_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 575.07,
+          "thumbnail_width": 160,
+          "thumbnail_height": 210
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_14_cluster_143.jpg",
+          "cluster_id": 143,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_143",
+          "linked_bib": null,
+          "sharpness_score": 472.18,
+          "thumbnail_width": 166,
+          "thumbnail_height": 192
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_3_cluster_41.jpg",
+          "cluster_id": 41,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_41",
+          "linked_bib": null,
+          "sharpness_score": 460.64,
+          "thumbnail_width": 157,
+          "thumbnail_height": 200
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_12_cluster_119.jpg",
+          "cluster_id": 119,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_119",
+          "linked_bib": null,
+          "sharpness_score": 455.29,
+          "thumbnail_width": 147,
+          "thumbnail_height": 171
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_4_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 265.08,
+          "thumbnail_width": 187,
+          "thumbnail_height": 240
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_1_cluster_128.jpg",
+          "cluster_id": 128,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_128",
+          "linked_bib": null,
+          "sharpness_score": 110.98,
+          "thumbnail_width": 178,
+          "thumbnail_height": 208
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_5_cluster_146.jpg",
+          "cluster_id": 146,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_146",
+          "linked_bib": null,
+          "sharpness_score": 50.46,
+          "thumbnail_width": 193,
+          "thumbnail_height": 243
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5160_face_22_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 29.76,
+          "thumbnail_width": 256,
+          "thumbnail_height": 315
+        }
+      ]
+    },
+    "R7__5164": {
+      "filename": "R7__5164.jpg",
+      "title": "R7__5164",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_12_cluster_142.jpg",
+          "cluster_id": 142,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_142",
+          "linked_bib": null,
+          "sharpness_score": 2693.45,
+          "thumbnail_width": 102,
+          "thumbnail_height": 113
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_10_cluster_82.jpg",
+          "cluster_id": 82,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_82",
+          "linked_bib": null,
+          "sharpness_score": 2563.36,
+          "thumbnail_width": 76,
+          "thumbnail_height": 91
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_24_cluster_136.jpg",
+          "cluster_id": 136,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_136",
+          "linked_bib": null,
+          "sharpness_score": 2516.9,
+          "thumbnail_width": 65,
+          "thumbnail_height": 91
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_15_cluster_166.jpg",
+          "cluster_id": 166,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_166",
+          "linked_bib": null,
+          "sharpness_score": 2429.13,
+          "thumbnail_width": 82,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_21_cluster_168.jpg",
+          "cluster_id": 168,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_168",
+          "linked_bib": null,
+          "sharpness_score": 2249.22,
+          "thumbnail_width": 61,
+          "thumbnail_height": 97
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_25_cluster_169.jpg",
+          "cluster_id": 169,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_169",
+          "linked_bib": null,
+          "sharpness_score": 1931.69,
+          "thumbnail_width": 48,
+          "thumbnail_height": 67
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_11_cluster_118.jpg",
+          "cluster_id": 118,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_118",
+          "linked_bib": null,
+          "sharpness_score": 1893.13,
+          "thumbnail_width": 135,
+          "thumbnail_height": 156
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_9_cluster_164.jpg",
+          "cluster_id": 164,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_164",
+          "linked_bib": null,
+          "sharpness_score": 1605.22,
+          "thumbnail_width": 136,
+          "thumbnail_height": 176
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_6_cluster_163.jpg",
+          "cluster_id": 163,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_163",
+          "linked_bib": null,
+          "sharpness_score": 1430.21,
+          "thumbnail_width": 115,
+          "thumbnail_height": 150
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_8_cluster_90.jpg",
+          "cluster_id": 90,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_90",
+          "linked_bib": null,
+          "sharpness_score": 1316.66,
+          "thumbnail_width": 104,
+          "thumbnail_height": 130
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_14_cluster_165.jpg",
+          "cluster_id": 165,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_165",
+          "linked_bib": null,
+          "sharpness_score": 1082.74,
+          "thumbnail_width": 70,
+          "thumbnail_height": 82
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_22_cluster_158.jpg",
+          "cluster_id": 158,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_158",
+          "linked_bib": null,
+          "sharpness_score": 960.17,
+          "thumbnail_width": 76,
+          "thumbnail_height": 102
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_18_cluster_92.jpg",
+          "cluster_id": 92,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_92",
+          "linked_bib": null,
+          "sharpness_score": 878.18,
+          "thumbnail_width": 56,
+          "thumbnail_height": 77
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_5_cluster_162.jpg",
+          "cluster_id": 162,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_162",
+          "linked_bib": null,
+          "sharpness_score": 760.03,
+          "thumbnail_width": 86,
+          "thumbnail_height": 112
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_1_cluster_116.jpg",
+          "cluster_id": 116,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_116",
+          "linked_bib": null,
+          "sharpness_score": 739.5,
+          "thumbnail_width": 168,
+          "thumbnail_height": 215
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_16_cluster_15.jpg",
+          "cluster_id": 15,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_15",
+          "linked_bib": null,
+          "sharpness_score": 660.88,
+          "thumbnail_width": 56,
+          "thumbnail_height": 82
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_20_cluster_167.jpg",
+          "cluster_id": 167,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_167",
+          "linked_bib": null,
+          "sharpness_score": 611.64,
+          "thumbnail_width": 130,
+          "thumbnail_height": 173
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_4_cluster_79.jpg",
+          "cluster_id": 79,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_79",
+          "linked_bib": null,
+          "sharpness_score": 529.77,
+          "thumbnail_width": 193,
+          "thumbnail_height": 246
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_13_cluster_58.jpg",
+          "cluster_id": 58,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_58",
+          "linked_bib": null,
+          "sharpness_score": 385.59,
+          "thumbnail_width": 49,
+          "thumbnail_height": 65
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_7_cluster_149.jpg",
+          "cluster_id": 149,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_149",
+          "linked_bib": null,
+          "sharpness_score": 309.42,
+          "thumbnail_width": 160,
+          "thumbnail_height": 210
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_3_cluster_80.jpg",
+          "cluster_id": 80,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_80",
+          "linked_bib": null,
+          "sharpness_score": 260.21,
+          "thumbnail_width": 220,
+          "thumbnail_height": 311
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_2_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 97.91,
+          "thumbnail_width": 195,
+          "thumbnail_height": 258
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5164_face_17_cluster_48.jpg",
+          "cluster_id": 48,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_48",
+          "linked_bib": null,
+          "sharpness_score": 96.64,
+          "thumbnail_width": 381,
+          "thumbnail_height": 499
+        }
+      ]
+    },
+    "R7__5168": {
+      "filename": "R7__5168.jpg",
+      "title": "R7__5168",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_14_cluster_82.jpg",
+          "cluster_id": 82,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_82",
+          "linked_bib": null,
+          "sharpness_score": 3022.67,
+          "thumbnail_width": 72,
+          "thumbnail_height": 96
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_12_cluster_153.jpg",
+          "cluster_id": 153,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_153",
+          "linked_bib": null,
+          "sharpness_score": 2031.17,
+          "thumbnail_width": 104,
+          "thumbnail_height": 108
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_22_cluster_175.jpg",
+          "cluster_id": 175,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_175",
+          "linked_bib": null,
+          "sharpness_score": 1996.43,
+          "thumbnail_width": 93,
+          "thumbnail_height": 156
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_15_cluster_172.jpg",
+          "cluster_id": 172,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_172",
+          "linked_bib": null,
+          "sharpness_score": 1711.56,
+          "thumbnail_width": 67,
+          "thumbnail_height": 113
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_3_cluster_83.jpg",
+          "cluster_id": 83,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_83",
+          "linked_bib": null,
+          "sharpness_score": 1406.66,
+          "thumbnail_width": 82,
+          "thumbnail_height": 98
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_17_cluster_162.jpg",
+          "cluster_id": 162,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_162",
+          "linked_bib": null,
+          "sharpness_score": 1343.72,
+          "thumbnail_width": 119,
+          "thumbnail_height": 144
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_21_cluster_174.jpg",
+          "cluster_id": 174,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_174",
+          "linked_bib": null,
+          "sharpness_score": 1323.39,
+          "thumbnail_width": 59,
+          "thumbnail_height": 70
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_16_cluster_142.jpg",
+          "cluster_id": 142,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_142",
+          "linked_bib": null,
+          "sharpness_score": 1173.25,
+          "thumbnail_width": 145,
+          "thumbnail_height": 171
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_11_cluster_85.jpg",
+          "cluster_id": 85,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_85",
+          "linked_bib": null,
+          "sharpness_score": 1087.2,
+          "thumbnail_width": 71,
+          "thumbnail_height": 107
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_7_cluster_90.jpg",
+          "cluster_id": 90,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_90",
+          "linked_bib": null,
+          "sharpness_score": 952.32,
+          "thumbnail_width": 152,
+          "thumbnail_height": 204
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_25_cluster_148.jpg",
+          "cluster_id": 148,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_148",
+          "linked_bib": null,
+          "sharpness_score": 783.59,
+          "thumbnail_width": 50,
+          "thumbnail_height": 88
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_23_cluster_176.jpg",
+          "cluster_id": 176,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_176",
+          "linked_bib": null,
+          "sharpness_score": 771.61,
+          "thumbnail_width": 120,
+          "thumbnail_height": 141
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_5_cluster_15.jpg",
+          "cluster_id": 15,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_15",
+          "linked_bib": null,
+          "sharpness_score": 752.74,
+          "thumbnail_width": 71,
+          "thumbnail_height": 96
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_6_cluster_170.jpg",
+          "cluster_id": 170,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_170",
+          "linked_bib": null,
+          "sharpness_score": 723.41,
+          "thumbnail_width": 147,
+          "thumbnail_height": 178
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_9_cluster_155.jpg",
+          "cluster_id": 155,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_155",
+          "linked_bib": null,
+          "sharpness_score": 516.51,
+          "thumbnail_width": 67,
+          "thumbnail_height": 86
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_2_cluster_118.jpg",
+          "cluster_id": 118,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_118",
+          "linked_bib": null,
+          "sharpness_score": 503.95,
+          "thumbnail_width": 230,
+          "thumbnail_height": 275
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_4_cluster_163.jpg",
+          "cluster_id": 163,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_163",
+          "linked_bib": null,
+          "sharpness_score": 501.19,
+          "thumbnail_width": 183,
+          "thumbnail_height": 236
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_19_cluster_173.jpg",
+          "cluster_id": 173,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_173",
+          "linked_bib": null,
+          "sharpness_score": 452.58,
+          "thumbnail_width": 44,
+          "thumbnail_height": 51
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_10_cluster_171.jpg",
+          "cluster_id": 171,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_171",
+          "linked_bib": null,
+          "sharpness_score": 431.4,
+          "thumbnail_width": 145,
+          "thumbnail_height": 219
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_13_cluster_58.jpg",
+          "cluster_id": 58,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_58",
+          "linked_bib": null,
+          "sharpness_score": 375.13,
+          "thumbnail_width": 59,
+          "thumbnail_height": 70
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_8_cluster_164.jpg",
+          "cluster_id": 164,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_164",
+          "linked_bib": null,
+          "sharpness_score": 280.55,
+          "thumbnail_width": 214,
+          "thumbnail_height": 285
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_1_cluster_120.jpg",
+          "cluster_id": 120,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_120",
+          "linked_bib": null,
+          "sharpness_score": 260.77,
+          "thumbnail_width": 176,
+          "thumbnail_height": 230
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_20_cluster_88.jpg",
+          "cluster_id": 88,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_88",
+          "linked_bib": null,
+          "sharpness_score": 49.21,
+          "thumbnail_width": 44,
+          "thumbnail_height": 59
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5168_face_26_cluster_138.jpg",
+          "cluster_id": 138,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_138",
+          "linked_bib": null,
+          "sharpness_score": 23.04,
+          "thumbnail_width": 207,
+          "thumbnail_height": 397
+        }
+      ]
+    },
+    "R7__5171": {
+      "filename": "R7__5171.jpg",
+      "title": "R7__5171",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_13_cluster_179.jpg",
+          "cluster_id": 179,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_179",
+          "linked_bib": null,
+          "sharpness_score": 3115.44,
+          "thumbnail_width": 67,
+          "thumbnail_height": 87
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_6_cluster_153.jpg",
+          "cluster_id": 153,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_153",
+          "linked_bib": null,
+          "sharpness_score": 2092.14,
+          "thumbnail_width": 108,
+          "thumbnail_height": 118
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_5_cluster_177.jpg",
+          "cluster_id": 177,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_177",
+          "linked_bib": null,
+          "sharpness_score": 1648.7,
+          "thumbnail_width": 146,
+          "thumbnail_height": 194
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_8_cluster_154.jpg",
+          "cluster_id": 154,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_154",
+          "linked_bib": null,
+          "sharpness_score": 1487.79,
+          "thumbnail_width": 99,
+          "thumbnail_height": 123
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_10_cluster_175.jpg",
+          "cluster_id": 175,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_175",
+          "linked_bib": null,
+          "sharpness_score": 1434.97,
+          "thumbnail_width": 130,
+          "thumbnail_height": 142
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_7_cluster_90.jpg",
+          "cluster_id": 90,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_90",
+          "linked_bib": null,
+          "sharpness_score": 704.26,
+          "thumbnail_width": 219,
+          "thumbnail_height": 288
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_2_cluster_170.jpg",
+          "cluster_id": 170,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_170",
+          "linked_bib": null,
+          "sharpness_score": 651.4,
+          "thumbnail_width": 221,
+          "thumbnail_height": 279
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_12_cluster_178.jpg",
+          "cluster_id": 178,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_178",
+          "linked_bib": null,
+          "sharpness_score": 564.18,
+          "thumbnail_width": 72,
+          "thumbnail_height": 45
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_3_cluster_162.jpg",
+          "cluster_id": 162,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_162",
+          "linked_bib": null,
+          "sharpness_score": 390.26,
+          "thumbnail_width": 161,
+          "thumbnail_height": 216
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_1_cluster_176.jpg",
+          "cluster_id": 176,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_176",
+          "linked_bib": null,
+          "sharpness_score": 321.57,
+          "thumbnail_width": 173,
+          "thumbnail_height": 227
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_11_cluster_164.jpg",
+          "cluster_id": 164,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_164",
+          "linked_bib": null,
+          "sharpness_score": 166.41,
+          "thumbnail_width": 358,
+          "thumbnail_height": 449
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_4_cluster_142.jpg",
+          "cluster_id": 142,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_142",
+          "linked_bib": null,
+          "sharpness_score": 81.44,
+          "thumbnail_width": 164,
+          "thumbnail_height": 240
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/pontypriddparkrelays300826/face_thumbnails/R7__5171_face_9_cluster_163.jpg",
+          "cluster_id": 163,
+          "cluster_tag": "Pontypridd_Park_Relays_300826_face_cluster_163",
+          "linked_bib": null,
+          "sharpness_score": 12.82,
+          "thumbnail_width": 285,
+          "thumbnail_height": 395
+        }
+      ]
+    }
+  }
+}
