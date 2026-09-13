@@ -1,0 +1,84 @@
+{
+  "version": 3,
+  "event_slug": "llantwitmajor10k130926",
+  "thumbnail_host": "Cloudflare R2",
+  "match_field": "Flickr photo title without file extension",
+  "face_order": "sharpness_score descending",
+  "photos": {
+    "NE2_0190": {
+      "filename": "NE2_0190.jpg",
+      "title": "NE2_0190",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/llantwitmajor10k130926/face_thumbnails/NE2_0190_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "Llantwit_Major_10k_130926_face_cluster_1",
+          "linked_bib": null,
+          "sharpness_score": 753.98,
+          "thumbnail_width": 328,
+          "thumbnail_height": 443
+        }
+      ]
+    },
+    "NE2_0195": {
+      "filename": "NE2_0195.jpg",
+      "title": "NE2_0195",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/llantwitmajor10k130926/face_thumbnails/NE2_0195_face_1_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "Llantwit_Major_10k_130926_face_cluster_2",
+          "linked_bib": null,
+          "sharpness_score": 158.13,
+          "thumbnail_width": 435,
+          "thumbnail_height": 632
+        }
+      ]
+    },
+    "NE2_0200": {
+      "filename": "NE2_0200.jpg",
+      "title": "NE2_0200",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/llantwitmajor10k130926/face_thumbnails/NE2_0200_face_1_cluster_3.jpg",
+          "cluster_id": 3,
+          "cluster_tag": "Llantwit_Major_10k_130926_face_cluster_3",
+          "linked_bib": null,
+          "sharpness_score": 416.85,
+          "thumbnail_width": 397,
+          "thumbnail_height": 536
+        }
+      ]
+    },
+    "NE2_0205": {
+      "filename": "NE2_0205.jpg",
+      "title": "NE2_0205",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/llantwitmajor10k130926/face_thumbnails/NE2_0205_face_1_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "Llantwit_Major_10k_130926_face_cluster_4",
+          "linked_bib": null,
+          "sharpness_score": 174.16,
+          "thumbnail_width": 515,
+          "thumbnail_height": 792
+        }
+      ]
+    },
+    "NE2_0210": {
+      "filename": "NE2_0210.jpg",
+      "title": "NE2_0210",
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/llantwitmajor10k130926/face_thumbnails/NE2_0210_face_1_cluster_5.jpg",
+          "cluster_id": 5,
+          "cluster_tag": "Llantwit_Major_10k_130926_face_cluster_5",
+          "linked_bib": null,
+          "sharpness_score": 174.21,
+          "thumbnail_width": 396,
+          "thumbnail_height": 535
+        }
+      ]
+    }
+  }
+}
