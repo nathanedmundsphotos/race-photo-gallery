@@ -1,0 +1,1345 @@
+{
+  "version": 5,
+  "event_slug": "testingrunners230926",
+  "thumbnail_host": "Cloudflare R2",
+  "match_field": "Flickr photo title without file extension",
+  "face_order": "sharpness_score descending",
+  "box_format": "normalised left/top/width/height plus source-pixel dimensions",
+  "box_note": "Face boxes use the stored padded crop. Bib boxes use accepted OCR detection positions in original-image pixels.",
+  "photos": {
+    "6Y0A3770": {
+      "filename": "6Y0A3770.jpg",
+      "title": "6Y0A3770",
+      "photo_width": 1559,
+      "photo_height": 1045,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/6Y0A3770_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "face_cluster_1",
+          "linked_bib": "128",
+          "sharpness_score": 1008.64,
+          "thumbnail_width": 125,
+          "thumbnail_height": 176,
+          "box": {
+            "left": 0.436818,
+            "top": 0.05933,
+            "width": 0.08018,
+            "height": 0.168421,
+            "pixel_left": 681,
+            "pixel_top": 62,
+            "pixel_width": 125,
+            "pixel_height": 176
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "128",
+          "status": "accepted",
+          "confidence": 0.947356,
+          "box": {
+            "left": 0.458627,
+            "top": 0.378947,
+            "width": 0.065427,
+            "height": 0.063158,
+            "pixel_left": 715,
+            "pixel_top": 396,
+            "pixel_width": 102,
+            "pixel_height": 66
+          }
+        },
+        {
+          "bib": "8",
+          "status": "accepted",
+          "confidence": 0.993557,
+          "box": {
+            "left": 0.506094,
+            "top": 0.214354,
+            "width": 0.014112,
+            "height": 0.038278,
+            "pixel_left": 789,
+            "pixel_top": 224,
+            "pixel_width": 22,
+            "pixel_height": 40
+          }
+        }
+      ]
+    },
+    "6Y0A3771": {
+      "filename": "6Y0A3771.jpg",
+      "title": "6Y0A3771",
+      "photo_width": 1136,
+      "photo_height": 1695,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/6Y0A3771_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "face_cluster_1",
+          "linked_bib": "128",
+          "sharpness_score": 208.92,
+          "thumbnail_width": 236,
+          "thumbnail_height": 339,
+          "box": {
+            "left": 0.366197,
+            "top": 0.068437,
+            "width": 0.207746,
+            "height": 0.2,
+            "pixel_left": 416,
+            "pixel_top": 116,
+            "pixel_width": 236,
+            "pixel_height": 339
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "128",
+          "status": "accepted",
+          "confidence": 0.839509,
+          "box": {
+            "left": 0.392606,
+            "top": 0.452507,
+            "width": 0.167254,
+            "height": 0.068437,
+            "pixel_left": 446,
+            "pixel_top": 767,
+            "pixel_width": 190,
+            "pixel_height": 116
+          }
+        },
+        {
+          "bib": "8",
+          "status": "accepted",
+          "confidence": 0.515829,
+          "box": {
+            "left": 0.529049,
+            "top": 0.260177,
+            "width": 0.043134,
+            "height": 0.050737,
+            "pixel_left": 601,
+            "pixel_top": 441,
+            "pixel_width": 49,
+            "pixel_height": 86
+          }
+        }
+      ]
+    },
+    "6Y0A3772": {
+      "filename": "6Y0A3772.jpg",
+      "title": "6Y0A3772",
+      "photo_width": 1680,
+      "photo_height": 1976,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/6Y0A3772_face_1_cluster_1.jpg",
+          "cluster_id": 1,
+          "cluster_tag": "face_cluster_1",
+          "linked_bib": "128",
+          "sharpness_score": 147.39,
+          "thumbnail_width": 531,
+          "thumbnail_height": 752,
+          "box": {
+            "left": 0.228571,
+            "top": 0.038462,
+            "width": 0.316071,
+            "height": 0.380567,
+            "pixel_left": 384,
+            "pixel_top": 76,
+            "pixel_width": 531,
+            "pixel_height": 752
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "128",
+          "status": "accepted",
+          "confidence": 0.77469,
+          "box": {
+            "left": 0.266667,
+            "top": 0.756579,
+            "width": 0.25119,
+            "height": 0.129555,
+            "pixel_left": 448,
+            "pixel_top": 1495,
+            "pixel_width": 422,
+            "pixel_height": 256
+          }
+        }
+      ]
+    },
+    "6Y0A3845": {
+      "filename": "6Y0A3845.jpg",
+      "title": "6Y0A3845",
+      "photo_width": 1763,
+      "photo_height": 1316,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/6Y0A3845_face_1_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "face_cluster_2",
+          "linked_bib": "8",
+          "sharpness_score": 2208.82,
+          "thumbnail_width": 130,
+          "thumbnail_height": 193,
+          "box": {
+            "left": 0.390811,
+            "top": 0.145897,
+            "width": 0.073738,
+            "height": 0.146657,
+            "pixel_left": 689,
+            "pixel_top": 192,
+            "pixel_width": 130,
+            "pixel_height": 193
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "8",
+          "status": "accepted",
+          "confidence": 1.0,
+          "box": {
+            "left": 0.424844,
+            "top": 0.417173,
+            "width": 0.023823,
+            "height": 0.035714,
+            "pixel_left": 749,
+            "pixel_top": 549,
+            "pixel_width": 42,
+            "pixel_height": 47
+          }
+        }
+      ]
+    },
+    "6Y0A3846": {
+      "filename": "6Y0A3846.jpg",
+      "title": "6Y0A3846",
+      "photo_width": 1064,
+      "photo_height": 1988,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/6Y0A3846_face_1_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "face_cluster_2",
+          "linked_bib": "8",
+          "sharpness_score": 637.49,
+          "thumbnail_width": 267,
+          "thumbnail_height": 395,
+          "box": {
+            "left": 0.265038,
+            "top": 0.023139,
+            "width": 0.25094,
+            "height": 0.198692,
+            "pixel_left": 282,
+            "pixel_top": 46,
+            "pixel_width": 267,
+            "pixel_height": 395
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "8",
+          "status": "accepted",
+          "confidence": 0.756691,
+          "box": {
+            "left": 0.351504,
+            "top": 0.391851,
+            "width": 0.06203,
+            "height": 0.038732,
+            "pixel_left": 374,
+            "pixel_top": 779,
+            "pixel_width": 66,
+            "pixel_height": 77
+          }
+        }
+      ]
+    },
+    "6Y0A3847": {
+      "filename": "6Y0A3847.jpg",
+      "title": "6Y0A3847",
+      "photo_width": 1668,
+      "photo_height": 1994,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/6Y0A3847_face_1_cluster_2.jpg",
+          "cluster_id": 2,
+          "cluster_tag": "face_cluster_2",
+          "linked_bib": "8",
+          "sharpness_score": 214.58,
+          "thumbnail_width": 550,
+          "thumbnail_height": 806,
+          "box": {
+            "left": 0.194245,
+            "top": 0.027583,
+            "width": 0.329736,
+            "height": 0.404213,
+            "pixel_left": 324,
+            "pixel_top": 55,
+            "pixel_width": 550,
+            "pixel_height": 806
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "2010",
+          "status": "accepted",
+          "confidence": 0.826185,
+          "box": {
+            "left": 0.393885,
+            "top": 0.717151,
+            "width": 0.040168,
+            "height": 0.021063,
+            "pixel_left": 657,
+            "pixel_top": 1430,
+            "pixel_width": 67,
+            "pixel_height": 42
+          }
+        },
+        {
+          "bib": "8",
+          "status": "accepted",
+          "confidence": 1.0,
+          "box": {
+            "left": 0.357314,
+            "top": 0.807924,
+            "width": 0.079736,
+            "height": 0.088265,
+            "pixel_left": 596,
+            "pixel_top": 1611,
+            "pixel_width": 133,
+            "pixel_height": 176
+          }
+        }
+      ]
+    },
+    "6Y0A4017": {
+      "filename": "6Y0A4017.jpg",
+      "title": "6Y0A4017",
+      "photo_width": 1079,
+      "photo_height": 1899,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/6Y0A4017_face_1_cluster_3.jpg",
+          "cluster_id": 3,
+          "cluster_tag": "face_cluster_3",
+          "linked_bib": "2",
+          "sharpness_score": 641.27,
+          "thumbnail_width": 247,
+          "thumbnail_height": 379,
+          "box": {
+            "left": 0.255792,
+            "top": 0.019484,
+            "width": 0.228916,
+            "height": 0.199579,
+            "pixel_left": 276,
+            "pixel_top": 37,
+            "pixel_width": 247,
+            "pixel_height": 379
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "2",
+          "status": "accepted",
+          "confidence": 1.0,
+          "box": {
+            "left": 0.379055,
+            "top": 0.398104,
+            "width": 0.070436,
+            "height": 0.048973,
+            "pixel_left": 409,
+            "pixel_top": 756,
+            "pixel_width": 76,
+            "pixel_height": 93
+          }
+        }
+      ]
+    },
+    "6Y0A4019": {
+      "filename": "6Y0A4019.jpg",
+      "title": "6Y0A4019",
+      "photo_width": 1572,
+      "photo_height": 1989,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/6Y0A4019_face_1_cluster_3.jpg",
+          "cluster_id": 3,
+          "cluster_tag": "face_cluster_3",
+          "linked_bib": "2",
+          "sharpness_score": 176.78,
+          "thumbnail_width": 535,
+          "thumbnail_height": 800,
+          "box": {
+            "left": 0.17112,
+            "top": 0.0,
+            "width": 0.340331,
+            "height": 0.402212,
+            "pixel_left": 269,
+            "pixel_top": 0,
+            "pixel_width": 535,
+            "pixel_height": 800
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "2",
+          "status": "accepted",
+          "confidence": 1.0,
+          "box": {
+            "left": 0.392494,
+            "top": 0.776772,
+            "width": 0.111323,
+            "height": 0.108095,
+            "pixel_left": 617,
+            "pixel_top": 1545,
+            "pixel_width": 175,
+            "pixel_height": 215
+          }
+        },
+        {
+          "bib": "7",
+          "status": "accepted",
+          "confidence": 0.999996,
+          "box": {
+            "left": 0.563613,
+            "top": 0.768225,
+            "width": 0.020356,
+            "height": 0.021116,
+            "pixel_left": 886,
+            "pixel_top": 1528,
+            "pixel_width": 32,
+            "pixel_height": 42
+          }
+        }
+      ]
+    },
+    "NE2_0187": {
+      "filename": "NE2_0187.jpg",
+      "title": "NE2_0187",
+      "photo_width": 2048,
+      "photo_height": 1365,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/NE2_0187_face_1_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "face_cluster_4",
+          "linked_bib": "8",
+          "sharpness_score": 1919.21,
+          "thumbnail_width": 113,
+          "thumbnail_height": 140,
+          "box": {
+            "left": 0.643066,
+            "top": 0.198535,
+            "width": 0.055176,
+            "height": 0.102564,
+            "pixel_left": 1317,
+            "pixel_top": 271,
+            "pixel_width": 113,
+            "pixel_height": 140
+          }
+        }
+      ],
+      "bibs": []
+    },
+    "NE2_0188": {
+      "filename": "NE2_0188.jpg",
+      "title": "NE2_0188",
+      "photo_width": 1365,
+      "photo_height": 2048,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/NE2_0188_face_1_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "face_cluster_4",
+          "linked_bib": "8",
+          "sharpness_score": 508.95,
+          "thumbnail_width": 203,
+          "thumbnail_height": 263,
+          "box": {
+            "left": 0.403663,
+            "top": 0.125,
+            "width": 0.148718,
+            "height": 0.128418,
+            "pixel_left": 551,
+            "pixel_top": 256,
+            "pixel_width": 203,
+            "pixel_height": 263
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "8",
+          "status": "accepted",
+          "confidence": 0.598473,
+          "box": {
+            "left": 0.531136,
+            "top": 0.251953,
+            "width": 0.029304,
+            "height": 0.035156,
+            "pixel_left": 725,
+            "pixel_top": 516,
+            "pixel_width": 40,
+            "pixel_height": 72
+          }
+        }
+      ]
+    },
+    "NE2_0189": {
+      "filename": "NE2_0189.jpg",
+      "title": "NE2_0189",
+      "photo_width": 2048,
+      "photo_height": 1365,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/NE2_0189_face_1_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "face_cluster_4",
+          "linked_bib": "8",
+          "sharpness_score": 1294.86,
+          "thumbnail_width": 166,
+          "thumbnail_height": 205,
+          "box": {
+            "left": 0.462891,
+            "top": 0.058608,
+            "width": 0.081055,
+            "height": 0.150183,
+            "pixel_left": 948,
+            "pixel_top": 80,
+            "pixel_width": 166,
+            "pixel_height": 205
+          }
+        }
+      ],
+      "bibs": []
+    },
+    "NE2_0190": {
+      "filename": "NE2_0190.jpg",
+      "title": "NE2_0190",
+      "photo_width": 2048,
+      "photo_height": 2048,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/NE2_0190_face_1_cluster_4.jpg",
+          "cluster_id": 4,
+          "cluster_tag": "face_cluster_4",
+          "linked_bib": "8",
+          "sharpness_score": 214.28,
+          "thumbnail_width": 439,
+          "thumbnail_height": 588,
+          "box": {
+            "left": 0.379883,
+            "top": 0.015137,
+            "width": 0.214355,
+            "height": 0.287109,
+            "pixel_left": 778,
+            "pixel_top": 31,
+            "pixel_width": 439,
+            "pixel_height": 588
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "8",
+          "status": "accepted",
+          "confidence": 0.875805,
+          "box": {
+            "left": 0.568359,
+            "top": 0.313965,
+            "width": 0.044434,
+            "height": 0.072266,
+            "pixel_left": 1164,
+            "pixel_top": 643,
+            "pixel_width": 91,
+            "pixel_height": 148
+          }
+        }
+      ]
+    },
+    "R62_5790": {
+      "filename": "R62_5790.jpg",
+      "title": "R62_5790",
+      "photo_width": 2048,
+      "photo_height": 1365,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_13_cluster_17.jpg",
+          "cluster_id": 17,
+          "cluster_tag": "face_cluster_17",
+          "linked_bib": null,
+          "sharpness_score": 2265.98,
+          "thumbnail_width": 112,
+          "thumbnail_height": 131,
+          "box": {
+            "left": 0.54834,
+            "top": 0.228571,
+            "width": 0.054688,
+            "height": 0.095971,
+            "pixel_left": 1123,
+            "pixel_top": 312,
+            "pixel_width": 112,
+            "pixel_height": 131
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_7_cluster_11.jpg",
+          "cluster_id": 11,
+          "cluster_tag": "face_cluster_11",
+          "linked_bib": null,
+          "sharpness_score": 2113.03,
+          "thumbnail_width": 113,
+          "thumbnail_height": 136,
+          "box": {
+            "left": 0.70459,
+            "top": 0.196337,
+            "width": 0.055176,
+            "height": 0.099634,
+            "pixel_left": 1443,
+            "pixel_top": 268,
+            "pixel_width": 113,
+            "pixel_height": 136
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_1_cluster_5.jpg",
+          "cluster_id": 5,
+          "cluster_tag": "face_cluster_5",
+          "linked_bib": null,
+          "sharpness_score": 1753.78,
+          "thumbnail_width": 118,
+          "thumbnail_height": 135,
+          "box": {
+            "left": 0.502441,
+            "top": 0.195604,
+            "width": 0.057617,
+            "height": 0.098901,
+            "pixel_left": 1029,
+            "pixel_top": 267,
+            "pixel_width": 118,
+            "pixel_height": 135
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_2_cluster_6.jpg",
+          "cluster_id": 6,
+          "cluster_tag": "face_cluster_6",
+          "linked_bib": null,
+          "sharpness_score": 1609.27,
+          "thumbnail_width": 112,
+          "thumbnail_height": 130,
+          "box": {
+            "left": 0.387695,
+            "top": 0.225641,
+            "width": 0.054688,
+            "height": 0.095238,
+            "pixel_left": 794,
+            "pixel_top": 308,
+            "pixel_width": 112,
+            "pixel_height": 130
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_8_cluster_12.jpg",
+          "cluster_id": 12,
+          "cluster_tag": "face_cluster_12",
+          "linked_bib": null,
+          "sharpness_score": 1600.59,
+          "thumbnail_width": 98,
+          "thumbnail_height": 129,
+          "box": {
+            "left": 0.62207,
+            "top": 0.212454,
+            "width": 0.047852,
+            "height": 0.094505,
+            "pixel_left": 1274,
+            "pixel_top": 290,
+            "pixel_width": 98,
+            "pixel_height": 129
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_15_cluster_19.jpg",
+          "cluster_id": 19,
+          "cluster_tag": "face_cluster_19",
+          "linked_bib": null,
+          "sharpness_score": 1476.74,
+          "thumbnail_width": 123,
+          "thumbnail_height": 156,
+          "box": {
+            "left": 0.092285,
+            "top": 0.205861,
+            "width": 0.060059,
+            "height": 0.114286,
+            "pixel_left": 189,
+            "pixel_top": 281,
+            "pixel_width": 123,
+            "pixel_height": 156
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_11_cluster_15.jpg",
+          "cluster_id": 15,
+          "cluster_tag": "face_cluster_15",
+          "linked_bib": null,
+          "sharpness_score": 1469.72,
+          "thumbnail_width": 120,
+          "thumbnail_height": 162,
+          "box": {
+            "left": 0.270508,
+            "top": 0.167033,
+            "width": 0.058594,
+            "height": 0.118681,
+            "pixel_left": 554,
+            "pixel_top": 228,
+            "pixel_width": 120,
+            "pixel_height": 162
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_14_cluster_18.jpg",
+          "cluster_id": 18,
+          "cluster_tag": "face_cluster_18",
+          "linked_bib": null,
+          "sharpness_score": 1453.48,
+          "thumbnail_width": 87,
+          "thumbnail_height": 130,
+          "box": {
+            "left": 0.060547,
+            "top": 0.198535,
+            "width": 0.04248,
+            "height": 0.095238,
+            "pixel_left": 124,
+            "pixel_top": 271,
+            "pixel_width": 87,
+            "pixel_height": 130
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_9_cluster_13.jpg",
+          "cluster_id": 13,
+          "cluster_tag": "face_cluster_13",
+          "linked_bib": null,
+          "sharpness_score": 1429.39,
+          "thumbnail_width": 118,
+          "thumbnail_height": 140,
+          "box": {
+            "left": 0.217285,
+            "top": 0.191941,
+            "width": 0.057617,
+            "height": 0.102564,
+            "pixel_left": 445,
+            "pixel_top": 262,
+            "pixel_width": 118,
+            "pixel_height": 140
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_12_cluster_16.jpg",
+          "cluster_id": 16,
+          "cluster_tag": "face_cluster_16",
+          "linked_bib": null,
+          "sharpness_score": 1189.6,
+          "thumbnail_width": 109,
+          "thumbnail_height": 128,
+          "box": {
+            "left": 0.378906,
+            "top": 0.157509,
+            "width": 0.053223,
+            "height": 0.093773,
+            "pixel_left": 776,
+            "pixel_top": 215,
+            "pixel_width": 109,
+            "pixel_height": 128
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_4_cluster_8.jpg",
+          "cluster_id": 8,
+          "cluster_tag": "face_cluster_8",
+          "linked_bib": null,
+          "sharpness_score": 882.77,
+          "thumbnail_width": 114,
+          "thumbnail_height": 141,
+          "box": {
+            "left": 0.789551,
+            "top": 0.194139,
+            "width": 0.055664,
+            "height": 0.103297,
+            "pixel_left": 1617,
+            "pixel_top": 265,
+            "pixel_width": 114,
+            "pixel_height": 141
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_6_cluster_10.jpg",
+          "cluster_id": 10,
+          "cluster_tag": "face_cluster_10",
+          "linked_bib": null,
+          "sharpness_score": 869.11,
+          "thumbnail_width": 104,
+          "thumbnail_height": 152,
+          "box": {
+            "left": 0.535645,
+            "top": 0.117949,
+            "width": 0.050781,
+            "height": 0.111355,
+            "pixel_left": 1097,
+            "pixel_top": 161,
+            "pixel_width": 104,
+            "pixel_height": 152
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_10_cluster_14.jpg",
+          "cluster_id": 14,
+          "cluster_tag": "face_cluster_14",
+          "linked_bib": null,
+          "sharpness_score": 614.58,
+          "thumbnail_width": 88,
+          "thumbnail_height": 113,
+          "box": {
+            "left": 0.890137,
+            "top": 0.216117,
+            "width": 0.042969,
+            "height": 0.082784,
+            "pixel_left": 1823,
+            "pixel_top": 295,
+            "pixel_width": 88,
+            "pixel_height": 113
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_3_cluster_7.jpg",
+          "cluster_id": 7,
+          "cluster_tag": "face_cluster_7",
+          "linked_bib": null,
+          "sharpness_score": 601.3,
+          "thumbnail_width": 125,
+          "thumbnail_height": 184,
+          "box": {
+            "left": 0.144043,
+            "top": 0.186813,
+            "width": 0.061035,
+            "height": 0.134799,
+            "pixel_left": 295,
+            "pixel_top": 255,
+            "pixel_width": 125,
+            "pixel_height": 184
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5790_face_5_cluster_9.jpg",
+          "cluster_id": 9,
+          "cluster_tag": "face_cluster_9",
+          "linked_bib": null,
+          "sharpness_score": 540.95,
+          "thumbnail_width": 109,
+          "thumbnail_height": 128,
+          "box": {
+            "left": 0.855957,
+            "top": 0.191209,
+            "width": 0.053223,
+            "height": 0.093773,
+            "pixel_left": 1753,
+            "pixel_top": 261,
+            "pixel_width": 109,
+            "pixel_height": 128
+          }
+        }
+      ],
+      "bibs": []
+    },
+    "R62_5804": {
+      "filename": "R62_5804.jpg",
+      "title": "R62_5804",
+      "photo_width": 2048,
+      "photo_height": 2048,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5804_face_1_cluster_20.jpg",
+          "cluster_id": 20,
+          "cluster_tag": "face_cluster_20",
+          "linked_bib": null,
+          "sharpness_score": 324.48,
+          "thumbnail_width": 599,
+          "thumbnail_height": 813,
+          "box": {
+            "left": 0.34082,
+            "top": 0.0,
+            "width": 0.29248,
+            "height": 0.396973,
+            "pixel_left": 698,
+            "pixel_top": 0,
+            "pixel_width": 599,
+            "pixel_height": 813
+          }
+        }
+      ],
+      "bibs": []
+    },
+    "R62_5868": {
+      "filename": "R62_5868.jpg",
+      "title": "R62_5868",
+      "photo_width": 2048,
+      "photo_height": 1365,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5868_face_2_cluster_22.jpg",
+          "cluster_id": 22,
+          "cluster_tag": "face_cluster_22",
+          "linked_bib": null,
+          "sharpness_score": 1835.0,
+          "thumbnail_width": 136,
+          "thumbnail_height": 178,
+          "box": {
+            "left": 0.496582,
+            "top": 0.228571,
+            "width": 0.066406,
+            "height": 0.130403,
+            "pixel_left": 1017,
+            "pixel_top": 312,
+            "pixel_width": 136,
+            "pixel_height": 178
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5868_face_5_cluster_25.jpg",
+          "cluster_id": 25,
+          "cluster_tag": "face_cluster_25",
+          "linked_bib": null,
+          "sharpness_score": 1150.8,
+          "thumbnail_width": 99,
+          "thumbnail_height": 135,
+          "box": {
+            "left": 0.466309,
+            "top": 0.234432,
+            "width": 0.04834,
+            "height": 0.098901,
+            "pixel_left": 955,
+            "pixel_top": 320,
+            "pixel_width": 99,
+            "pixel_height": 135
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5868_face_3_cluster_23.jpg",
+          "cluster_id": 23,
+          "cluster_tag": "face_cluster_23",
+          "linked_bib": null,
+          "sharpness_score": 189.71,
+          "thumbnail_width": 80,
+          "thumbnail_height": 130,
+          "box": {
+            "left": 0.0,
+            "top": 0.246886,
+            "width": 0.039062,
+            "height": 0.095238,
+            "pixel_left": 0,
+            "pixel_top": 337,
+            "pixel_width": 80,
+            "pixel_height": 130
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5868_face_1_cluster_21.jpg",
+          "cluster_id": 21,
+          "cluster_tag": "face_cluster_21",
+          "linked_bib": null,
+          "sharpness_score": 187.59,
+          "thumbnail_width": 145,
+          "thumbnail_height": 230,
+          "box": {
+            "left": 0.005371,
+            "top": 0.135531,
+            "width": 0.070801,
+            "height": 0.168498,
+            "pixel_left": 11,
+            "pixel_top": 185,
+            "pixel_width": 145,
+            "pixel_height": 230
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5868_face_4_cluster_24.jpg",
+          "cluster_id": 24,
+          "cluster_tag": "face_cluster_24",
+          "linked_bib": null,
+          "sharpness_score": 36.45,
+          "thumbnail_width": 109,
+          "thumbnail_height": 130,
+          "box": {
+            "left": 0.259277,
+            "top": 0.25641,
+            "width": 0.053223,
+            "height": 0.095238,
+            "pixel_left": 531,
+            "pixel_top": 350,
+            "pixel_width": 109,
+            "pixel_height": 130
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R62_5868_face_6_cluster_26.jpg",
+          "cluster_id": 26,
+          "cluster_tag": "face_cluster_26",
+          "linked_bib": null,
+          "sharpness_score": 14.58,
+          "thumbnail_width": 92,
+          "thumbnail_height": 103,
+          "box": {
+            "left": 0.77002,
+            "top": 0.291575,
+            "width": 0.044922,
+            "height": 0.075458,
+            "pixel_left": 1577,
+            "pixel_top": 398,
+            "pixel_width": 92,
+            "pixel_height": 103
+          }
+        }
+      ],
+      "bibs": []
+    },
+    "R6II4459": {
+      "filename": "R6II4459.jpg",
+      "title": "R6II4459",
+      "photo_width": 1761,
+      "photo_height": 1327,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R6II4459_face_2_cluster_28.jpg",
+          "cluster_id": 28,
+          "cluster_tag": "face_cluster_28",
+          "linked_bib": null,
+          "sharpness_score": 386.1,
+          "thumbnail_width": 306,
+          "thumbnail_height": 439,
+          "box": {
+            "left": 0.501988,
+            "top": 0.087415,
+            "width": 0.173765,
+            "height": 0.330821,
+            "pixel_left": 884,
+            "pixel_top": 116,
+            "pixel_width": 306,
+            "pixel_height": 439
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R6II4459_face_1_cluster_27.jpg",
+          "cluster_id": 27,
+          "cluster_tag": "face_cluster_27",
+          "linked_bib": null,
+          "sharpness_score": 129.26,
+          "thumbnail_width": 288,
+          "thumbnail_height": 444,
+          "box": {
+            "left": 0.126065,
+            "top": 0.002261,
+            "width": 0.163543,
+            "height": 0.334589,
+            "pixel_left": 222,
+            "pixel_top": 3,
+            "pixel_width": 288,
+            "pixel_height": 444
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "26",
+          "status": "accepted",
+          "confidence": 1.0,
+          "box": {
+            "left": 0.59682,
+            "top": 0.671439,
+            "width": 0.036911,
+            "height": 0.039186,
+            "pixel_left": 1051,
+            "pixel_top": 891,
+            "pixel_width": 65,
+            "pixel_height": 52
+          }
+        },
+        {
+          "bib": "8073",
+          "status": "accepted",
+          "confidence": 0.97837,
+          "box": {
+            "left": 0.624645,
+            "top": 0.659382,
+            "width": 0.027825,
+            "height": 0.017332,
+            "pixel_left": 1100,
+            "pixel_top": 875,
+            "pixel_width": 49,
+            "pixel_height": 23
+          }
+        },
+        {
+          "bib": "8073",
+          "status": "accepted",
+          "confidence": 0.956776,
+          "box": {
+            "left": 0.48552,
+            "top": 0.691786,
+            "width": 0.170358,
+            "height": 0.123587,
+            "pixel_left": 855,
+            "pixel_top": 918,
+            "pixel_width": 300,
+            "pixel_height": 164
+          }
+        },
+        {
+          "bib": "8142",
+          "status": "accepted",
+          "confidence": 0.978064,
+          "box": {
+            "left": 0.113572,
+            "top": 0.617935,
+            "width": 0.149347,
+            "height": 0.086662,
+            "pixel_left": 200,
+            "pixel_top": 820,
+            "pixel_width": 263,
+            "pixel_height": 115
+          }
+        }
+      ]
+    },
+    "R6II4466": {
+      "filename": "R6II4466.jpg",
+      "title": "R6II4466",
+      "photo_width": 1672,
+      "photo_height": 1984,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R6II4466_face_1_cluster_29.jpg",
+          "cluster_id": 29,
+          "cluster_tag": "face_cluster_29",
+          "linked_bib": "6062",
+          "sharpness_score": 22.78,
+          "thumbnail_width": 535,
+          "thumbnail_height": 828,
+          "box": {
+            "left": 0.212919,
+            "top": 0.0,
+            "width": 0.319976,
+            "height": 0.417339,
+            "pixel_left": 356,
+            "pixel_top": 0,
+            "pixel_width": 535,
+            "pixel_height": 828
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "6062",
+          "status": "accepted",
+          "confidence": 0.999991,
+          "box": {
+            "left": 0.19677,
+            "top": 0.762601,
+            "width": 0.268541,
+            "height": 0.116935,
+            "pixel_left": 329,
+            "pixel_top": 1513,
+            "pixel_width": 449,
+            "pixel_height": 232
+          }
+        }
+      ]
+    },
+    "R6II4468": {
+      "filename": "R6II4468.jpg",
+      "title": "R6II4468",
+      "photo_width": 1663,
+      "photo_height": 1962,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R6II4468_face_1_cluster_30.jpg",
+          "cluster_id": 30,
+          "cluster_tag": "face_cluster_30",
+          "linked_bib": "2010",
+          "sharpness_score": 47.48,
+          "thumbnail_width": 502,
+          "thumbnail_height": 664,
+          "box": {
+            "left": 0.258569,
+            "top": 0.0,
+            "width": 0.301864,
+            "height": 0.33843,
+            "pixel_left": 430,
+            "pixel_top": 0,
+            "pixel_width": 502,
+            "pixel_height": 664
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "2010",
+          "status": "accepted",
+          "confidence": 0.846381,
+          "box": {
+            "left": 0.437162,
+            "top": 0.773191,
+            "width": 0.033073,
+            "height": 0.01631,
+            "pixel_left": 727,
+            "pixel_top": 1517,
+            "pixel_width": 55,
+            "pixel_height": 32
+          }
+        }
+      ]
+    },
+    "R6II4476": {
+      "filename": "R6II4476.jpg",
+      "title": "R6II4476",
+      "photo_width": 1760,
+      "photo_height": 1301,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R6II4476_face_1_cluster_31.jpg",
+          "cluster_id": 31,
+          "cluster_tag": "face_cluster_31",
+          "linked_bib": "2062",
+          "sharpness_score": 386.1,
+          "thumbnail_width": 123,
+          "thumbnail_height": 171,
+          "box": {
+            "left": 0.357955,
+            "top": 0.229055,
+            "width": 0.069886,
+            "height": 0.131437,
+            "pixel_left": 630,
+            "pixel_top": 298,
+            "pixel_width": 123,
+            "pixel_height": 171
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "2062",
+          "status": "accepted",
+          "confidence": 0.612033,
+          "box": {
+            "left": 0.373295,
+            "top": 0.496541,
+            "width": 0.061364,
+            "height": 0.048424,
+            "pixel_left": 657,
+            "pixel_top": 646,
+            "pixel_width": 108,
+            "pixel_height": 63
+          }
+        }
+      ]
+    },
+    "R6II4484": {
+      "filename": "R6II4484.jpg",
+      "title": "R6II4484",
+      "photo_width": 1746,
+      "photo_height": 1311,
+      "faces": [
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R6II4484_face_2_cluster_33.jpg",
+          "cluster_id": 33,
+          "cluster_tag": "face_cluster_33",
+          "linked_bib": null,
+          "sharpness_score": 141.98,
+          "thumbnail_width": 311,
+          "thumbnail_height": 488,
+          "box": {
+            "left": 0.614548,
+            "top": 0.03585,
+            "width": 0.178121,
+            "height": 0.372235,
+            "pixel_left": 1073,
+            "pixel_top": 47,
+            "pixel_width": 311,
+            "pixel_height": 488
+          }
+        },
+        {
+          "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunners230926/face_thumbnails/R6II4484_face_1_cluster_32.jpg",
+          "cluster_id": 32,
+          "cluster_tag": "face_cluster_32",
+          "linked_bib": null,
+          "sharpness_score": 19.49,
+          "thumbnail_width": 279,
+          "thumbnail_height": 460,
+          "box": {
+            "left": 0.098511,
+            "top": 0.01373,
+            "width": 0.159794,
+            "height": 0.350877,
+            "pixel_left": 172,
+            "pixel_top": 18,
+            "pixel_width": 279,
+            "pixel_height": 460
+          }
+        }
+      ],
+      "bibs": [
+        {
+          "bib": "8",
+          "status": "accepted",
+          "confidence": 0.494433,
+          "box": {
+            "left": 0.769187,
+            "top": 0.382151,
+            "width": 0.021191,
+            "height": 0.084668,
+            "pixel_left": 1343,
+            "pixel_top": 501,
+            "pixel_width": 37,
+            "pixel_height": 111
+          }
+        },
+        {
+          "bib": "9001",
+          "status": "accepted",
+          "confidence": 0.999983,
+          "box": {
+            "left": 0.116266,
+            "top": 0.628528,
+            "width": 0.147766,
+            "height": 0.131198,
+            "pixel_left": 203,
+            "pixel_top": 824,
+            "pixel_width": 258,
+            "pixel_height": 172
+          }
+        },
+        {
+          "bib": "9094",
+          "status": "accepted",
+          "confidence": 0.999714,
+          "box": {
+            "left": 0.640893,
+            "top": 0.642258,
+            "width": 0.182703,
+            "height": 0.181541,
+            "pixel_left": 1119,
+            "pixel_top": 842,
+            "pixel_width": 319,
+            "pixel_height": 238
+          }
+        }
+      ]
+    }
+  }
+}
