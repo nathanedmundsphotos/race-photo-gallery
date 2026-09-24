@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 6,
   "sport": "rugby",
   "event_tag": "Testing_Rugby_Game_240926",
   "team_name": "New Panteg RFC",
@@ -19,7 +19,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0877_face_6_cluster_17.jpg",
       "photo_count": 16,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_caa7ee6022aa",
@@ -33,7 +40,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0888_face_1_cluster_39.jpg",
       "photo_count": 30,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_ea480d9be917",
@@ -47,7 +61,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0877_face_1_cluster_13.jpg",
       "photo_count": 25,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_1800df680b22",
@@ -61,7 +82,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0884_face_4_cluster_31.jpg",
       "photo_count": 24,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_5605e8e94a9b",
@@ -75,7 +103,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0877_face_4_cluster_15.jpg",
       "photo_count": 27,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_7434270b15f1",
@@ -89,7 +124,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0870_face_2_cluster_2.jpg",
       "photo_count": 34,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_f2d8fc7a48a1",
@@ -103,7 +145,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0874_face_1_cluster_7.jpg",
       "photo_count": 6,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_1e4e7b43b1ce",
@@ -117,7 +166,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0962_face_3_cluster_172.jpg",
       "photo_count": 14,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_f8c5f4d08294",
@@ -131,7 +187,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0888_face_2_cluster_40.jpg",
       "photo_count": 21,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_c5576f7caa5c",
@@ -145,7 +208,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0873_face_1_cluster_4.jpg",
       "photo_count": 32,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_261dff4a5e26",
@@ -159,7 +229,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0873_face_2_cluster_5.jpg",
       "photo_count": 5,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_31b6c267abab",
@@ -173,7 +250,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0891_face_2_cluster_50.jpg",
       "photo_count": 17,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_f911d27afe64",
@@ -187,7 +271,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_1017_face_1_cluster_243.jpg",
       "photo_count": 5,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_4d29f65480d3",
@@ -201,7 +292,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0918_face_3_cluster_135.jpg",
       "photo_count": 10,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_95b1485d61fa",
@@ -215,7 +313,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0885_face_1_cluster_32.jpg",
       "photo_count": 7,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_27e1bca19e9f",
@@ -229,7 +334,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_1030_face_4_cluster_250.jpg",
       "photo_count": 3,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_35a33b182e0f",
@@ -243,7 +355,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0983_face_1_cluster_188.jpg",
       "photo_count": 4,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_c1d86ab8d6a4",
@@ -257,7 +376,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0913_face_3_cluster_132.jpg",
       "photo_count": 7,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_0334943687ec",
@@ -271,7 +397,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0910_face_3_cluster_130.jpg",
       "photo_count": 20,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_7a15ba113f99",
@@ -285,7 +418,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0955_face_1_cluster_162.jpg",
       "photo_count": 31,
-      "link_status": "approved"
+      "link_status": "approved",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_97672dbb8963",
@@ -299,7 +439,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "",
       "photo_count": 0,
-      "link_status": "unlinked"
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_d931aabfb07b",
@@ -313,7 +460,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "",
       "photo_count": 0,
-      "link_status": "unlinked"
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     },
     {
       "player_id": "player_a604b4511c3f",
@@ -327,7 +481,14 @@
       "portrait_crop": {},
       "portrait_thumbnail": "",
       "photo_count": 0,
-      "link_status": "unlinked"
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
     }
   ],
   "opposition_players": [
@@ -476,7 +637,29 @@
     "home_score": "29",
     "kickoff": "14:30",
     "match_date": "19th September 2026",
-    "notes": "Match notes here..",
+    "notes": "Match report here..",
     "venue": "The Welfare Ground"
+  },
+  "match_timeline": {
+    "first_half": {
+      "capture_time": "2026-09-19T19:49:16",
+      "capture_time_display": "19:49:16",
+      "filename": "NE2_0874.jpg"
+    },
+    "half_time": {
+      "capture_time": "2026-09-19T19:51:02",
+      "capture_time_display": "19:51:02",
+      "filename": "NE2_0938.jpg"
+    },
+    "post_match": {
+      "capture_time": "2026-09-19T19:54:12",
+      "capture_time_display": "19:54:12",
+      "filename": "NE2_1080.jpg"
+    },
+    "second_half": {
+      "capture_time": "2026-09-19T19:51:23",
+      "capture_time_display": "19:51:23",
+      "filename": "NE2_0955.jpg"
+    }
   }
 }
