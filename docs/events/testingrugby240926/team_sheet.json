@@ -1,0 +1,458 @@
+{
+  "schema_version": 3,
+  "sport": "rugby",
+  "event_tag": "Testing_Rugby_240926",
+  "team_name": "New Panteg RFC",
+  "opposition_name": "Senghenydd RFC",
+  "confirmed": true,
+  "players": [
+    {
+      "number": 1,
+      "name": "Jake Powell",
+      "position": "Loosehead Prop",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 2,
+      "name": "Owen Tudgay",
+      "position": "Hooker",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 3,
+      "name": "Russell Beale",
+      "position": "Tighthead Prop",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 4,
+      "name": "Ben Sullivan",
+      "position": "Lock",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 5,
+      "name": "Dan Young",
+      "position": "Lock",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 6,
+      "name": "Llewi Maclean",
+      "position": "Blindside Flanker",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 7,
+      "name": "Shane Cook",
+      "position": "Openside Flanker",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 8,
+      "name": "Harry Chesse",
+      "position": "Number Eight",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 9,
+      "name": "Ethan Edmunds",
+      "position": "Scrum-half",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 10,
+      "name": "Alex Gwatkin",
+      "position": "Fly-half",
+      "role": "starter",
+      "cluster_tag": "face_cluster_4",
+      "portrait_filename": "NE2_0973.jpg",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugby240926/face_thumbnails/NE2_0873_face_1_cluster_4.jpg",
+      "photo_count": 32,
+      "link_status": "approved"
+    },
+    {
+      "number": 11,
+      "name": "Ralph Thomas",
+      "position": "Left Wing",
+      "role": "starter",
+      "cluster_tag": "face_cluster_5",
+      "portrait_filename": "NE2_1117.jpg",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugby240926/face_thumbnails/NE2_0873_face_2_cluster_5.jpg",
+      "photo_count": 5,
+      "link_status": "approved"
+    },
+    {
+      "number": 12,
+      "name": "Nathan Baldwin",
+      "position": "Inside Centre",
+      "role": "starter",
+      "cluster_tag": "face_cluster_50",
+      "portrait_filename": "NE2_0942.jpg",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugby240926/face_thumbnails/NE2_0891_face_2_cluster_50.jpg",
+      "photo_count": 17,
+      "link_status": "approved"
+    },
+    {
+      "number": 13,
+      "name": "Elliot Jones",
+      "position": "Outside Centre",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 14,
+      "name": "Ben Gomez",
+      "position": "Right Wing",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 15,
+      "name": "Lewis Bury",
+      "position": "Full-back",
+      "role": "starter",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 16,
+      "name": "Will Jones",
+      "position": "Replacement",
+      "role": "replacement",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 17,
+      "name": "Logan Edmunds",
+      "position": "Replacement",
+      "role": "replacement",
+      "cluster_tag": "face_cluster_188",
+      "portrait_filename": "NE2_1127.jpg",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugby240926/face_thumbnails/NE2_0983_face_1_cluster_188.jpg",
+      "photo_count": 4,
+      "link_status": "approved"
+    },
+    {
+      "number": 18,
+      "name": "Wayne Thomas",
+      "position": "Replacement",
+      "role": "replacement",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 19,
+      "name": "Liam Bailey",
+      "position": "Replacement",
+      "role": "replacement",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 20,
+      "name": "Ethan Winstone",
+      "position": "Replacement",
+      "role": "replacement",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 21,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 22,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "number": 23,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    }
+  ],
+  "opposition_players": [
+    {
+      "name": "Jayden Hunt",
+      "number": 1,
+      "position": "Loosehead Prop",
+      "role": "starter"
+    },
+    {
+      "name": "Darren Gale",
+      "number": 2,
+      "position": "Hooker",
+      "role": "starter"
+    },
+    {
+      "name": "Caleb Mountjoy",
+      "number": 3,
+      "position": "Tighthead Prop",
+      "role": "starter"
+    },
+    {
+      "name": "Matthew Hughes",
+      "number": 4,
+      "position": "Lock",
+      "role": "starter"
+    },
+    {
+      "name": "Josh Edge",
+      "number": 5,
+      "position": "Lock",
+      "role": "starter"
+    },
+    {
+      "name": "Liam Griffiths",
+      "number": 6,
+      "position": "Blindside Flanker",
+      "role": "starter"
+    },
+    {
+      "name": "Rhys Evans",
+      "number": 7,
+      "position": "Openside Flanker",
+      "role": "starter"
+    },
+    {
+      "name": "Will Fishlock",
+      "number": 8,
+      "position": "Number Eight",
+      "role": "starter"
+    },
+    {
+      "name": "Bradlee Williams",
+      "number": 9,
+      "position": "Scrum-half",
+      "role": "starter"
+    },
+    {
+      "name": "James Hallett",
+      "number": 10,
+      "position": "Fly-half",
+      "role": "starter"
+    },
+    {
+      "name": "Will Perry",
+      "number": 11,
+      "position": "Left Wing",
+      "role": "starter"
+    },
+    {
+      "name": "Callum Williams",
+      "number": 12,
+      "position": "Inside Centre",
+      "role": "starter"
+    },
+    {
+      "name": "Connor Wiegold",
+      "number": 13,
+      "position": "Outside Centre",
+      "role": "starter"
+    },
+    {
+      "name": "Nathan Jones",
+      "number": 14,
+      "position": "Right Wing",
+      "role": "starter"
+    },
+    {
+      "name": "Jake Wood",
+      "number": 15,
+      "position": "Full-back",
+      "role": "starter"
+    },
+    {
+      "name": "Ieuan Jones",
+      "number": 16,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "Lloyd Davies",
+      "number": 17,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "Gavin Gabriele",
+      "number": 18,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "Josh Ponchaud",
+      "number": 19,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "Ryan Davies",
+      "number": 20,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "",
+      "number": 21,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "",
+      "number": 22,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "",
+      "number": 23,
+      "position": "Replacement",
+      "role": "replacement"
+    }
+  ],
+  "match_details": {
+    "away_score": "29",
+    "competition": "Admiral National League 3 East",
+    "home_score": "29",
+    "kickoff": "14:30",
+    "match_date": "19th September 2026",
+    "notes": "Match notes here..",
+    "venue": "The Welfare Ground"
+  }
+}
