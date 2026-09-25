@@ -1,5 +1,5 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "sport": "rugby",
   "event_tag": "Testing_Rugby_Game_240926",
   "team_name": "New Panteg RFC",
@@ -489,6 +489,106 @@
         "drop_goal": 0,
         "penalty_try": 0
       }
+    }
+  ],
+  "staff": [
+    {
+      "staff_id": "staff_ebcceb347f04",
+      "staff_type": "coach",
+      "order": 1,
+      "name": "Tom Lampard",
+      "position": "Forwards Coach",
+      "cluster_tag": "face_cluster_316",
+      "portrait_filename": "NE2_1105.jpg",
+      "portrait_flickr_id": "55548270951",
+      "portrait_crop": {},
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0954_face_1_cluster_316.jpg",
+      "photo_count": 2,
+      "link_status": "approved"
+    },
+    {
+      "staff_id": "staff_2abd87323529",
+      "staff_type": "coach",
+      "order": 2,
+      "name": "Robert Tovey",
+      "position": "Backs Coach",
+      "cluster_tag": "face_cluster_161",
+      "portrait_filename": "NE2_1104.jpg",
+      "portrait_flickr_id": "55548270841",
+      "portrait_crop": {},
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0941_face_3_cluster_161.jpg",
+      "photo_count": 4,
+      "link_status": "approved"
+    },
+    {
+      "staff_id": "staff_be8c15b8f647",
+      "staff_type": "coach",
+      "order": 3,
+      "name": "Luke Bigham",
+      "position": "Skills & Defence Coach",
+      "cluster_tag": "face_cluster_160",
+      "portrait_filename": "NE2_1106.jpg",
+      "portrait_flickr_id": "55548651910",
+      "portrait_crop": {},
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0941_face_1_cluster_160.jpg",
+      "photo_count": 4,
+      "link_status": "approved"
+    },
+    {
+      "staff_id": "staff_bb6dee4b5e6c",
+      "staff_type": "coach",
+      "order": 4,
+      "name": "",
+      "position": "Coach",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "staff_id": "staff_c09ca2156e17",
+      "staff_type": "coach",
+      "order": 5,
+      "name": "",
+      "position": "Coach",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "staff_id": "staff_2b917e9fc3a7",
+      "staff_type": "physio",
+      "order": 1,
+      "name": "Physio Name",
+      "position": "Physio",
+      "cluster_tag": "face_cluster_92",
+      "portrait_filename": "NE2_1103.jpg",
+      "portrait_flickr_id": "55548651705",
+      "portrait_crop": {},
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrugbygame240926/face_thumbnails/NE2_0901_face_1_cluster_92.jpg",
+      "photo_count": 3,
+      "link_status": "approved"
+    },
+    {
+      "staff_id": "staff_661031af97a7",
+      "staff_type": "physio",
+      "order": 2,
+      "name": "",
+      "position": "Physio",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
     }
   ],
   "opposition_players": [
