@@ -88,7 +88,7 @@
       "photo_count": 24,
       "link_status": "approved",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
@@ -132,7 +132,7 @@
       "photo_count": 34,
       "link_status": "approved",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
@@ -220,10 +220,10 @@
       "photo_count": 32,
       "link_status": "approved",
       "scoring": {
-        "try": 0,
-        "conversion": 0,
-        "penalty_kick": 0,
-        "drop_goal": 0,
+        "try": 2,
+        "conversion": 2,
+        "penalty_kick": 1,
+        "drop_goal": 1,
         "penalty_try": 0
       }
     },
@@ -289,7 +289,7 @@
         "try": 0,
         "conversion": 0,
         "penalty_kick": 0,
-        "drop_goal": 0,
+        "drop_goal": 1,
         "penalty_try": 0
       }
     },
@@ -352,7 +352,7 @@
       "photo_count": 3,
       "link_status": "approved",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
