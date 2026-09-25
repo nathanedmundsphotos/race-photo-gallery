@@ -1,0 +1,3287 @@
+{
+  "schema_version": 1,
+  "event_tag": "Testing_Running_Event_250926",
+  "confirmed": true,
+  "columns": [
+    "position",
+    "bib",
+    "first_name",
+    "surname",
+    "full_name",
+    "club",
+    "gender",
+    "time"
+  ],
+  "results": [
+    {
+      "position": 1,
+      "bib": 231,
+      "first_name": "James",
+      "surname": "Griffiths",
+      "full_name": "James Griffiths",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:39:30"
+    },
+    {
+      "position": 2,
+      "bib": 212,
+      "first_name": "Tom",
+      "surname": "McCarthy",
+      "full_name": "Tom McCarthy",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:39:41"
+    },
+    {
+      "position": 3,
+      "bib": 280,
+      "first_name": "Ben",
+      "surname": "Kennedy",
+      "full_name": "Ben Kennedy",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:40:14"
+    },
+    {
+      "position": 4,
+      "bib": 275,
+      "first_name": "Tom",
+      "surname": "Flitcroft",
+      "full_name": "Tom Flitcroft",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:40:48"
+    },
+    {
+      "position": 5,
+      "bib": 128,
+      "first_name": "George",
+      "surname": "Collinson",
+      "full_name": "George Collinson",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:41:43"
+    },
+    {
+      "position": 6,
+      "bib": 116,
+      "first_name": "Andy",
+      "surname": "Gardiner",
+      "full_name": "Andy Gardiner",
+      "club": "San Domenico",
+      "gender": "M",
+      "time": "00:42:02"
+    },
+    {
+      "position": 7,
+      "bib": 99,
+      "first_name": "Dave",
+      "surname": "Cleere",
+      "full_name": "Dave Cleere",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "00:42:15"
+    },
+    {
+      "position": 8,
+      "bib": 289,
+      "first_name": "Darren",
+      "surname": "Bishop",
+      "full_name": "Darren Bishop",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:42:29"
+    },
+    {
+      "position": 9,
+      "bib": 382,
+      "first_name": "Martin",
+      "surname": "Thomas",
+      "full_name": "Martin Thomas",
+      "club": "PBB",
+      "gender": "M",
+      "time": "00:42:36"
+    },
+    {
+      "position": 10,
+      "bib": 4,
+      "first_name": "Matthew",
+      "surname": "Payn",
+      "full_name": "Matthew Payn",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:42:41"
+    },
+    {
+      "position": 11,
+      "bib": 92,
+      "first_name": "Huw",
+      "surname": "Silk",
+      "full_name": "Huw Silk",
+      "club": "San Domenico",
+      "gender": "M",
+      "time": "00:42:50"
+    },
+    {
+      "position": 12,
+      "bib": 182,
+      "first_name": "David",
+      "surname": "Craig",
+      "full_name": "David Craig",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:43:21"
+    },
+    {
+      "position": 13,
+      "bib": 398,
+      "first_name": "Tomos",
+      "surname": "Whitmarsh-Knight",
+      "full_name": "Tomos Whitmarsh-Knight",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:43:32"
+    },
+    {
+      "position": 14,
+      "bib": 258,
+      "first_name": "Keith",
+      "surname": "James",
+      "full_name": "Keith James",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:43:35"
+    },
+    {
+      "position": 15,
+      "bib": 63,
+      "first_name": "Ceri",
+      "surname": "Merwood",
+      "full_name": "Ceri Merwood",
+      "club": "CDF",
+      "gender": "F",
+      "time": "00:43:42"
+    },
+    {
+      "position": 16,
+      "bib": 126,
+      "first_name": "Ryan",
+      "surname": "Pugsley",
+      "full_name": "Ryan Pugsley",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:44:13"
+    },
+    {
+      "position": 17,
+      "bib": 355,
+      "first_name": "Paul",
+      "surname": "White",
+      "full_name": "Paul White",
+      "club": "PBB",
+      "gender": "M",
+      "time": "00:44:47"
+    },
+    {
+      "position": 18,
+      "bib": 180,
+      "first_name": "Liam",
+      "surname": "Moore",
+      "full_name": "Liam Moore",
+      "club": "Newport Harriers",
+      "gender": "M",
+      "time": "00:45:06"
+    },
+    {
+      "position": 19,
+      "bib": 15,
+      "first_name": "Roddy",
+      "surname": "Stark",
+      "full_name": "Roddy Stark",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:45:21"
+    },
+    {
+      "position": 20,
+      "bib": 279,
+      "first_name": "Craig",
+      "surname": "Cheedy",
+      "full_name": "Craig Cheedy",
+      "club": "Pontypool",
+      "gender": "M",
+      "time": "00:45:26"
+    },
+    {
+      "position": 21,
+      "bib": 335,
+      "first_name": "Ashley",
+      "surname": "Middlewick",
+      "full_name": "Ashley Middlewick",
+      "club": "PBB",
+      "gender": "M",
+      "time": "00:45:46"
+    },
+    {
+      "position": 22,
+      "bib": 49,
+      "first_name": "Daniel",
+      "surname": "Beech",
+      "full_name": "Daniel Beech",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:45:55"
+    },
+    {
+      "position": 23,
+      "bib": 225,
+      "first_name": "Emily",
+      "surname": "Fell",
+      "full_name": "Emily Fell",
+      "club": "Les Croupiers",
+      "gender": "F",
+      "time": "00:46:00"
+    },
+    {
+      "position": 24,
+      "bib": 64,
+      "first_name": "Gethin",
+      "surname": "Edwards",
+      "full_name": "Gethin Edwards",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:46:04"
+    },
+    {
+      "position": 25,
+      "bib": 43,
+      "first_name": "Charlie",
+      "surname": "Bleasdale",
+      "full_name": "Charlie Bleasdale",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:46:16"
+    },
+    {
+      "position": 26,
+      "bib": 253,
+      "first_name": "Patrick",
+      "surname": "McDowell",
+      "full_name": "Patrick McDowell",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:46:26"
+    },
+    {
+      "position": 27,
+      "bib": 96,
+      "first_name": "Huw",
+      "surname": "Davies",
+      "full_name": "Huw Davies",
+      "club": "San Domenico",
+      "gender": "M",
+      "time": "00:46:35"
+    },
+    {
+      "position": 28,
+      "bib": 125,
+      "first_name": "Stephen",
+      "surname": "Campbell",
+      "full_name": "Stephen Campbell",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:47:01"
+    },
+    {
+      "position": 29,
+      "bib": 271,
+      "first_name": "Ricci",
+      "surname": "Watts",
+      "full_name": "Ricci Watts",
+      "club": "Pontypool",
+      "gender": "M",
+      "time": "00:47:01"
+    },
+    {
+      "position": 30,
+      "bib": 277,
+      "first_name": "Martin",
+      "surname": "Johns",
+      "full_name": "Martin Johns",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "00:47:24"
+    },
+    {
+      "position": 31,
+      "bib": 372,
+      "first_name": "Kimberley",
+      "surname": "McGourlick",
+      "full_name": "Kimberley McGourlick",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "00:47:34"
+    },
+    {
+      "position": 32,
+      "bib": 8,
+      "first_name": "Tom",
+      "surname": "Rees",
+      "full_name": "Tom Rees",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:47:42"
+    },
+    {
+      "position": 33,
+      "bib": 1,
+      "first_name": "Brett",
+      "surname": "Thornbury",
+      "full_name": "Brett Thornbury",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:47:53"
+    },
+    {
+      "position": 34,
+      "bib": 296,
+      "first_name": "Nathan",
+      "surname": "Haines",
+      "full_name": "Nathan Haines",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:47:57"
+    },
+    {
+      "position": 35,
+      "bib": 370,
+      "first_name": "Brad",
+      "surname": "Rivers",
+      "full_name": "Brad Rivers",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:47:58"
+    },
+    {
+      "position": 36,
+      "bib": 177,
+      "first_name": "Alex",
+      "surname": "Hayman",
+      "full_name": "Alex Hayman",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:48:00"
+    },
+    {
+      "position": 37,
+      "bib": 77,
+      "first_name": "Ewan",
+      "surname": "Stenhouse",
+      "full_name": "Ewan Stenhouse",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:48:01"
+    },
+    {
+      "position": 38,
+      "bib": 255,
+      "first_name": "Clare",
+      "surname": "Patterson",
+      "full_name": "Clare Patterson",
+      "club": "PBB",
+      "gender": "F",
+      "time": "00:48:03"
+    },
+    {
+      "position": 39,
+      "bib": 199,
+      "first_name": "Joshua",
+      "surname": "Oldfield",
+      "full_name": "Joshua Oldfield",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:48:06"
+    },
+    {
+      "position": 40,
+      "bib": 260,
+      "first_name": "Luke",
+      "surname": "Harmer",
+      "full_name": "Luke Harmer",
+      "club": "Brav Performance",
+      "gender": "M",
+      "time": "00:48:11"
+    },
+    {
+      "position": 41,
+      "bib": 311,
+      "first_name": "Ffion",
+      "surname": "Morgan",
+      "full_name": "Ffion Morgan",
+      "club": "CDF",
+      "gender": "F",
+      "time": "00:48:17"
+    },
+    {
+      "position": 42,
+      "bib": 74,
+      "first_name": "Tony",
+      "surname": "Marshall",
+      "full_name": "Tony Marshall",
+      "club": "Chepstow",
+      "gender": "M",
+      "time": "00:48:18"
+    },
+    {
+      "position": 43,
+      "bib": 169,
+      "first_name": "Robbie",
+      "surname": "Waterhouse",
+      "full_name": "Robbie Waterhouse",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:48:23"
+    },
+    {
+      "position": 44,
+      "bib": 19,
+      "first_name": "Jaime",
+      "surname": "Holmes",
+      "full_name": "Jaime Holmes",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:48:31"
+    },
+    {
+      "position": 45,
+      "bib": 366,
+      "first_name": "Joe",
+      "surname": "Luckett",
+      "full_name": "Joe Luckett",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:48:33"
+    },
+    {
+      "position": 46,
+      "bib": 195,
+      "first_name": "Jon",
+      "surname": "Burgess",
+      "full_name": "Jon Burgess",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:48:41"
+    },
+    {
+      "position": 47,
+      "bib": 321,
+      "first_name": "Cerith",
+      "surname": "Evans",
+      "full_name": "Cerith Evans",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:48:42"
+    },
+    {
+      "position": 48,
+      "bib": 384,
+      "first_name": "Matthew",
+      "surname": "Cook",
+      "full_name": "Matthew Cook",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:48:49"
+    },
+    {
+      "position": 49,
+      "bib": 51,
+      "first_name": "Sean",
+      "surname": "Adams",
+      "full_name": "Sean Adams",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:48:54"
+    },
+    {
+      "position": 50,
+      "bib": 391,
+      "first_name": "Neil",
+      "surname": "Profit",
+      "full_name": "Neil Profit",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:49:14"
+    },
+    {
+      "position": 51,
+      "bib": 42,
+      "first_name": "Tomas",
+      "surname": "Cox",
+      "full_name": "Tomas Cox",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:49:49"
+    },
+    {
+      "position": 52,
+      "bib": 137,
+      "first_name": "Jack",
+      "surname": "Reddaway",
+      "full_name": "Jack Reddaway",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:49:51"
+    },
+    {
+      "position": 53,
+      "bib": 316,
+      "first_name": "Christopher",
+      "surname": "Latham",
+      "full_name": "Christopher Latham",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:49:54"
+    },
+    {
+      "position": 54,
+      "bib": 309,
+      "first_name": "Tarirai",
+      "surname": "Mahachi",
+      "full_name": "Tarirai Mahachi",
+      "club": "Heath Massive",
+      "gender": "M",
+      "time": "00:50:10"
+    },
+    {
+      "position": 55,
+      "bib": 150,
+      "first_name": "Lee",
+      "surname": "Harvey",
+      "full_name": "Lee Harvey",
+      "club": "Pontypool",
+      "gender": "M",
+      "time": "00:50:19"
+    },
+    {
+      "position": 56,
+      "bib": 134,
+      "first_name": "Mark",
+      "surname": "Pritchard",
+      "full_name": "Mark Pritchard",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:50:20"
+    },
+    {
+      "position": 57,
+      "bib": 76,
+      "first_name": "Cornel",
+      "surname": "Pirvu",
+      "full_name": "Cornel Pirvu",
+      "club": "Caerleon",
+      "gender": "M",
+      "time": "00:50:23"
+    },
+    {
+      "position": 58,
+      "bib": 9,
+      "first_name": "Florence",
+      "surname": "King",
+      "full_name": "Florence King",
+      "club": "CDF",
+      "gender": "F",
+      "time": "00:50:23"
+    },
+    {
+      "position": 59,
+      "bib": 348,
+      "first_name": "Steven",
+      "surname": "Lane",
+      "full_name": "Steven Lane",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:50:26"
+    },
+    {
+      "position": 60,
+      "bib": 320,
+      "first_name": "Kani",
+      "surname": "Hinshelwood",
+      "full_name": "Kani Hinshelwood",
+      "club": "PBB",
+      "gender": "F",
+      "time": "00:50:32"
+    },
+    {
+      "position": 61,
+      "bib": 349,
+      "first_name": "Joe",
+      "surname": "Pugh",
+      "full_name": "Joe Pugh",
+      "club": "Team Vindapoo",
+      "gender": "M",
+      "time": "00:50:36"
+    },
+    {
+      "position": 62,
+      "bib": 331,
+      "first_name": "Lloyd",
+      "surname": "Dowden",
+      "full_name": "Lloyd Dowden",
+      "club": "Caerleon",
+      "gender": "M",
+      "time": "00:50:37"
+    },
+    {
+      "position": 63,
+      "bib": 383,
+      "first_name": "Steve",
+      "surname": "Rogers",
+      "full_name": "Steve Rogers",
+      "club": "Team HCD",
+      "gender": "M",
+      "time": "00:50:43"
+    },
+    {
+      "position": 64,
+      "bib": 124,
+      "first_name": "Patrick",
+      "surname": "Walsh",
+      "full_name": "Patrick Walsh",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:50:44"
+    },
+    {
+      "position": 65,
+      "bib": 171,
+      "first_name": "Niki",
+      "surname": "Morgan",
+      "full_name": "Niki Morgan",
+      "club": "Chepstow",
+      "gender": "F",
+      "time": "00:50:48"
+    },
+    {
+      "position": 66,
+      "bib": 98,
+      "first_name": "Ben",
+      "surname": "Gooding",
+      "full_name": "Ben Gooding",
+      "club": "San Domenico",
+      "gender": "M",
+      "time": "00:50:52"
+    },
+    {
+      "position": 67,
+      "bib": 155,
+      "first_name": "James",
+      "surname": "Williams",
+      "full_name": "James Williams",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:51:36"
+    },
+    {
+      "position": 68,
+      "bib": 312,
+      "first_name": "Zach",
+      "surname": "Gleave",
+      "full_name": "Zach Gleave",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:51:38"
+    },
+    {
+      "position": 69,
+      "bib": 121,
+      "first_name": "Katie",
+      "surname": "Plimmer",
+      "full_name": "Katie Plimmer",
+      "club": "U/A",
+      "gender": "F",
+      "time": "00:51:39"
+    },
+    {
+      "position": 70,
+      "bib": 34,
+      "first_name": "Anna",
+      "surname": "Williams",
+      "full_name": "Anna Williams",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "00:51:43"
+    },
+    {
+      "position": 71,
+      "bib": 6,
+      "first_name": "Alex",
+      "surname": "Haycock",
+      "full_name": "Alex Haycock",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:51:46"
+    },
+    {
+      "position": 72,
+      "bib": 282,
+      "first_name": "Leah",
+      "surname": "Stephens",
+      "full_name": "Leah Stephens",
+      "club": "Les Croupiers",
+      "gender": "F",
+      "time": "00:51:52"
+    },
+    {
+      "position": 73,
+      "bib": 151,
+      "first_name": "Hywel",
+      "surname": "Nash",
+      "full_name": "Hywel Nash",
+      "club": "Pontypool",
+      "gender": "M",
+      "time": "00:51:54"
+    },
+    {
+      "position": 74,
+      "bib": 91,
+      "first_name": "George",
+      "surname": "Walker",
+      "full_name": "George Walker",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:51:56"
+    },
+    {
+      "position": 75,
+      "bib": 156,
+      "first_name": "Pierre",
+      "surname": "Victor-Lemaire",
+      "full_name": "Pierre Victor-Lemaire",
+      "club": "Run Grangetown",
+      "gender": "M",
+      "time": "00:52:09"
+    },
+    {
+      "position": 76,
+      "bib": 360,
+      "first_name": "Jesse",
+      "surname": "Andrews",
+      "full_name": "Jesse Andrews",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:52:20"
+    },
+    {
+      "position": 77,
+      "bib": 390,
+      "first_name": "Lee",
+      "surname": "Mills",
+      "full_name": "Lee Mills",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:52:33"
+    },
+    {
+      "position": 78,
+      "bib": 80,
+      "first_name": "Julia",
+      "surname": "Swallow-Edwards",
+      "full_name": "Julia Swallow-Edwards",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "00:52:37"
+    },
+    {
+      "position": 79,
+      "bib": 192,
+      "first_name": "Richard",
+      "surname": "Veale",
+      "full_name": "Richard Veale",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:52:42"
+    },
+    {
+      "position": 80,
+      "bib": 249,
+      "first_name": "Russ",
+      "surname": "Wareham",
+      "full_name": "Russ Wareham",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:52:43"
+    },
+    {
+      "position": 81,
+      "bib": 241,
+      "first_name": "Delyth",
+      "surname": "Williams",
+      "full_name": "Delyth Williams",
+      "club": "San Domenico",
+      "gender": "F",
+      "time": "00:52:45"
+    },
+    {
+      "position": 82,
+      "bib": 41,
+      "first_name": "Luke",
+      "surname": "Roberts",
+      "full_name": "Luke Roberts",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:52:48"
+    },
+    {
+      "position": 83,
+      "bib": 395,
+      "first_name": "Rob",
+      "surname": "Duggan",
+      "full_name": "Rob Duggan",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:52:54"
+    },
+    {
+      "position": 84,
+      "bib": 71,
+      "first_name": "Steve",
+      "surname": "Pontin",
+      "full_name": "Steve Pontin",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:52:59"
+    },
+    {
+      "position": 85,
+      "bib": 72,
+      "first_name": "Lewis",
+      "surname": "Pontin",
+      "full_name": "Lewis Pontin",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:53:10"
+    },
+    {
+      "position": 86,
+      "bib": 5,
+      "first_name": "Sam",
+      "surname": "Jones",
+      "full_name": "Sam Jones",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:53:23"
+    },
+    {
+      "position": 87,
+      "bib": 133,
+      "first_name": "Jeff",
+      "surname": "John",
+      "full_name": "Jeff John",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:53:27"
+    },
+    {
+      "position": 88,
+      "bib": 328,
+      "first_name": "Spencer",
+      "surname": "Clease",
+      "full_name": "Spencer Clease",
+      "club": "PBB",
+      "gender": "M",
+      "time": "00:53:38"
+    },
+    {
+      "position": 89,
+      "bib": 39,
+      "first_name": "Jessica",
+      "surname": "Benjamin",
+      "full_name": "Jessica Benjamin",
+      "club": "CDF",
+      "gender": "F",
+      "time": "00:53:43"
+    },
+    {
+      "position": 90,
+      "bib": 287,
+      "first_name": "Luke",
+      "surname": "Bailey",
+      "full_name": "Luke Bailey",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:53:53"
+    },
+    {
+      "position": 91,
+      "bib": 356,
+      "first_name": "Owain",
+      "surname": "Morgan",
+      "full_name": "Owain Morgan",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:53:53"
+    },
+    {
+      "position": 92,
+      "bib": 332,
+      "first_name": "Aimee",
+      "surname": "Beynon",
+      "full_name": "Aimee Beynon",
+      "club": "U/A",
+      "gender": "F",
+      "time": "00:54:06"
+    },
+    {
+      "position": 93,
+      "bib": 344,
+      "first_name": "Leon",
+      "surname": "Gleed",
+      "full_name": "Leon Gleed",
+      "club": "Fairwater",
+      "gender": "M",
+      "time": "00:54:12"
+    },
+    {
+      "position": 94,
+      "bib": 362,
+      "first_name": "Bethan",
+      "surname": "Moor",
+      "full_name": "Bethan Moor",
+      "club": "CDF",
+      "gender": "F",
+      "time": "00:54:24"
+    },
+    {
+      "position": 95,
+      "bib": 48,
+      "first_name": "Alexander",
+      "surname": "Orford",
+      "full_name": "Alexander Orford",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:54:37"
+    },
+    {
+      "position": 96,
+      "bib": 154,
+      "first_name": "Beth",
+      "surname": "Warburton",
+      "full_name": "Beth Warburton",
+      "club": "U/A",
+      "gender": "F",
+      "time": "00:54:40"
+    },
+    {
+      "position": 97,
+      "bib": 159,
+      "first_name": "Richard",
+      "surname": "Carr",
+      "full_name": "Richard Carr",
+      "club": "Run Grangetown",
+      "gender": "M",
+      "time": "00:54:41"
+    },
+    {
+      "position": 98,
+      "bib": 341,
+      "first_name": "Liz",
+      "surname": "Richards",
+      "full_name": "Liz Richards",
+      "club": "Caerleon",
+      "gender": "F",
+      "time": "00:54:46"
+    },
+    {
+      "position": 99,
+      "bib": 50,
+      "first_name": "Erin",
+      "surname": "James",
+      "full_name": "Erin James",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "00:54:53"
+    },
+    {
+      "position": 100,
+      "bib": 342,
+      "first_name": "Jason",
+      "surname": "Dixon",
+      "full_name": "Jason Dixon",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:54:54"
+    },
+    {
+      "position": 101,
+      "bib": 109,
+      "first_name": "Alex",
+      "surname": "Hay",
+      "full_name": "Alex Hay",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:54:57"
+    },
+    {
+      "position": 102,
+      "bib": 138,
+      "first_name": "Dafydd",
+      "surname": "Hughes",
+      "full_name": "Dafydd Hughes",
+      "club": "Harrowby Harriers",
+      "gender": "M",
+      "time": "00:55:00"
+    },
+    {
+      "position": 103,
+      "bib": 326,
+      "first_name": "Cerith",
+      "surname": "Evans",
+      "full_name": "Cerith Evans",
+      "club": "U/A",
+      "gender": "F",
+      "time": "00:55:08"
+    },
+    {
+      "position": 104,
+      "bib": 304,
+      "first_name": "Catherine",
+      "surname": "Powell",
+      "full_name": "Catherine Powell",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "00:55:10"
+    },
+    {
+      "position": 105,
+      "bib": 18,
+      "first_name": "Carly",
+      "surname": "Cole",
+      "full_name": "Carly Cole",
+      "club": "PBB",
+      "gender": "F",
+      "time": "00:55:21"
+    },
+    {
+      "position": 106,
+      "bib": 400,
+      "first_name": "Dai",
+      "surname": "Hamm",
+      "full_name": "Dai Hamm",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:55:23"
+    },
+    {
+      "position": 107,
+      "bib": 198,
+      "first_name": "Andrew",
+      "surname": "Barham",
+      "full_name": "Andrew Barham",
+      "club": "Caerphilly",
+      "gender": "M",
+      "time": "00:55:27"
+    },
+    {
+      "position": 108,
+      "bib": 87,
+      "first_name": "Simon",
+      "surname": "Cawthorn",
+      "full_name": "Simon Cawthorn",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "00:55:39"
+    },
+    {
+      "position": 109,
+      "bib": 152,
+      "first_name": "J",
+      "surname": "East",
+      "full_name": "J East",
+      "club": "MDC",
+      "gender": "M",
+      "time": "00:55:45"
+    },
+    {
+      "position": 110,
+      "bib": 254,
+      "first_name": "Chris",
+      "surname": "Watkins",
+      "full_name": "Chris Watkins",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "00:56:03"
+    },
+    {
+      "position": 111,
+      "bib": 314,
+      "first_name": "Colin",
+      "surname": "Wilmott",
+      "full_name": "Colin Wilmott",
+      "club": "Griffithstown",
+      "gender": "M",
+      "time": "00:56:20"
+    },
+    {
+      "position": 112,
+      "bib": 2,
+      "first_name": "Francesca",
+      "surname": "Floris",
+      "full_name": "Francesca Floris",
+      "club": "CDF",
+      "gender": "F",
+      "time": "00:56:40"
+    },
+    {
+      "position": 113,
+      "bib": 330,
+      "first_name": "Erin",
+      "surname": "Pole",
+      "full_name": "Erin Pole",
+      "club": "U/A",
+      "gender": "F",
+      "time": "00:56:48"
+    },
+    {
+      "position": 114,
+      "bib": 114,
+      "first_name": "Daisy",
+      "surname": "Shepherdson",
+      "full_name": "Daisy Shepherdson",
+      "club": "Saddleworth RC",
+      "gender": "F",
+      "time": "00:56:50"
+    },
+    {
+      "position": 115,
+      "bib": 115,
+      "first_name": "Ben",
+      "surname": "Lewis",
+      "full_name": "Ben Lewis",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:56:51"
+    },
+    {
+      "position": 116,
+      "bib": 110,
+      "first_name": "Conor",
+      "surname": "Hughes",
+      "full_name": "Conor Hughes",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:56:51"
+    },
+    {
+      "position": 117,
+      "bib": 294,
+      "first_name": "Peter",
+      "surname": "Davies",
+      "full_name": "Peter Davies",
+      "club": "Sarn Helen",
+      "gender": "M",
+      "time": "00:57:02"
+    },
+    {
+      "position": 118,
+      "bib": 89,
+      "first_name": "David",
+      "surname": "Newman",
+      "full_name": "David Newman",
+      "club": "Pontypool",
+      "gender": "M",
+      "time": "00:57:17"
+    },
+    {
+      "position": 119,
+      "bib": 31,
+      "first_name": "Samuel",
+      "surname": "Jones",
+      "full_name": "Samuel Jones",
+      "club": "Bergarec AC",
+      "gender": "M",
+      "time": "00:57:20"
+    },
+    {
+      "position": 120,
+      "bib": 29,
+      "first_name": "Matthew",
+      "surname": "Jones",
+      "full_name": "Matthew Jones",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "00:57:20"
+    },
+    {
+      "position": 121,
+      "bib": 28,
+      "first_name": "Dan",
+      "surname": "Jones",
+      "full_name": "Dan Jones",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:57:20"
+    },
+    {
+      "position": 122,
+      "bib": 378,
+      "first_name": "Keiron",
+      "surname": "Hearne",
+      "full_name": "Keiron Hearne",
+      "club": "Griffithstown",
+      "gender": "M",
+      "time": "00:57:21"
+    },
+    {
+      "position": 123,
+      "bib": 23,
+      "first_name": "Christopher",
+      "surname": "Davies",
+      "full_name": "Christopher Davies",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:57:22"
+    },
+    {
+      "position": 124,
+      "bib": 143,
+      "first_name": "Connor",
+      "surname": "Dimmick",
+      "full_name": "Connor Dimmick",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:57:23"
+    },
+    {
+      "position": 125,
+      "bib": 44,
+      "first_name": "Emily",
+      "surname": "Adams",
+      "full_name": "Emily Adams",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "00:57:26"
+    },
+    {
+      "position": 126,
+      "bib": 162,
+      "first_name": "Kate",
+      "surname": "Hodgson",
+      "full_name": "Kate Hodgson",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "00:57:34"
+    },
+    {
+      "position": 127,
+      "bib": 12,
+      "first_name": "Tzevai",
+      "surname": "Chong",
+      "full_name": "Tzevai Chong",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:57:36"
+    },
+    {
+      "position": 128,
+      "bib": 123,
+      "first_name": "Kieran",
+      "surname": "Loughlin",
+      "full_name": "Kieran Loughlin",
+      "club": "Ystrad Runners",
+      "gender": "M",
+      "time": "00:57:43"
+    },
+    {
+      "position": 129,
+      "bib": 88,
+      "first_name": "Wesley",
+      "surname": "Harris",
+      "full_name": "Wesley Harris",
+      "club": "Caerleon",
+      "gender": "M",
+      "time": "00:57:44"
+    },
+    {
+      "position": 130,
+      "bib": 393,
+      "first_name": "Niall",
+      "surname": "Boardman",
+      "full_name": "Niall Boardman",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:57:47"
+    },
+    {
+      "position": 131,
+      "bib": 233,
+      "first_name": "Ahmed",
+      "surname": "Sida",
+      "full_name": "Ahmed Sida",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:57:48"
+    },
+    {
+      "position": 132,
+      "bib": 353,
+      "first_name": "Lewis",
+      "surname": "Cardwell",
+      "full_name": "Lewis Cardwell",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:57:55"
+    },
+    {
+      "position": 133,
+      "bib": 354,
+      "first_name": "Owen",
+      "surname": "Thomas",
+      "full_name": "Owen Thomas",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:57:55"
+    },
+    {
+      "position": 134,
+      "bib": 172,
+      "first_name": "Christopher",
+      "surname": "Frowen",
+      "full_name": "Christopher Frowen",
+      "club": "Run Grangetown",
+      "gender": "M",
+      "time": "00:58:00"
+    },
+    {
+      "position": 135,
+      "bib": 175,
+      "first_name": "Rhys",
+      "surname": "Lloyd",
+      "full_name": "Rhys Lloyd",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:58:02"
+    },
+    {
+      "position": 136,
+      "bib": 201,
+      "first_name": "Samual",
+      "surname": "Harmer",
+      "full_name": "Samual Harmer",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:58:04"
+    },
+    {
+      "position": 137,
+      "bib": 52,
+      "first_name": "Gareth",
+      "surname": "Evans",
+      "full_name": "Gareth Evans",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "00:58:05"
+    },
+    {
+      "position": 138,
+      "bib": 290,
+      "first_name": "Cameron",
+      "surname": "Lewis",
+      "full_name": "Cameron Lewis",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:58:11"
+    },
+    {
+      "position": 139,
+      "bib": 240,
+      "first_name": "Alice",
+      "surname": "Williams",
+      "full_name": "Alice Williams",
+      "club": "U/A",
+      "gender": "F",
+      "time": "00:58:21"
+    },
+    {
+      "position": 140,
+      "bib": 224,
+      "first_name": "Kris",
+      "surname": "Davies",
+      "full_name": "Kris Davies",
+      "club": "Two Runners",
+      "gender": "M",
+      "time": "00:58:24"
+    },
+    {
+      "position": 141,
+      "bib": 368,
+      "first_name": "FInley",
+      "surname": "Edwards",
+      "full_name": "FInley Edwards",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:58:32"
+    },
+    {
+      "position": 142,
+      "bib": 317,
+      "first_name": "Soraya",
+      "surname": "Jones",
+      "full_name": "Soraya Jones",
+      "club": "U/A",
+      "gender": "F",
+      "time": "00:58:33"
+    },
+    {
+      "position": 143,
+      "bib": 323,
+      "first_name": "Paul",
+      "surname": "Watkins",
+      "full_name": "Paul Watkins",
+      "club": "Griffithstown",
+      "gender": "M",
+      "time": "00:58:42"
+    },
+    {
+      "position": 144,
+      "bib": 269,
+      "first_name": "Cerys",
+      "surname": "Sims",
+      "full_name": "Cerys Sims",
+      "club": "Brav Performance",
+      "gender": "F",
+      "time": "00:58:46"
+    },
+    {
+      "position": 145,
+      "bib": 83,
+      "first_name": "Richard",
+      "surname": "Jones",
+      "full_name": "Richard Jones",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "00:58:49"
+    },
+    {
+      "position": 146,
+      "bib": 251,
+      "first_name": "Abi",
+      "surname": "Ghuman",
+      "full_name": "Abi Ghuman",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "00:58:54"
+    },
+    {
+      "position": 147,
+      "bib": 386,
+      "first_name": "Samuel",
+      "surname": "Wheeler",
+      "full_name": "Samuel Wheeler",
+      "club": "UA",
+      "gender": "M",
+      "time": "00:59:03"
+    },
+    {
+      "position": 148,
+      "bib": 264,
+      "first_name": "Athanasia",
+      "surname": "Agora",
+      "full_name": "Athanasia Agora",
+      "club": "CDF",
+      "gender": "F",
+      "time": "00:59:13"
+    },
+    {
+      "position": 149,
+      "bib": 292,
+      "first_name": "Jamie",
+      "surname": "Bowen",
+      "full_name": "Jamie Bowen",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:59:13"
+    },
+    {
+      "position": 150,
+      "bib": 113,
+      "first_name": "Andrew",
+      "surname": "Adams",
+      "full_name": "Andrew Adams",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:59:18"
+    },
+    {
+      "position": 151,
+      "bib": 367,
+      "first_name": "Timothy",
+      "surname": "Gibson",
+      "full_name": "Timothy Gibson",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:59:24"
+    },
+    {
+      "position": 152,
+      "bib": 371,
+      "first_name": "Carly",
+      "surname": "Jackson",
+      "full_name": "Carly Jackson",
+      "club": "U/A",
+      "gender": "F",
+      "time": "00:59:29"
+    },
+    {
+      "position": 153,
+      "bib": 338,
+      "first_name": "Gareth",
+      "surname": "Howell",
+      "full_name": "Gareth Howell",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:59:31"
+    },
+    {
+      "position": 154,
+      "bib": 14,
+      "first_name": "Thomas",
+      "surname": "Bush",
+      "full_name": "Thomas Bush",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:59:32"
+    },
+    {
+      "position": 155,
+      "bib": 363,
+      "first_name": "Josh",
+      "surname": "Parry",
+      "full_name": "Josh Parry",
+      "club": "Ogmore",
+      "gender": "M",
+      "time": "00:59:34"
+    },
+    {
+      "position": 156,
+      "bib": 236,
+      "first_name": "Abbie",
+      "surname": "Thomas",
+      "full_name": "Abbie Thomas",
+      "club": "Caerleon",
+      "gender": "F",
+      "time": "00:59:35"
+    },
+    {
+      "position": 157,
+      "bib": 190,
+      "first_name": "Donna",
+      "surname": "Hamer",
+      "full_name": "Donna Hamer",
+      "club": "Les Croupiers",
+      "gender": "F",
+      "time": "00:59:37"
+    },
+    {
+      "position": 158,
+      "bib": 276,
+      "first_name": "Philip",
+      "surname": "Allsopp",
+      "full_name": "Philip Allsopp",
+      "club": "Fairwater",
+      "gender": "M",
+      "time": "00:59:47"
+    },
+    {
+      "position": 159,
+      "bib": 223,
+      "first_name": "Ryan",
+      "surname": "James",
+      "full_name": "Ryan James",
+      "club": "Two Runners",
+      "gender": "M",
+      "time": "00:59:49"
+    },
+    {
+      "position": 160,
+      "bib": 308,
+      "first_name": "Mark",
+      "surname": "Duddridge",
+      "full_name": "Mark Duddridge",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "00:59:50"
+    },
+    {
+      "position": 161,
+      "bib": 244,
+      "first_name": "Benjamin",
+      "surname": "Rhys-Davies",
+      "full_name": "Benjamin Rhys-Davies",
+      "club": "Penarth",
+      "gender": "M",
+      "time": "00:59:53"
+    },
+    {
+      "position": 162,
+      "bib": 242,
+      "first_name": "Andrew",
+      "surname": "Jenkins",
+      "full_name": "Andrew Jenkins",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:59:55"
+    },
+    {
+      "position": 163,
+      "bib": 10,
+      "first_name": "Augusta",
+      "surname": "Trussell",
+      "full_name": "Augusta Trussell",
+      "club": "CDF",
+      "gender": "F",
+      "time": "00:59:56"
+    },
+    {
+      "position": 164,
+      "bib": 278,
+      "first_name": "Justin",
+      "surname": "Sibbons",
+      "full_name": "Justin Sibbons",
+      "club": "U/A",
+      "gender": "M",
+      "time": "00:59:56"
+    },
+    {
+      "position": 165,
+      "bib": 7,
+      "first_name": "Benjamin",
+      "surname": "Ward",
+      "full_name": "Benjamin Ward",
+      "club": "CDF",
+      "gender": "M",
+      "time": "00:59:57"
+    },
+    {
+      "position": 166,
+      "bib": 79,
+      "first_name": "Phil",
+      "surname": "Cummings",
+      "full_name": "Phil Cummings",
+      "club": "Caerleon",
+      "gender": "M",
+      "time": "00:59:59"
+    },
+    {
+      "position": 167,
+      "bib": 268,
+      "first_name": "Nick",
+      "surname": "Sloper",
+      "full_name": "Nick Sloper",
+      "club": "Monmouth",
+      "gender": "M",
+      "time": "01:00:04"
+    },
+    {
+      "position": 168,
+      "bib": 186,
+      "first_name": "Daniel",
+      "surname": "Williams",
+      "full_name": "Daniel Williams",
+      "club": "CDF",
+      "gender": "M",
+      "time": "01:00:41"
+    },
+    {
+      "position": 169,
+      "bib": 218,
+      "first_name": "Lolly",
+      "surname": "Evans",
+      "full_name": "Lolly Evans",
+      "club": "Les Croupiers",
+      "gender": "F",
+      "time": "01:00:48"
+    },
+    {
+      "position": 170,
+      "bib": 256,
+      "first_name": "Ruth",
+      "surname": "Sutton",
+      "full_name": "Ruth Sutton",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:00:58"
+    },
+    {
+      "position": 171,
+      "bib": 307,
+      "first_name": "Paul",
+      "surname": "Brookes",
+      "full_name": "Paul Brookes",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:01:00"
+    },
+    {
+      "position": 172,
+      "bib": 61,
+      "first_name": "Stuart",
+      "surname": "Felix",
+      "full_name": "Stuart Felix",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "01:01:04"
+    },
+    {
+      "position": 173,
+      "bib": 11,
+      "first_name": "Russell",
+      "surname": "Love",
+      "full_name": "Russell Love",
+      "club": "CDF",
+      "gender": "M",
+      "time": "01:01:08"
+    },
+    {
+      "position": 174,
+      "bib": 149,
+      "first_name": "Charlotte",
+      "surname": "Davis",
+      "full_name": "Charlotte Davis",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:01:13"
+    },
+    {
+      "position": 175,
+      "bib": 170,
+      "first_name": "Stephen",
+      "surname": "Owen",
+      "full_name": "Stephen Owen",
+      "club": "Chepstow",
+      "gender": "M",
+      "time": "01:01:25"
+    },
+    {
+      "position": 176,
+      "bib": 325,
+      "first_name": "Sarah",
+      "surname": "Davies",
+      "full_name": "Sarah Davies",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:01:38"
+    },
+    {
+      "position": 177,
+      "bib": 106,
+      "first_name": "Thomas",
+      "surname": "Firth",
+      "full_name": "Thomas Firth",
+      "club": "San Domenico",
+      "gender": "M",
+      "time": "01:01:39"
+    },
+    {
+      "position": 178,
+      "bib": 54,
+      "first_name": "John",
+      "surname": "Carrol",
+      "full_name": "John Carrol",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "01:01:47"
+    },
+    {
+      "position": 179,
+      "bib": 163,
+      "first_name": "Richard",
+      "surname": "Jenkins",
+      "full_name": "Richard Jenkins",
+      "club": "Run Grangetown",
+      "gender": "F",
+      "time": "01:02:02"
+    },
+    {
+      "position": 180,
+      "bib": 361,
+      "first_name": "James",
+      "surname": "Williams",
+      "full_name": "James Williams",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:02:22"
+    },
+    {
+      "position": 181,
+      "bib": 336,
+      "first_name": "Elizabeth",
+      "surname": "Sims",
+      "full_name": "Elizabeth Sims",
+      "club": "Caerleon",
+      "gender": "F",
+      "time": "01:02:28"
+    },
+    {
+      "position": 182,
+      "bib": 380,
+      "first_name": "David",
+      "surname": "Davies",
+      "full_name": "David Davies",
+      "club": "Team HCD",
+      "gender": "M",
+      "time": "01:02:33"
+    },
+    {
+      "position": 183,
+      "bib": 285,
+      "first_name": "Sarah",
+      "surname": "Kembrey",
+      "full_name": "Sarah Kembrey",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:02:36"
+    },
+    {
+      "position": 184,
+      "bib": 105,
+      "first_name": "Neil",
+      "surname": "Fitzgerald",
+      "full_name": "Neil Fitzgerald",
+      "club": "Caerphilly",
+      "gender": "M",
+      "time": "01:03:02"
+    },
+    {
+      "position": 185,
+      "bib": 333,
+      "first_name": "Stephen",
+      "surname": "Locke",
+      "full_name": "Stephen Locke",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "01:03:13"
+    },
+    {
+      "position": 186,
+      "bib": 68,
+      "first_name": "Michelle",
+      "surname": "Gooch",
+      "full_name": "Michelle Gooch",
+      "club": "Pontypool",
+      "gender": "F",
+      "time": "01:03:16"
+    },
+    {
+      "position": 187,
+      "bib": 293,
+      "first_name": "Jamie",
+      "surname": "Fraser",
+      "full_name": "Jamie Fraser",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "01:03:22"
+    },
+    {
+      "position": 188,
+      "bib": 209,
+      "first_name": "David",
+      "surname": "Joseph",
+      "full_name": "David Joseph",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:03:33"
+    },
+    {
+      "position": 189,
+      "bib": 135,
+      "first_name": "Michael",
+      "surname": "Barnes",
+      "full_name": "Michael Barnes",
+      "club": "Fairwater",
+      "gender": "M",
+      "time": "01:03:41"
+    },
+    {
+      "position": 190,
+      "bib": 86,
+      "first_name": "Naomi",
+      "surname": "Handley",
+      "full_name": "Naomi Handley",
+      "club": "Newport Harriers",
+      "gender": "F",
+      "time": "01:03:45"
+    },
+    {
+      "position": 191,
+      "bib": 324,
+      "first_name": "Carly",
+      "surname": "Baines",
+      "full_name": "Carly Baines",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:03:48"
+    },
+    {
+      "position": 192,
+      "bib": 208,
+      "first_name": "Richard",
+      "surname": "Rouse",
+      "full_name": "Richard Rouse",
+      "club": "Caerphilly",
+      "gender": "M",
+      "time": "01:03:59"
+    },
+    {
+      "position": 193,
+      "bib": 84,
+      "first_name": "Chris",
+      "surname": "Jones",
+      "full_name": "Chris Jones",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "01:04:16"
+    },
+    {
+      "position": 194,
+      "bib": 228,
+      "first_name": "Howard",
+      "surname": "Kent",
+      "full_name": "Howard Kent",
+      "club": "Les Croupiers",
+      "gender": "M",
+      "time": "01:04:21"
+    },
+    {
+      "position": 195,
+      "bib": 164,
+      "first_name": "Kevin",
+      "surname": "Williams",
+      "full_name": "Kevin Williams",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:04:27"
+    },
+    {
+      "position": 196,
+      "bib": 181,
+      "first_name": "Chris",
+      "surname": "Dawkins",
+      "full_name": "Chris Dawkins",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:04:40"
+    },
+    {
+      "position": 197,
+      "bib": 364,
+      "first_name": "Andy",
+      "surname": "Baker",
+      "full_name": "Andy Baker",
+      "club": "Fairwater",
+      "gender": "M",
+      "time": "01:04:44"
+    },
+    {
+      "position": 198,
+      "bib": 273,
+      "first_name": "Owen",
+      "surname": "Stone",
+      "full_name": "Owen Stone",
+      "club": "RunNewport",
+      "gender": "M",
+      "time": "01:04:46"
+    },
+    {
+      "position": 199,
+      "bib": 272,
+      "first_name": "Lauren",
+      "surname": "Ringquest",
+      "full_name": "Lauren Ringquest",
+      "club": "RunNewport",
+      "gender": "F",
+      "time": "01:04:47"
+    },
+    {
+      "position": 200,
+      "bib": 174,
+      "first_name": "Toby",
+      "surname": "Brown",
+      "full_name": "Toby Brown",
+      "club": "Burnham Harriers",
+      "gender": "M",
+      "time": "01:04:51"
+    },
+    {
+      "position": 201,
+      "bib": 204,
+      "first_name": "Gavin",
+      "surname": "Jones",
+      "full_name": "Gavin Jones",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "01:04:55"
+    },
+    {
+      "position": 202,
+      "bib": 374,
+      "first_name": "Carly",
+      "surname": "Bunston",
+      "full_name": "Carly Bunston",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:04:56"
+    },
+    {
+      "position": 203,
+      "bib": 205,
+      "first_name": "Jo",
+      "surname": "Norton",
+      "full_name": "Jo Norton",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "01:04:57"
+    },
+    {
+      "position": 204,
+      "bib": 118,
+      "first_name": "Rachel",
+      "surname": "Demellweek",
+      "full_name": "Rachel Demellweek",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "01:04:58"
+    },
+    {
+      "position": 205,
+      "bib": 392,
+      "first_name": "Craig",
+      "surname": "Ward",
+      "full_name": "Craig Ward",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:05:07"
+    },
+    {
+      "position": 206,
+      "bib": 270,
+      "first_name": "Lisa",
+      "surname": "Davies",
+      "full_name": "Lisa Davies",
+      "club": "Ogmore",
+      "gender": "F",
+      "time": "01:05:09"
+    },
+    {
+      "position": 207,
+      "bib": 319,
+      "first_name": "Alysha",
+      "surname": "Bunston",
+      "full_name": "Alysha Bunston",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:05:09"
+    },
+    {
+      "position": 208,
+      "bib": 232,
+      "first_name": "Fiona",
+      "surname": "Drysdale",
+      "full_name": "Fiona Drysdale",
+      "club": "Ogmore",
+      "gender": "F",
+      "time": "01:05:10"
+    },
+    {
+      "position": 209,
+      "bib": 387,
+      "first_name": "Mike",
+      "surname": "Bunston",
+      "full_name": "Mike Bunston",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:05:12"
+    },
+    {
+      "position": 210,
+      "bib": 45,
+      "first_name": "Hollie",
+      "surname": "Harmer",
+      "full_name": "Hollie Harmer",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:05:15"
+    },
+    {
+      "position": 211,
+      "bib": 394,
+      "first_name": "Keith",
+      "surname": "Davies",
+      "full_name": "Keith Davies",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:05:23"
+    },
+    {
+      "position": 212,
+      "bib": 220,
+      "first_name": "Michelle",
+      "surname": "Amblin",
+      "full_name": "Michelle Amblin",
+      "club": "Les Croupiers",
+      "gender": "F",
+      "time": "01:05:28"
+    },
+    {
+      "position": 213,
+      "bib": 120,
+      "first_name": "Morgan",
+      "surname": "Plimmer",
+      "full_name": "Morgan Plimmer",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:05:33"
+    },
+    {
+      "position": 214,
+      "bib": 300,
+      "first_name": "Abbi",
+      "surname": "Wallace",
+      "full_name": "Abbi Wallace",
+      "club": "CDF",
+      "gender": "F",
+      "time": "01:05:35"
+    },
+    {
+      "position": 215,
+      "bib": 238,
+      "first_name": "Morgan",
+      "surname": "Westacott",
+      "full_name": "Morgan Westacott",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:05:44"
+    },
+    {
+      "position": 216,
+      "bib": 239,
+      "first_name": "Rhys",
+      "surname": "Thurston",
+      "full_name": "Rhys Thurston",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "01:05:46"
+    },
+    {
+      "position": 217,
+      "bib": 222,
+      "first_name": "Alun",
+      "surname": "Williams",
+      "full_name": "Alun Williams",
+      "club": "Run Grangetown",
+      "gender": "M",
+      "time": "01:06:10"
+    },
+    {
+      "position": 218,
+      "bib": 188,
+      "first_name": "Gareth",
+      "surname": "Williams",
+      "full_name": "Gareth Williams",
+      "club": "PBB",
+      "gender": "M",
+      "time": "01:06:13"
+    },
+    {
+      "position": 219,
+      "bib": 189,
+      "first_name": "Sam",
+      "surname": "Bills",
+      "full_name": "Sam Bills",
+      "club": "PBB",
+      "gender": "F",
+      "time": "01:06:15"
+    },
+    {
+      "position": 220,
+      "bib": 85,
+      "first_name": "Philippa",
+      "surname": "Carroll",
+      "full_name": "Philippa Carroll",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "01:06:19"
+    },
+    {
+      "position": 221,
+      "bib": 376,
+      "first_name": "Kevin",
+      "surname": "Harley",
+      "full_name": "Kevin Harley",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:06:28"
+    },
+    {
+      "position": 222,
+      "bib": 219,
+      "first_name": "Eve",
+      "surname": "Gallop-Evans",
+      "full_name": "Eve Gallop-Evans",
+      "club": "Les Croupiers",
+      "gender": "F",
+      "time": "01:06:48"
+    },
+    {
+      "position": 223,
+      "bib": 375,
+      "first_name": "Lloyd",
+      "surname": "Jenkins",
+      "full_name": "Lloyd Jenkins",
+      "club": "Team HCD",
+      "gender": "M",
+      "time": "01:07:07"
+    },
+    {
+      "position": 224,
+      "bib": 178,
+      "first_name": "Ellen",
+      "surname": "Sugden",
+      "full_name": "Ellen Sugden",
+      "club": "Pegasus",
+      "gender": "F",
+      "time": "01:07:12"
+    },
+    {
+      "position": 225,
+      "bib": 334,
+      "first_name": "Owen",
+      "surname": "Higgs",
+      "full_name": "Owen Higgs",
+      "club": "Caerphilly",
+      "gender": "M",
+      "time": "01:07:21"
+    },
+    {
+      "position": 226,
+      "bib": 122,
+      "first_name": "John",
+      "surname": "Chandler",
+      "full_name": "John Chandler",
+      "club": "San Domenico",
+      "gender": "M",
+      "time": "01:07:34"
+    },
+    {
+      "position": 227,
+      "bib": 166,
+      "first_name": "Yangi",
+      "surname": "Vundamina",
+      "full_name": "Yangi Vundamina",
+      "club": "Caerleon",
+      "gender": "F",
+      "time": "01:07:43"
+    },
+    {
+      "position": 228,
+      "bib": 200,
+      "first_name": "Denise",
+      "surname": "Evans",
+      "full_name": "Denise Evans",
+      "club": "Chepstow",
+      "gender": "F",
+      "time": "01:07:46"
+    },
+    {
+      "position": 229,
+      "bib": 60,
+      "first_name": "Cath",
+      "surname": "James",
+      "full_name": "Cath James",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "01:07:52"
+    },
+    {
+      "position": 230,
+      "bib": 168,
+      "first_name": "Andrew",
+      "surname": "Spencer",
+      "full_name": "Andrew Spencer",
+      "club": "Griffithstown",
+      "gender": "M",
+      "time": "01:08:03"
+    },
+    {
+      "position": 231,
+      "bib": 117,
+      "first_name": "Meghan",
+      "surname": "Brickley",
+      "full_name": "Meghan Brickley",
+      "club": "Fairwater",
+      "gender": "F",
+      "time": "01:08:12"
+    },
+    {
+      "position": 232,
+      "bib": 352,
+      "first_name": "Mikiko",
+      "surname": "Minty",
+      "full_name": "Mikiko Minty",
+      "club": "Griffithstown",
+      "gender": "M",
+      "time": "01:08:16"
+    },
+    {
+      "position": 233,
+      "bib": 112,
+      "first_name": "Sarah",
+      "surname": "Ostler",
+      "full_name": "Sarah Ostler",
+      "club": "Pegasus",
+      "gender": "F",
+      "time": "01:08:17"
+    },
+    {
+      "position": 234,
+      "bib": 381,
+      "first_name": "Justyn",
+      "surname": "Parker",
+      "full_name": "Justyn Parker",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:08:19"
+    },
+    {
+      "position": 235,
+      "bib": 369,
+      "first_name": "Rachel",
+      "surname": "Johnson",
+      "full_name": "Rachel Johnson",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:08:33"
+    },
+    {
+      "position": 236,
+      "bib": 206,
+      "first_name": "Keston",
+      "surname": "Griffiths",
+      "full_name": "Keston Griffiths",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:08:35"
+    },
+    {
+      "position": 237,
+      "bib": 56,
+      "first_name": "Howard",
+      "surname": "Attwood",
+      "full_name": "Howard Attwood",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "01:08:36"
+    },
+    {
+      "position": 238,
+      "bib": 257,
+      "first_name": "Kathryn",
+      "surname": "Collins",
+      "full_name": "Kathryn Collins",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:08:50"
+    },
+    {
+      "position": 239,
+      "bib": 58,
+      "first_name": "Julie",
+      "surname": "Gould",
+      "full_name": "Julie Gould",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:09:02"
+    },
+    {
+      "position": 240,
+      "bib": 129,
+      "first_name": "Michael",
+      "surname": "Woods",
+      "full_name": "Michael Woods",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:09:05"
+    },
+    {
+      "position": 241,
+      "bib": 358,
+      "first_name": "Gwyn",
+      "surname": "Lloyd",
+      "full_name": "Gwyn Lloyd",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "01:09:08"
+    },
+    {
+      "position": 242,
+      "bib": 288,
+      "first_name": "Faye",
+      "surname": "Fallon",
+      "full_name": "Faye Fallon",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "01:09:09"
+    },
+    {
+      "position": 243,
+      "bib": 13,
+      "first_name": "Katie",
+      "surname": "Lamb",
+      "full_name": "Katie Lamb",
+      "club": "CDF",
+      "gender": "F",
+      "time": "01:09:21"
+    },
+    {
+      "position": 244,
+      "bib": 35,
+      "first_name": "Lee",
+      "surname": "Canning",
+      "full_name": "Lee Canning",
+      "club": "Caerphilly",
+      "gender": "M",
+      "time": "01:09:33"
+    },
+    {
+      "position": 245,
+      "bib": 266,
+      "first_name": "Andrew",
+      "surname": "Hinchcliffe",
+      "full_name": "Andrew Hinchcliffe",
+      "club": "RunNewport",
+      "gender": "M",
+      "time": "01:09:34"
+    },
+    {
+      "position": 246,
+      "bib": 131,
+      "first_name": "Alex",
+      "surname": "Southgate",
+      "full_name": "Alex Southgate",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:09:40"
+    },
+    {
+      "position": 247,
+      "bib": 22,
+      "first_name": "Huw",
+      "surname": "Phillips",
+      "full_name": "Huw Phillips",
+      "club": "Albany Rd",
+      "gender": "M",
+      "time": "01:09:52"
+    },
+    {
+      "position": 248,
+      "bib": 94,
+      "first_name": "Abigail",
+      "surname": "Inseal",
+      "full_name": "Abigail Inseal",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "01:10:15"
+    },
+    {
+      "position": 249,
+      "bib": 243,
+      "first_name": "Rich",
+      "surname": "Parker",
+      "full_name": "Rich Parker",
+      "club": "CDF",
+      "gender": "M",
+      "time": "01:10:30"
+    },
+    {
+      "position": 250,
+      "bib": 291,
+      "first_name": "Charles",
+      "surname": "Barnett",
+      "full_name": "Charles Barnett",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "01:10:51"
+    },
+    {
+      "position": 251,
+      "bib": 148,
+      "first_name": "Tom",
+      "surname": "Warwick",
+      "full_name": "Tom Warwick",
+      "club": "Pontypool",
+      "gender": "M",
+      "time": "01:11:02"
+    },
+    {
+      "position": 252,
+      "bib": 229,
+      "first_name": "Hannah",
+      "surname": "Wyatt",
+      "full_name": "Hannah Wyatt",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "01:11:06"
+    },
+    {
+      "position": 253,
+      "bib": 97,
+      "first_name": "Jo",
+      "surname": "Valentine",
+      "full_name": "Jo Valentine",
+      "club": "Pegasus",
+      "gender": "F",
+      "time": "01:11:09"
+    },
+    {
+      "position": 254,
+      "bib": 313,
+      "first_name": "Mike",
+      "surname": "Pobjoy",
+      "full_name": "Mike Pobjoy",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "01:11:22"
+    },
+    {
+      "position": 255,
+      "bib": 144,
+      "first_name": "Callum",
+      "surname": "Wood",
+      "full_name": "Callum Wood",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:11:57"
+    },
+    {
+      "position": 256,
+      "bib": 194,
+      "first_name": "Chris",
+      "surname": "Owen",
+      "full_name": "Chris Owen",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:12:01"
+    },
+    {
+      "position": 257,
+      "bib": 373,
+      "first_name": "Darren",
+      "surname": "Morgan",
+      "full_name": "Darren Morgan",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:12:04"
+    },
+    {
+      "position": 258,
+      "bib": 108,
+      "first_name": "Nicola",
+      "surname": "Bowman",
+      "full_name": "Nicola Bowman",
+      "club": "Pegasus",
+      "gender": "F",
+      "time": "01:12:06"
+    },
+    {
+      "position": 259,
+      "bib": 130,
+      "first_name": "Wendy",
+      "surname": "Collie",
+      "full_name": "Wendy Collie",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "01:12:32"
+    },
+    {
+      "position": 260,
+      "bib": 385,
+      "first_name": "Richard",
+      "surname": "Wheeler",
+      "full_name": "Richard Wheeler",
+      "club": "UA",
+      "gender": "M",
+      "time": "01:12:43"
+    },
+    {
+      "position": 261,
+      "bib": 310,
+      "first_name": "Mairi",
+      "surname": "Sen",
+      "full_name": "Mairi Sen",
+      "club": "Pontyclun",
+      "gender": "M",
+      "time": "01:12:51"
+    },
+    {
+      "position": 262,
+      "bib": 303,
+      "first_name": "Emma",
+      "surname": "Tippings",
+      "full_name": "Emma Tippings",
+      "club": "Pontyclun",
+      "gender": "F",
+      "time": "01:12:57"
+    },
+    {
+      "position": 263,
+      "bib": 346,
+      "first_name": "Ian",
+      "surname": "Haines",
+      "full_name": "Ian Haines",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:13:03"
+    },
+    {
+      "position": 264,
+      "bib": 213,
+      "first_name": "Erika",
+      "surname": "Skivington",
+      "full_name": "Erika Skivington",
+      "club": "Griffithstown",
+      "gender": "F",
+      "time": "01:13:34"
+    },
+    {
+      "position": 265,
+      "bib": 202,
+      "first_name": "Tyrone",
+      "surname": "Petit",
+      "full_name": "Tyrone Petit",
+      "club": "Hengoed",
+      "gender": "M",
+      "time": "01:13:42"
+    },
+    {
+      "position": 266,
+      "bib": 179,
+      "first_name": "Dawn",
+      "surname": "Davies",
+      "full_name": "Dawn Davies",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:13:45"
+    },
+    {
+      "position": 267,
+      "bib": 210,
+      "first_name": "Andrew",
+      "surname": "Price-Stephens",
+      "full_name": "Andrew Price-Stephens",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:13:50"
+    },
+    {
+      "position": 268,
+      "bib": 90,
+      "first_name": "Simon",
+      "surname": "Roberts",
+      "full_name": "Simon Roberts",
+      "club": "Caerphilly",
+      "gender": "M",
+      "time": "01:13:55"
+    },
+    {
+      "position": 269,
+      "bib": 298,
+      "first_name": "Neill",
+      "surname": "Parker",
+      "full_name": "Neill Parker",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:13:58"
+    },
+    {
+      "position": 270,
+      "bib": 399,
+      "first_name": "Anna",
+      "surname": "Wilkinson",
+      "full_name": "Anna Wilkinson",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:14:01"
+    },
+    {
+      "position": 271,
+      "bib": 95,
+      "first_name": "Michelle",
+      "surname": "Thomas",
+      "full_name": "Michelle Thomas",
+      "club": "Pegasus",
+      "gender": "F",
+      "time": "01:14:17"
+    },
+    {
+      "position": 272,
+      "bib": 377,
+      "first_name": "Luke",
+      "surname": "Perrott",
+      "full_name": "Luke Perrott",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:14:19"
+    },
+    {
+      "position": 273,
+      "bib": 57,
+      "first_name": "Andrew",
+      "surname": "Gould",
+      "full_name": "Andrew Gould",
+      "club": "Islwyn",
+      "gender": "M",
+      "time": "01:14:26"
+    },
+    {
+      "position": 274,
+      "bib": 339,
+      "first_name": "Eleanor",
+      "surname": "Howell",
+      "full_name": "Eleanor Howell",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:14:56"
+    },
+    {
+      "position": 275,
+      "bib": 127,
+      "first_name": "Lowri",
+      "surname": "Feighoney",
+      "full_name": "Lowri Feighoney",
+      "club": "Pegasus",
+      "gender": "F",
+      "time": "01:15:03"
+    },
+    {
+      "position": 276,
+      "bib": 173,
+      "first_name": "Ruth",
+      "surname": "Brown",
+      "full_name": "Ruth Brown",
+      "club": "Burnham Harriers",
+      "gender": "F",
+      "time": "01:15:17"
+    },
+    {
+      "position": 277,
+      "bib": 315,
+      "first_name": "Lee",
+      "surname": "Oakey",
+      "full_name": "Lee Oakey",
+      "club": "RunNewport",
+      "gender": "M",
+      "time": "01:15:18"
+    },
+    {
+      "position": 278,
+      "bib": 214,
+      "first_name": "Tim",
+      "surname": "Carr",
+      "full_name": "Tim Carr",
+      "club": "Westbury",
+      "gender": "M",
+      "time": "01:15:37"
+    },
+    {
+      "position": 279,
+      "bib": 193,
+      "first_name": "Kathryn",
+      "surname": "Lusty",
+      "full_name": "Kathryn Lusty",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:15:49"
+    },
+    {
+      "position": 280,
+      "bib": 235,
+      "first_name": "Stuart",
+      "surname": "Williams",
+      "full_name": "Stuart Williams",
+      "club": "Pontypridd",
+      "gender": "M",
+      "time": "01:16:01"
+    },
+    {
+      "position": 281,
+      "bib": 388,
+      "first_name": "Hilary",
+      "surname": "Preece",
+      "full_name": "Hilary Preece",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:16:11"
+    },
+    {
+      "position": 282,
+      "bib": 38,
+      "first_name": "Angela",
+      "surname": "Maynard",
+      "full_name": "Angela Maynard",
+      "club": "NRFN",
+      "gender": "F",
+      "time": "01:16:14"
+    },
+    {
+      "position": 283,
+      "bib": 347,
+      "first_name": "Steve",
+      "surname": "Dance",
+      "full_name": "Steve Dance",
+      "club": "Caerleon",
+      "gender": "M",
+      "time": "01:16:49"
+    },
+    {
+      "position": 284,
+      "bib": 327,
+      "first_name": "Sarah",
+      "surname": "Arnold",
+      "full_name": "Sarah Arnold",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:17:09"
+    },
+    {
+      "position": 285,
+      "bib": 73,
+      "first_name": "Jodi",
+      "surname": "Pontin",
+      "full_name": "Jodi Pontin",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:17:09"
+    },
+    {
+      "position": 286,
+      "bib": 158,
+      "first_name": "Pip",
+      "surname": "Gray",
+      "full_name": "Pip Gray",
+      "club": "Run Grangetown",
+      "gender": "F",
+      "time": "01:17:14"
+    },
+    {
+      "position": 287,
+      "bib": 17,
+      "first_name": "David",
+      "surname": "Court",
+      "full_name": "David Court",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:17:16"
+    },
+    {
+      "position": 288,
+      "bib": 322,
+      "first_name": "Julia",
+      "surname": "Groombridge",
+      "full_name": "Julia Groombridge",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:17:19"
+    },
+    {
+      "position": 289,
+      "bib": 160,
+      "first_name": "Emma",
+      "surname": "Harris",
+      "full_name": "Emma Harris",
+      "club": "Run Grangetown",
+      "gender": "F",
+      "time": "01:17:21"
+    },
+    {
+      "position": 290,
+      "bib": 139,
+      "first_name": "Rachael",
+      "surname": "Stephens",
+      "full_name": "Rachael Stephens",
+      "club": "Caerleon",
+      "gender": "F",
+      "time": "01:17:29"
+    },
+    {
+      "position": 291,
+      "bib": 396,
+      "first_name": "Sheryl",
+      "surname": "Clarke",
+      "full_name": "Sheryl Clarke",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:17:35"
+    },
+    {
+      "position": 292,
+      "bib": 32,
+      "first_name": "Trudy",
+      "surname": "Hurford",
+      "full_name": "Trudy Hurford",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:17:37"
+    },
+    {
+      "position": 293,
+      "bib": 389,
+      "first_name": "Sian",
+      "surname": "Edwards",
+      "full_name": "Sian Edwards",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:17:49"
+    },
+    {
+      "position": 294,
+      "bib": 397,
+      "first_name": "Stacey",
+      "surname": "Rendall",
+      "full_name": "Stacey Rendall",
+      "club": "Islwyn",
+      "gender": "F",
+      "time": "01:17:50"
+    },
+    {
+      "position": 295,
+      "bib": 365,
+      "first_name": "Alison",
+      "surname": "Carter",
+      "full_name": "Alison Carter",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:17:59"
+    },
+    {
+      "position": 296,
+      "bib": 343,
+      "first_name": "Liz",
+      "surname": "Davis",
+      "full_name": "Liz Davis",
+      "club": "Lliswerry",
+      "gender": "F",
+      "time": "01:18:01"
+    },
+    {
+      "position": 297,
+      "bib": 132,
+      "first_name": "Rhys",
+      "surname": "Thomas",
+      "full_name": "Rhys Thomas",
+      "club": "Pegasus",
+      "gender": "M",
+      "time": "01:18:08"
+    },
+    {
+      "position": 298,
+      "bib": 345,
+      "first_name": "Tim",
+      "surname": "Clarke",
+      "full_name": "Tim Clarke",
+      "club": "Torfaen Dolphins",
+      "gender": "M",
+      "time": "01:18:17"
+    },
+    {
+      "position": 299,
+      "bib": 215,
+      "first_name": "Richard",
+      "surname": "Palmer",
+      "full_name": "Richard Palmer",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:18:37"
+    },
+    {
+      "position": 300,
+      "bib": 216,
+      "first_name": "David",
+      "surname": "Palmer",
+      "full_name": "David Palmer",
+      "club": "100 Marathon Club",
+      "gender": "M",
+      "time": "01:18:39"
+    },
+    {
+      "position": 301,
+      "bib": 267,
+      "first_name": "Matt",
+      "surname": "Lacey",
+      "full_name": "Matt Lacey",
+      "club": "RunNewport",
+      "gender": "M",
+      "time": "01:18:39"
+    },
+    {
+      "position": 302,
+      "bib": 30,
+      "first_name": "Sophie",
+      "surname": "Jones",
+      "full_name": "Sophie Jones",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:19:08"
+    },
+    {
+      "position": 303,
+      "bib": 104,
+      "first_name": "Lynne",
+      "surname": "Hughes",
+      "full_name": "Lynne Hughes",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "01:19:27"
+    },
+    {
+      "position": 304,
+      "bib": 140,
+      "first_name": "Joanna",
+      "surname": "Redihough",
+      "full_name": "Joanna Redihough",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:19:45"
+    },
+    {
+      "position": 305,
+      "bib": 136,
+      "first_name": "Nichola",
+      "surname": "Evans",
+      "full_name": "Nichola Evans",
+      "club": "Dragons",
+      "gender": "F",
+      "time": "01:20:52"
+    },
+    {
+      "position": 306,
+      "bib": 153,
+      "first_name": "Andrew",
+      "surname": "Samuel",
+      "full_name": "Andrew Samuel",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:21:08"
+    },
+    {
+      "position": 307,
+      "bib": 24,
+      "first_name": "Michael",
+      "surname": "Griffiths",
+      "full_name": "Michael Griffiths",
+      "club": "U/A",
+      "gender": "M",
+      "time": "01:21:13"
+    },
+    {
+      "position": 308,
+      "bib": 183,
+      "first_name": "Edward",
+      "surname": "Owen",
+      "full_name": "Edward Owen",
+      "club": "Run Grangetown",
+      "gender": "M",
+      "time": "01:21:14"
+    },
+    {
+      "position": 309,
+      "bib": 247,
+      "first_name": "Katie",
+      "surname": "Peterson",
+      "full_name": "Katie Peterson",
+      "club": "Run Grangetown",
+      "gender": "F",
+      "time": "01:21:16"
+    },
+    {
+      "position": 310,
+      "bib": 25,
+      "first_name": "Kadri-Liis",
+      "surname": "Bogens",
+      "full_name": "Kadri-Liis Bogens",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:21:20"
+    },
+    {
+      "position": 311,
+      "bib": 203,
+      "first_name": "Deb",
+      "surname": "Williams",
+      "full_name": "Deb Williams",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "01:21:45"
+    },
+    {
+      "position": 312,
+      "bib": 237,
+      "first_name": "Laura",
+      "surname": "Pinney",
+      "full_name": "Laura Pinney",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:21:56"
+    },
+    {
+      "position": 313,
+      "bib": 357,
+      "first_name": "Julian",
+      "surname": "Guy",
+      "full_name": "Julian Guy",
+      "club": "Caldicot",
+      "gender": "M",
+      "time": "01:22:09"
+    },
+    {
+      "position": 314,
+      "bib": 157,
+      "first_name": "Georgia",
+      "surname": "Wilson",
+      "full_name": "Georgia Wilson",
+      "club": "Run Grangetown",
+      "gender": "F",
+      "time": "01:22:39"
+    },
+    {
+      "position": 315,
+      "bib": 340,
+      "first_name": "Desmond",
+      "surname": "Jones",
+      "full_name": "Desmond Jones",
+      "club": "Lliswerry",
+      "gender": "M",
+      "time": "01:22:45"
+    },
+    {
+      "position": 316,
+      "bib": 196,
+      "first_name": "Kamile",
+      "surname": "Lenkutyte",
+      "full_name": "Kamile Lenkutyte",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:22:57"
+    },
+    {
+      "position": 317,
+      "bib": 16,
+      "first_name": "Joanne",
+      "surname": "Dendle",
+      "full_name": "Joanne Dendle",
+      "club": "Pontyclun",
+      "gender": "F",
+      "time": "01:23:41"
+    },
+    {
+      "position": 318,
+      "bib": 81,
+      "first_name": "Branwen",
+      "surname": "Evans",
+      "full_name": "Branwen Evans",
+      "club": "Caerphilly",
+      "gender": "F",
+      "time": "01:23:50"
+    },
+    {
+      "position": 319,
+      "bib": 379,
+      "first_name": "Richard",
+      "surname": "Morgan",
+      "full_name": "Richard Morgan",
+      "club": "Run Grangetown",
+      "gender": "M",
+      "time": "01:25:04"
+    },
+    {
+      "position": 320,
+      "bib": 27,
+      "first_name": "Kirsty",
+      "surname": "Jones",
+      "full_name": "Kirsty Jones",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:26:24"
+    },
+    {
+      "position": 321,
+      "bib": 359,
+      "first_name": "Laura",
+      "surname": "Thompson",
+      "full_name": "Laura Thompson",
+      "club": "RunNewport",
+      "gender": "F",
+      "time": "01:26:58"
+    },
+    {
+      "position": 322,
+      "bib": 263,
+      "first_name": "Kelly",
+      "surname": "Geen",
+      "full_name": "Kelly Geen",
+      "club": "U/A",
+      "gender": "F",
+      "time": "01:26:58"
+    },
+    {
+      "position": 323,
+      "bib": 301,
+      "first_name": "John",
+      "surname": "Cunnane",
+      "full_name": "John Cunnane",
+      "club": "Pontyclun",
+      "gender": "M",
+      "time": "01:27:32"
+    },
+    {
+      "position": 324,
+      "bib": 119,
+      "first_name": "Rosie",
+      "surname": "Plimmer",
+      "full_name": "Rosie Plimmer",
+      "club": "Ogmore",
+      "gender": "F",
+      "time": "01:29:03"
+    },
+    {
+      "position": 325,
+      "bib": 295,
+      "first_name": "Caroline",
+      "surname": "Tinsley",
+      "full_name": "Caroline Tinsley",
+      "club": "Albany Rd",
+      "gender": "F",
+      "time": "01:36:51"
+    },
+    {
+      "position": 326,
+      "bib": 26,
+      "first_name": "Gemma",
+      "surname": "Brimble",
+      "full_name": "Gemma Brimble",
+      "club": "Fat Baby RC",
+      "gender": "F",
+      "time": "01:36:52"
+    },
+    {
+      "position": 327,
+      "bib": 37,
+      "first_name": "Libby",
+      "surname": "Toogood",
+      "full_name": "Libby Toogood",
+      "club": "Pontypridd",
+      "gender": "F",
+      "time": "01:36:52"
+    }
+  ]
+}
