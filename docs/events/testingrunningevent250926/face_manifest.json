@@ -30630,7 +30630,7 @@
           "thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/testingrunningevent250926/face_thumbnails/6Y0A4267_face_1_cluster_334.jpg",
           "cluster_id": 334,
           "cluster_tag": "face_cluster_334",
-          "linked_bib": null,
+          "linked_bib": "90",
           "sharpness_score": 666.11,
           "thumbnail_width": 392,
           "thumbnail_height": 459,
