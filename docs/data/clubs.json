@@ -1,0 +1,246 @@
+{
+  "clubs": [
+    {
+      "aliases": [
+        "Caerleon Runners",
+        "Caerleon"
+      ],
+      "format": "png",
+      "id": "caerleon-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caerleon-running-club.png?v=93bd809e067e",
+      "name": "Caerleon Running Club",
+      "sha256": "93bd809e067e9b4583de78628b1e464a8011cb532c159ef7d068985975368a9f"
+    },
+    {
+      "aliases": [
+        "Caerphilly"
+      ],
+      "format": "png",
+      "id": "caerphilly-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caerphilly-runners.png?v=cfe2b62cd558",
+      "name": "Caerphilly Runners",
+      "sha256": "cfe2b62cd5584eabe1d17cac6e9e311b8f34f9586e47cb87fc9cf6e2da806e5b"
+    },
+    {
+      "aliases": [
+        "Caldicot Runners",
+        "Caldicot"
+      ],
+      "format": "png",
+      "id": "caldicot-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caldicot-running-club.png?v=ae84fe7f51f6",
+      "name": "Caldicot Running Club",
+      "sha256": "ae84fe7f51f61273743f837ff748c37a7309885749709dd47ac6567a92774f45"
+    },
+    {
+      "aliases": [
+        "CDF"
+      ],
+      "format": "png",
+      "id": "cdf-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/cdf-runners.png?v=27872a7692c2",
+      "name": "CDF Runners",
+      "sha256": "27872a7692c2d207defbb157a6ab428def389a73d08e7d654f800bd298307489"
+    },
+    {
+      "aliases": [
+        "Chepstow"
+      ],
+      "format": "png",
+      "id": "chepstow-harriers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/chepstow-harriers.png?v=1b5d7ac8650b",
+      "name": "Chepstow Harriers",
+      "sha256": "1b5d7ac8650b1164550e4c19016afa0bc4780fc2f0cbfe306a1df6898602b766"
+    },
+    {
+      "aliases": [
+        "Fairwater Running Club",
+        "Fairwater"
+      ],
+      "format": "svg",
+      "id": "fairwater-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/fairwater-runners.svg?v=bb5e5c661292",
+      "name": "Fairwater Runners",
+      "sha256": "bb5e5c661292e5fb2399d435aa699d386ee9f62aada44306d63fea285f972bf5"
+    },
+    {
+      "aliases": [
+        "Griffithstown Harriers Runners",
+        "Griffithstown Harriers",
+        "Griffithstown"
+      ],
+      "format": "png",
+      "id": "griffithstown-harriers-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/griffithstown-harriers-running-club.png?v=04ee87d54746",
+      "name": "Griffithstown Harriers Running Club",
+      "sha256": "04ee87d54746719845003de9a736d2f31364558e7e946d54b11275da90c5e924"
+    },
+    {
+      "aliases": [
+        "Islwyn Runners",
+        "Islwyn"
+      ],
+      "format": "png",
+      "id": "islwyn-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/islwyn-running-club.png?v=ef04a36d0786",
+      "name": "Islwyn Running Club",
+      "sha256": "ef04a36d078691846e4d13a072dbfc956784257ba558695511ecba00f9f1dbcb"
+    },
+    {
+      "aliases": [
+        "Les Croupiers Runners",
+        "Les Croupiers"
+      ],
+      "format": "png",
+      "id": "les-croupiers-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/les-croupiers-running-club.png?v=36a3440c962b",
+      "name": "Les Croupiers Running Club",
+      "sha256": "36a3440c962b981d695350d4c57dfa1a3abb77164c84c5d4a6ab92c96db015a2"
+    },
+    {
+      "aliases": [
+        "Lliswerry"
+      ],
+      "format": "svg",
+      "id": "lliswerry-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/lliswerry-runners.svg?v=73cdaf66b4b0",
+      "name": "Lliswerry Runners",
+      "sha256": "73cdaf66b4b0c3331b18523343eb47a2203e3c451ff2bd5c6423bc443277382d"
+    },
+    {
+      "aliases": [
+        "Parc Bryn Bach Runners",
+        "Parc Bryn Bach"
+      ],
+      "format": "png",
+      "id": "parc-bryn-bach-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/parc-bryn-bach-running-club.png?v=ce10c7f3313f",
+      "name": "Parc Bryn Bach Running Club",
+      "sha256": "ce10c7f3313fb64db581c1bb19bab6747c8f432ad061af4f4142abae5edea1da"
+    },
+    {
+      "aliases": [
+        "Penarth & Dinas Runners",
+        "Penarth and Dinas",
+        "Penarth & Dinas",
+        "Penarth"
+      ],
+      "format": "png",
+      "id": "penarth-and-dinas-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/penarth-and-dinas-runners.png?v=7bc9da7cfe83",
+      "name": "Penarth and Dinas Runners",
+      "sha256": "7bc9da7cfe83267248fdaa7c956427ce38ba3a39fb8e87c30a8938c594a8060c"
+    },
+    {
+      "aliases": [
+        "Pont-y-pwl and District Runners",
+        "Pontypool & District Runners",
+        "Pontypool and District Runners",
+        "Pont-y-pwl & District",
+        "Pont-y-pwl and District",
+        "Pontypool & District",
+        "Pontypool and District",
+        "Pont-y-pwl",
+        "Pontypool"
+      ],
+      "format": "webp",
+      "id": "pont-y-pwl-district-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pont-y-pwl-district-runners.webp?v=e02df160b9ec",
+      "name": "Pont-y-pwl & District Runners",
+      "sha256": "e02df160b9ecbec6a1d8dfbf2dcc919c2917c7f80ec8944215ef272596f8d190"
+    },
+    {
+      "aliases": [
+        "San Domenico Running Club",
+        "San Domenico Runners",
+        "San Domenico"
+      ],
+      "format": "png",
+      "id": "san-domenico-rc",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/san-domenico-rc.png?v=f9c412c99dbb",
+      "name": "San Domenico RC",
+      "sha256": "f9c412c99dbbfb7965d3f21c1f4ebab93215e4db54aed754b15472123b531118"
+    },
+    {
+      "aliases": [
+        "Spirit of Monmouth Runners",
+        "Spirit of Monmouth",
+        "Monmouth"
+      ],
+      "format": "png",
+      "id": "spirit-of-monmouth-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/spirit-of-monmouth-running-club.png?v=12df78ef3520",
+      "name": "Spirit of Monmouth Running Club",
+      "sha256": "12df78ef35209191bd3405a439cf4925b661fa71f025a6a588b792063bda9652"
+    },
+    {
+      "aliases": [
+        "Ystrad"
+      ],
+      "format": "png",
+      "id": "ystrad-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/ystrad-runners.png?v=245b8d8ddfc5",
+      "name": "Ystrad Runners",
+      "sha256": "245b8d8ddfc5669766b59f893006acf2b7fd5dc1c9a48c97007d747b1f4de66a"
+    }
+  ],
+  "generated_at": "2026-09-28T21:11:19+00:00",
+  "lookup": {
+    "caerleon": "caerleon-running-club",
+    "caerleon runners": "caerleon-running-club",
+    "caerleon running club": "caerleon-running-club",
+    "caerphilly": "caerphilly-runners",
+    "caerphilly runners": "caerphilly-runners",
+    "caldicot": "caldicot-running-club",
+    "caldicot runners": "caldicot-running-club",
+    "caldicot running club": "caldicot-running-club",
+    "cdf": "cdf-runners",
+    "cdf runners": "cdf-runners",
+    "chepstow": "chepstow-harriers",
+    "chepstow harriers": "chepstow-harriers",
+    "fairwater": "fairwater-runners",
+    "fairwater runners": "fairwater-runners",
+    "fairwater running club": "fairwater-runners",
+    "griffithstown": "griffithstown-harriers-running-club",
+    "griffithstown harriers": "griffithstown-harriers-running-club",
+    "griffithstown harriers runners": "griffithstown-harriers-running-club",
+    "griffithstown harriers running club": "griffithstown-harriers-running-club",
+    "islwyn": "islwyn-running-club",
+    "islwyn runners": "islwyn-running-club",
+    "islwyn running club": "islwyn-running-club",
+    "les croupiers": "les-croupiers-running-club",
+    "les croupiers runners": "les-croupiers-running-club",
+    "les croupiers running club": "les-croupiers-running-club",
+    "lliswerry": "lliswerry-runners",
+    "lliswerry runners": "lliswerry-runners",
+    "monmouth": "spirit-of-monmouth-running-club",
+    "parc bryn bach": "parc-bryn-bach-running-club",
+    "parc bryn bach runners": "parc-bryn-bach-running-club",
+    "parc bryn bach running club": "parc-bryn-bach-running-club",
+    "penarth": "penarth-and-dinas-runners",
+    "penarth and dinas": "penarth-and-dinas-runners",
+    "penarth and dinas runners": "penarth-and-dinas-runners",
+    "penarth dinas": "penarth-and-dinas-runners",
+    "penarth dinas runners": "penarth-and-dinas-runners",
+    "pont y pwl": "pont-y-pwl-district-runners",
+    "pont y pwl and district": "pont-y-pwl-district-runners",
+    "pont y pwl and district runners": "pont-y-pwl-district-runners",
+    "pont y pwl district": "pont-y-pwl-district-runners",
+    "pont y pwl district runners": "pont-y-pwl-district-runners",
+    "pontypool": "pont-y-pwl-district-runners",
+    "pontypool and district": "pont-y-pwl-district-runners",
+    "pontypool and district runners": "pont-y-pwl-district-runners",
+    "pontypool district": "pont-y-pwl-district-runners",
+    "pontypool district runners": "pont-y-pwl-district-runners",
+    "san domenico": "san-domenico-rc",
+    "san domenico rc": "san-domenico-rc",
+    "san domenico runners": "san-domenico-rc",
+    "san domenico running club": "san-domenico-rc",
+    "spirit of monmouth": "spirit-of-monmouth-running-club",
+    "spirit of monmouth runners": "spirit-of-monmouth-running-club",
+    "spirit of monmouth running club": "spirit-of-monmouth-running-club",
+    "ystrad": "ystrad-runners",
+    "ystrad runners": "ystrad-runners"
+  },
+  "schema_version": 1
+}
