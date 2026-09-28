@@ -296,6 +296,18 @@
       "tile_colour": "#111827"
     },
     {
+      "aliases": [
+        "Team Rees",
+        "TRG"
+      ],
+      "format": "webp",
+      "id": "team-rees-gym",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/team-rees-gym.webp?v=60a9d49a7348",
+      "name": "Team Rees Gym",
+      "sha256": "60a9d49a734884bc0e9f6e24ed99b6fb11dd7c085c118dcb883c8b2dfd47a2e4",
+      "tile_colour": "#111827"
+    },
+    {
       "aliases": [],
       "format": "png",
       "id": "torfaen-dolphins",
@@ -316,7 +328,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T22:39:21+00:00",
+  "generated_at": "2026-09-28T22:42:59+00:00",
   "lookup": {
     "albany rd": "albany-road-run-club",
     "albany road": "albany-road-run-club",
@@ -398,7 +410,10 @@
     "spirit of monmouth": "spirit-of-monmouth-running-club",
     "spirit of monmouth runners": "spirit-of-monmouth-running-club",
     "spirit of monmouth running club": "spirit-of-monmouth-running-club",
+    "team rees": "team-rees-gym",
+    "team rees gym": "team-rees-gym",
     "torfaen dolphins": "torfaen-dolphins",
+    "trg": "team-rees-gym",
     "ystrad": "ystrad-runners",
     "ystrad runners": "ystrad-runners"
   },
