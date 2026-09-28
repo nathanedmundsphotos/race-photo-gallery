@@ -218,12 +218,12 @@
         "Pont-y-pwl",
         "Pontypool"
       ],
-      "format": "webp",
+      "format": "png",
       "id": "pont-y-pwl-district-runners",
-      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pont-y-pwl-district-runners.webp?v=e02df160b9ec",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pont-y-pwl-district-runners.png?v=62bb62144b15",
       "name": "Pont-y-pwl & District Runners",
-      "sha256": "e02df160b9ecbec6a1d8dfbf2dcc919c2917c7f80ec8944215ef272596f8d190",
-      "tile_colour": "#111827"
+      "sha256": "62bb62144b15c71ba42928a4850a6ef085a0b9dca1458305f0efbfe6210dc37e",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -283,6 +283,15 @@
       "tile_colour": "#ffffff"
     },
     {
+      "aliases": [],
+      "format": "png",
+      "id": "she-runs-cardiff",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/she-runs-cardiff.png?v=a6c496cb329a",
+      "name": "She Runs Cardiff",
+      "sha256": "a6c496cb329a2d90ca434b024e205ee98f81537700dfdb71b32ab7d99f3328bc",
+      "tile_colour": "#652d92"
+    },
+    {
       "aliases": [
         "Spirit of Monmouth Runners",
         "Spirit of Monmouth",
@@ -328,7 +337,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T22:42:59+00:00",
+  "generated_at": "2026-09-28T22:52:36+00:00",
   "lookup": {
     "albany rd": "albany-road-run-club",
     "albany road": "albany-road-run-club",
@@ -407,6 +416,7 @@
     "san domenico rc": "san-domenico-rc",
     "san domenico runners": "san-domenico-rc",
     "san domenico running club": "san-domenico-rc",
+    "she runs cardiff": "she-runs-cardiff",
     "spirit of monmouth": "spirit-of-monmouth-running-club",
     "spirit of monmouth runners": "spirit-of-monmouth-running-club",
     "spirit of monmouth running club": "spirit-of-monmouth-running-club",
