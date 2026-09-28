@@ -151,6 +151,17 @@
     },
     {
       "aliases": [
+        "Pontypridd Roadents",
+        "Pontypridd"
+      ],
+      "format": "png",
+      "id": "pontypridd-roadents-ac",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontypridd-roadents-ac.png?v=537d7ed2c6f2",
+      "name": "Pontypridd Roadents AC",
+      "sha256": "537d7ed2c6f22e158ab2037c903da745b870eedbea95200b8b3d7f61fb98331a"
+    },
+    {
+      "aliases": [
         "San Domenico Running Club",
         "San Domenico Runners",
         "San Domenico"
@@ -184,7 +195,7 @@
       "sha256": "245b8d8ddfc5669766b59f893006acf2b7fd5dc1c9a48c97007d747b1f4de66a"
     }
   ],
-  "generated_at": "2026-09-28T21:11:19+00:00",
+  "generated_at": "2026-09-28T21:40:54+00:00",
   "lookup": {
     "caerleon": "caerleon-running-club",
     "caerleon runners": "caerleon-running-club",
@@ -232,6 +243,9 @@
     "pontypool and district runners": "pont-y-pwl-district-runners",
     "pontypool district": "pont-y-pwl-district-runners",
     "pontypool district runners": "pont-y-pwl-district-runners",
+    "pontypridd": "pontypridd-roadents-ac",
+    "pontypridd roadents": "pontypridd-roadents-ac",
+    "pontypridd roadents ac": "pontypridd-roadents-ac",
     "san domenico": "san-domenico-rc",
     "san domenico rc": "san-domenico-rc",
     "san domenico runners": "san-domenico-rc",
