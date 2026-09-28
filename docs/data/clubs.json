@@ -16,6 +16,7 @@
     {
       "aliases": [
         "Caerleon Runners",
+        "Caerleon RC",
         "Caerleon"
       ],
       "format": "png",
@@ -50,6 +51,19 @@
     },
     {
       "aliases": [
+        "Cardiff Harlequins Trail Runners",
+        "Cardiff Harlequins TRC",
+        "Cardiff Harlequins"
+      ],
+      "format": "png",
+      "id": "cardiff-harlequins-trail-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/cardiff-harlequins-trail-running-club.png?v=d178d3960376",
+      "name": "Cardiff Harlequins Trail Running Club",
+      "sha256": "d178d396037635a586dfa5d0c56c9094dfdf4e09478292ee605f6a97b1776a7f",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "CDF"
       ],
       "format": "png",
@@ -72,6 +86,33 @@
     },
     {
       "aliases": [
+        "Dragons Running Club - Aberdare",
+        "Dragons Runners"
+      ],
+      "format": "png",
+      "id": "dragons-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/dragons-running-club.png?v=331aeff408ae",
+      "name": "Dragons Running Club",
+      "sha256": "331aeff408aea33a491c29388db1b8d25019763caa016e72f2a7b32d4db4b083",
+      "tile_colour": "#111827"
+    },
+    {
+      "aliases": [
+        "Emersons Green RC",
+        "Emersons Green Runners",
+        "Emersons Green",
+        "EGRC"
+      ],
+      "format": "png",
+      "id": "emersons-green-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/emersons-green-running-club.png?v=c17c727b4872",
+      "name": "Emersons Green Running Club",
+      "sha256": "c17c727b4872fce49328e0980559cf1c0f07831b3c318a7bd3d2532a77716aaf",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Fairwater Runners Cwmbran",
         "Fairwater Running Club",
         "Fairwater"
       ],
@@ -80,6 +121,18 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/fairwater-runners.svg?v=bb5e5c661292",
       "name": "Fairwater Runners",
       "sha256": "bb5e5c661292e5fb2399d435aa699d386ee9f62aada44306d63fea285f972bf5",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Forest of Dean Athletic Club",
+        "Forest of Dean"
+      ],
+      "format": "png",
+      "id": "forest-of-dean-ac",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/forest-of-dean-ac.png?v=f252252c6b22",
+      "name": "Forest of Dean AC",
+      "sha256": "f252252c6b225067b397517fa5603a401d7ceb2667f50b28c0b72aca55d41d64",
       "tile_colour": "#ffffff"
     },
     {
@@ -97,6 +150,18 @@
     },
     {
       "aliases": [
+        "Grove RC",
+        "Grove"
+      ],
+      "format": "png",
+      "id": "grove-run-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/grove-run-club.png?v=dbae2cf335fe",
+      "name": "Grove Run Club",
+      "sha256": "dbae2cf335fe7284835abce5f2836dfaaeb6dddf3ed1ba3a5c0de04b04db2da3",
+      "tile_colour": "#fef3c7"
+    },
+    {
+      "aliases": [
         "Hengoed"
       ],
       "format": "png",
@@ -108,7 +173,21 @@
     },
     {
       "aliases": [
+        "Hereford Couriers RC",
+        "Hereford Couriers Running",
+        "Hereford Couriers"
+      ],
+      "format": "png",
+      "id": "hereford-couriers-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/hereford-couriers-running-club.png?v=37538dbfc489",
+      "name": "Hereford Couriers Running Club",
+      "sha256": "37538dbfc4899961ac9525bf3b3d029bbc5ee91d7a0b13433d8e51a8f1682e31",
+      "tile_colour": "#ff0000"
+    },
+    {
+      "aliases": [
         "Islwyn Runners",
+        "Islwyn RC",
         "Islwyn"
       ],
       "format": "png",
@@ -128,6 +207,15 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/les-croupiers-running-club.png?v=36a3440c962b",
       "name": "Les Croupiers Running Club",
       "sha256": "36a3440c962b981d695350d4c57dfa1a3abb77164c84c5d4a6ab92c96db015a2",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [],
+      "format": "png",
+      "id": "llantwit-major-milers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/llantwit-major-milers.png?v=354ed3edc40f",
+      "name": "Llantwit Major Milers",
+      "sha256": "354ed3edc40f65d44230e5d3b9dbe051d19d813325733b2765dd7b1828af582a",
       "tile_colour": "#ffffff"
     },
     {
@@ -251,6 +339,17 @@
     },
     {
       "aliases": [
+        "Roberttown"
+      ],
+      "format": "png",
+      "id": "roberttown-road-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/roberttown-road-runners.png?v=ec84c0c5e089",
+      "name": "Roberttown Road Runners",
+      "sha256": "ec84c0c5e0899b1b0b8d6948c70e7c44cd472c4024badb9c29d24e8097058ce6",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "Grangetown"
       ],
       "format": "png",
@@ -293,6 +392,17 @@
     },
     {
       "aliases": [
+        "SSRC"
+      ],
+      "format": "png",
+      "id": "short-strides-run-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/short-strides-run-club.png?v=6c4e689fe120",
+      "name": "Short Strides Run Club",
+      "sha256": "6c4e689fe12084c3d604cbb400eb8398e59d625a88a496ef5a38b0c986fa2066",
+      "tile_colour": "#e5e4e0"
+    },
+    {
+      "aliases": [
         "Spirit of Monmouth Runners",
         "Spirit of Monmouth",
         "Monmouth"
@@ -317,6 +427,18 @@
       "tile_colour": "#111827"
     },
     {
+      "aliases": [
+        "Tewkesbury Runners",
+        "Tewkesbury"
+      ],
+      "format": "png",
+      "id": "tewkesbury-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/tewkesbury-running-club.png?v=87e3134edd06",
+      "name": "Tewkesbury Running Club",
+      "sha256": "87e3134edd06b016326092bf6548fd52b6f64e60e72f20c3c334e8276b008177",
+      "tile_colour": "#000000"
+    },
+    {
       "aliases": [],
       "format": "png",
       "id": "torfaen-dolphins",
@@ -324,6 +446,18 @@
       "name": "Torfaen Dolphins",
       "sha256": "76e33fc2caed7421a74e8ea99d539f63e8d419ee7d1382556991a29e07670715",
       "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Vegan Runners Cymru",
+        "Vegan Runners"
+      ],
+      "format": "png",
+      "id": "vegan-runners-uk",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/vegan-runners-uk.png?v=b9c044dc3e7b",
+      "name": "Vegan Runners UK",
+      "sha256": "b9c044dc3e7b75502daceadf129b7d8e4cf6c902eac1d06d825794dca9cd3a21",
+      "tile_colour": "#008235"
     },
     {
       "aliases": [
@@ -337,13 +471,14 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T22:52:36+00:00",
+  "generated_at": "2026-09-28T23:30:35+00:00",
   "lookup": {
     "albany rd": "albany-road-run-club",
     "albany road": "albany-road-run-club",
     "albany road run club": "albany-road-run-club",
     "albany road runners": "albany-road-run-club",
     "caerleon": "caerleon-running-club",
+    "caerleon rc": "caerleon-running-club",
     "caerleon runners": "caerleon-running-club",
     "caerleon running club": "caerleon-running-club",
     "caerphilly": "caerphilly-runners",
@@ -351,26 +486,51 @@
     "caldicot": "caldicot-running-club",
     "caldicot runners": "caldicot-running-club",
     "caldicot running club": "caldicot-running-club",
+    "cardiff harlequins": "cardiff-harlequins-trail-running-club",
+    "cardiff harlequins trail runners": "cardiff-harlequins-trail-running-club",
+    "cardiff harlequins trail running club": "cardiff-harlequins-trail-running-club",
+    "cardiff harlequins trc": "cardiff-harlequins-trail-running-club",
     "cdf": "cdf-runners",
     "cdf runners": "cdf-runners",
     "chepstow": "chepstow-harriers",
     "chepstow harriers": "chepstow-harriers",
+    "dragons runners": "dragons-running-club",
+    "dragons running club": "dragons-running-club",
+    "dragons running club aberdare": "dragons-running-club",
+    "egrc": "emersons-green-running-club",
+    "emersons green": "emersons-green-running-club",
+    "emersons green rc": "emersons-green-running-club",
+    "emersons green runners": "emersons-green-running-club",
+    "emersons green running club": "emersons-green-running-club",
     "fairwater": "fairwater-runners",
     "fairwater runners": "fairwater-runners",
+    "fairwater runners cwmbran": "fairwater-runners",
     "fairwater running club": "fairwater-runners",
+    "forest of dean": "forest-of-dean-ac",
+    "forest of dean ac": "forest-of-dean-ac",
+    "forest of dean athletic club": "forest-of-dean-ac",
     "grangetown": "run-grangetown",
     "griffithstown": "griffithstown-harriers-running-club",
     "griffithstown harriers": "griffithstown-harriers-running-club",
     "griffithstown harriers runners": "griffithstown-harriers-running-club",
     "griffithstown harriers running club": "griffithstown-harriers-running-club",
+    "grove": "grove-run-club",
+    "grove rc": "grove-run-club",
+    "grove run club": "grove-run-club",
     "hengoed": "hengoed-harriers",
     "hengoed harriers": "hengoed-harriers",
+    "hereford couriers": "hereford-couriers-running-club",
+    "hereford couriers rc": "hereford-couriers-running-club",
+    "hereford couriers running": "hereford-couriers-running-club",
+    "hereford couriers running club": "hereford-couriers-running-club",
     "islwyn": "islwyn-running-club",
+    "islwyn rc": "islwyn-running-club",
     "islwyn runners": "islwyn-running-club",
     "islwyn running club": "islwyn-running-club",
     "les croupiers": "les-croupiers-running-club",
     "les croupiers runners": "les-croupiers-running-club",
     "les croupiers running club": "les-croupiers-running-club",
+    "llantwit major milers": "llantwit-major-milers",
     "lliswerry": "lliswerry-runners",
     "lliswerry runners": "lliswerry-runners",
     "monmouth": "spirit-of-monmouth-running-club",
@@ -410,6 +570,8 @@
     "pontypridd": "pontypridd-roadents-ac",
     "pontypridd roadents": "pontypridd-roadents-ac",
     "pontypridd roadents ac": "pontypridd-roadents-ac",
+    "roberttown": "roberttown-road-runners",
+    "roberttown road runners": "roberttown-road-runners",
     "run grangetown": "run-grangetown",
     "runnewport": "runnewport",
     "san domenico": "san-domenico-rc",
@@ -417,13 +579,21 @@
     "san domenico runners": "san-domenico-rc",
     "san domenico running club": "san-domenico-rc",
     "she runs cardiff": "she-runs-cardiff",
+    "short strides run club": "short-strides-run-club",
     "spirit of monmouth": "spirit-of-monmouth-running-club",
     "spirit of monmouth runners": "spirit-of-monmouth-running-club",
     "spirit of monmouth running club": "spirit-of-monmouth-running-club",
+    "ssrc": "short-strides-run-club",
     "team rees": "team-rees-gym",
     "team rees gym": "team-rees-gym",
+    "tewkesbury": "tewkesbury-running-club",
+    "tewkesbury runners": "tewkesbury-running-club",
+    "tewkesbury running club": "tewkesbury-running-club",
     "torfaen dolphins": "torfaen-dolphins",
     "trg": "team-rees-gym",
+    "vegan runners": "vegan-runners-uk",
+    "vegan runners cymru": "vegan-runners-uk",
+    "vegan runners uk": "vegan-runners-uk",
     "ystrad": "ystrad-runners",
     "ystrad runners": "ystrad-runners"
   },
