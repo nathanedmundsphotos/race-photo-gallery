@@ -2,6 +2,19 @@
   "clubs": [
     {
       "aliases": [
+        "Albany Road Runners",
+        "Albany Road",
+        "Albany Rd"
+      ],
+      "format": "png",
+      "id": "albany-road-run-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/albany-road-run-club.png?v=c140079336a7",
+      "name": "Albany Road Run Club",
+      "sha256": "c140079336a7c76b538d2abea1dee3d54a97ef303072a536df9914e41a0f7a85",
+      "tile_colour": "#111827"
+    },
+    {
+      "aliases": [
         "Caerleon Runners",
         "Caerleon"
       ],
@@ -84,6 +97,17 @@
     },
     {
       "aliases": [
+        "Hengoed"
+      ],
+      "format": "png",
+      "id": "hengoed-harriers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/hengoed-harriers.png?v=cfa0faecfacd",
+      "name": "Hengoed Harriers",
+      "sha256": "cfa0faecfacdc5bbe97d21a8eb43b886318a73f7c94c06d0c598a329a44c3c19",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "Islwyn Runners",
         "Islwyn"
       ],
@@ -110,11 +134,11 @@
       "aliases": [
         "Lliswerry"
       ],
-      "format": "svg",
+      "format": "png",
       "id": "lliswerry-runners",
-      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/lliswerry-runners.svg?v=73cdaf66b4b0",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/lliswerry-runners.png?v=97b27f2c3fa7",
       "name": "Lliswerry Runners",
-      "sha256": "73cdaf66b4b0c3331b18523343eb47a2203e3c451ff2bd5c6423bc443277382d",
+      "sha256": "97b27f2c3fa7094c4c18bf79b8d5e9414cb4a29070ddaf937220c908ba848cdf",
       "tile_colour": "#ffffff"
     },
     {
@@ -132,6 +156,18 @@
     },
     {
       "aliases": [
+        "Ogmore Phoenix",
+        "Ogmore"
+      ],
+      "format": "png",
+      "id": "ogmore-phoenix-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/ogmore-phoenix-runners.png?v=8a1113af838f",
+      "name": "Ogmore Phoenix Runners",
+      "sha256": "8a1113af838f3610b685a9bce4d6d48fdfb1b8cad793e940ef38d5562aac3ff0",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "Parc Bryn Bach Runners",
         "Parc Bryn Bach",
         "PBB"
@@ -142,6 +178,19 @@
       "name": "Parc Bryn Bach Running Club",
       "sha256": "ce10c7f3313fb64db581c1bb19bab6747c8f432ad061af4f4142abae5edea1da",
       "tile_colour": "#111827"
+    },
+    {
+      "aliases": [
+        "Pegasus Running Club",
+        "Pegasus Running",
+        "Pegasus"
+      ],
+      "format": "webp",
+      "id": "pegasus-running-club-cardiff",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pegasus-running-club-cardiff.webp?v=7b334f0e80f1",
+      "name": "Pegasus Running Club Cardiff",
+      "sha256": "7b334f0e80f15b78e64f39f146f585b82aaec0c264e589ebb29a416e285f2eb5",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -178,6 +227,18 @@
     },
     {
       "aliases": [
+        "Pontyclun Runners",
+        "Pontyclun"
+      ],
+      "format": "png",
+      "id": "pontyclun-road-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontyclun-road-runners.png?v=379584df4dcd",
+      "name": "Pontyclun Road Runners",
+      "sha256": "379584df4dcd4cc7e61e1a5b7abf0cbbbcde39c7849f13d39f5973580d3d2f8c",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "Pontypridd Roadents",
         "Pontypridd"
       ],
@@ -198,6 +259,15 @@
       "name": "Run Grangetown",
       "sha256": "2330799dc105fc4e9dbf08eea2da3bfa8979699755f82eca84ab1bf2d2839e03",
       "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [],
+      "format": "png",
+      "id": "runnewport",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/runnewport.png?v=319333439a8f",
+      "name": "RunNewport",
+      "sha256": "319333439a8f4357c87ab57d9985a8419a398b08b2989008a01083cc48a67f34",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -226,6 +296,15 @@
       "tile_colour": "#111827"
     },
     {
+      "aliases": [],
+      "format": "png",
+      "id": "torfaen-dolphins",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/torfaen-dolphins.png?v=76e33fc2caed",
+      "name": "Torfaen Dolphins",
+      "sha256": "76e33fc2caed7421a74e8ea99d539f63e8d419ee7d1382556991a29e07670715",
+      "tile_colour": "#ffffff"
+    },
+    {
       "aliases": [
         "Ystrad"
       ],
@@ -237,8 +316,12 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T22:18:10+00:00",
+  "generated_at": "2026-09-28T22:39:21+00:00",
   "lookup": {
+    "albany rd": "albany-road-run-club",
+    "albany road": "albany-road-run-club",
+    "albany road run club": "albany-road-run-club",
+    "albany road runners": "albany-road-run-club",
     "caerleon": "caerleon-running-club",
     "caerleon runners": "caerleon-running-club",
     "caerleon running club": "caerleon-running-club",
@@ -259,6 +342,8 @@
     "griffithstown harriers": "griffithstown-harriers-running-club",
     "griffithstown harriers runners": "griffithstown-harriers-running-club",
     "griffithstown harriers running club": "griffithstown-harriers-running-club",
+    "hengoed": "hengoed-harriers",
+    "hengoed harriers": "hengoed-harriers",
     "islwyn": "islwyn-running-club",
     "islwyn runners": "islwyn-running-club",
     "islwyn running club": "islwyn-running-club",
@@ -272,10 +357,17 @@
     "newport harriers": "newport-harriers-athletic-club",
     "newport harriers ac": "newport-harriers-athletic-club",
     "newport harriers athletic club": "newport-harriers-athletic-club",
+    "ogmore": "ogmore-phoenix-runners",
+    "ogmore phoenix": "ogmore-phoenix-runners",
+    "ogmore phoenix runners": "ogmore-phoenix-runners",
     "parc bryn bach": "parc-bryn-bach-running-club",
     "parc bryn bach runners": "parc-bryn-bach-running-club",
     "parc bryn bach running club": "parc-bryn-bach-running-club",
     "pbb": "parc-bryn-bach-running-club",
+    "pegasus": "pegasus-running-club-cardiff",
+    "pegasus running": "pegasus-running-club-cardiff",
+    "pegasus running club": "pegasus-running-club-cardiff",
+    "pegasus running club cardiff": "pegasus-running-club-cardiff",
     "penarth": "penarth-and-dinas-runners",
     "penarth and dinas": "penarth-and-dinas-runners",
     "penarth and dinas runners": "penarth-and-dinas-runners",
@@ -286,6 +378,9 @@
     "pont y pwl and district runners": "pont-y-pwl-district-runners",
     "pont y pwl district": "pont-y-pwl-district-runners",
     "pont y pwl district runners": "pont-y-pwl-district-runners",
+    "pontyclun": "pontyclun-road-runners",
+    "pontyclun road runners": "pontyclun-road-runners",
+    "pontyclun runners": "pontyclun-road-runners",
     "pontypool": "pont-y-pwl-district-runners",
     "pontypool and district": "pont-y-pwl-district-runners",
     "pontypool and district runners": "pont-y-pwl-district-runners",
@@ -295,6 +390,7 @@
     "pontypridd roadents": "pontypridd-roadents-ac",
     "pontypridd roadents ac": "pontypridd-roadents-ac",
     "run grangetown": "run-grangetown",
+    "runnewport": "runnewport",
     "san domenico": "san-domenico-rc",
     "san domenico rc": "san-domenico-rc",
     "san domenico runners": "san-domenico-rc",
@@ -302,6 +398,7 @@
     "spirit of monmouth": "spirit-of-monmouth-running-club",
     "spirit of monmouth runners": "spirit-of-monmouth-running-club",
     "spirit of monmouth running club": "spirit-of-monmouth-running-club",
+    "torfaen dolphins": "torfaen-dolphins",
     "ystrad": "ystrad-runners",
     "ystrad runners": "ystrad-runners"
   },
