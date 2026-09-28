@@ -9,7 +9,8 @@
       "id": "caerleon-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caerleon-running-club.png?v=93bd809e067e",
       "name": "Caerleon Running Club",
-      "sha256": "93bd809e067e9b4583de78628b1e464a8011cb532c159ef7d068985975368a9f"
+      "sha256": "93bd809e067e9b4583de78628b1e464a8011cb532c159ef7d068985975368a9f",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -19,7 +20,8 @@
       "id": "caerphilly-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caerphilly-runners.png?v=cfe2b62cd558",
       "name": "Caerphilly Runners",
-      "sha256": "cfe2b62cd5584eabe1d17cac6e9e311b8f34f9586e47cb87fc9cf6e2da806e5b"
+      "sha256": "cfe2b62cd5584eabe1d17cac6e9e311b8f34f9586e47cb87fc9cf6e2da806e5b",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -30,7 +32,8 @@
       "id": "caldicot-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caldicot-running-club.png?v=ae84fe7f51f6",
       "name": "Caldicot Running Club",
-      "sha256": "ae84fe7f51f61273743f837ff748c37a7309885749709dd47ac6567a92774f45"
+      "sha256": "ae84fe7f51f61273743f837ff748c37a7309885749709dd47ac6567a92774f45",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -40,7 +43,8 @@
       "id": "cdf-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/cdf-runners.png?v=27872a7692c2",
       "name": "CDF Runners",
-      "sha256": "27872a7692c2d207defbb157a6ab428def389a73d08e7d654f800bd298307489"
+      "sha256": "27872a7692c2d207defbb157a6ab428def389a73d08e7d654f800bd298307489",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -50,7 +54,8 @@
       "id": "chepstow-harriers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/chepstow-harriers.png?v=1b5d7ac8650b",
       "name": "Chepstow Harriers",
-      "sha256": "1b5d7ac8650b1164550e4c19016afa0bc4780fc2f0cbfe306a1df6898602b766"
+      "sha256": "1b5d7ac8650b1164550e4c19016afa0bc4780fc2f0cbfe306a1df6898602b766",
+      "tile_colour": "#f8fafc"
     },
     {
       "aliases": [
@@ -61,7 +66,8 @@
       "id": "fairwater-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/fairwater-runners.svg?v=bb5e5c661292",
       "name": "Fairwater Runners",
-      "sha256": "bb5e5c661292e5fb2399d435aa699d386ee9f62aada44306d63fea285f972bf5"
+      "sha256": "bb5e5c661292e5fb2399d435aa699d386ee9f62aada44306d63fea285f972bf5",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -73,7 +79,8 @@
       "id": "griffithstown-harriers-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/griffithstown-harriers-running-club.png?v=04ee87d54746",
       "name": "Griffithstown Harriers Running Club",
-      "sha256": "04ee87d54746719845003de9a736d2f31364558e7e946d54b11275da90c5e924"
+      "sha256": "04ee87d54746719845003de9a736d2f31364558e7e946d54b11275da90c5e924",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -84,7 +91,8 @@
       "id": "islwyn-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/islwyn-running-club.png?v=ef04a36d0786",
       "name": "Islwyn Running Club",
-      "sha256": "ef04a36d078691846e4d13a072dbfc956784257ba558695511ecba00f9f1dbcb"
+      "sha256": "ef04a36d078691846e4d13a072dbfc956784257ba558695511ecba00f9f1dbcb",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -95,7 +103,8 @@
       "id": "les-croupiers-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/les-croupiers-running-club.png?v=36a3440c962b",
       "name": "Les Croupiers Running Club",
-      "sha256": "36a3440c962b981d695350d4c57dfa1a3abb77164c84c5d4a6ab92c96db015a2"
+      "sha256": "36a3440c962b981d695350d4c57dfa1a3abb77164c84c5d4a6ab92c96db015a2",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -105,7 +114,8 @@
       "id": "lliswerry-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/lliswerry-runners.svg?v=73cdaf66b4b0",
       "name": "Lliswerry Runners",
-      "sha256": "73cdaf66b4b0c3331b18523343eb47a2203e3c451ff2bd5c6423bc443277382d"
+      "sha256": "73cdaf66b4b0c3331b18523343eb47a2203e3c451ff2bd5c6423bc443277382d",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -116,7 +126,8 @@
       "id": "parc-bryn-bach-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/parc-bryn-bach-running-club.png?v=ce10c7f3313f",
       "name": "Parc Bryn Bach Running Club",
-      "sha256": "ce10c7f3313fb64db581c1bb19bab6747c8f432ad061af4f4142abae5edea1da"
+      "sha256": "ce10c7f3313fb64db581c1bb19bab6747c8f432ad061af4f4142abae5edea1da",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -129,7 +140,8 @@
       "id": "penarth-and-dinas-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/penarth-and-dinas-runners.png?v=7bc9da7cfe83",
       "name": "Penarth and Dinas Runners",
-      "sha256": "7bc9da7cfe83267248fdaa7c956427ce38ba3a39fb8e87c30a8938c594a8060c"
+      "sha256": "7bc9da7cfe83267248fdaa7c956427ce38ba3a39fb8e87c30a8938c594a8060c",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -147,7 +159,8 @@
       "id": "pont-y-pwl-district-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pont-y-pwl-district-runners.webp?v=e02df160b9ec",
       "name": "Pont-y-pwl & District Runners",
-      "sha256": "e02df160b9ecbec6a1d8dfbf2dcc919c2917c7f80ec8944215ef272596f8d190"
+      "sha256": "e02df160b9ecbec6a1d8dfbf2dcc919c2917c7f80ec8944215ef272596f8d190",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -158,7 +171,8 @@
       "id": "pontypridd-roadents-ac",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontypridd-roadents-ac.png?v=537d7ed2c6f2",
       "name": "Pontypridd Roadents AC",
-      "sha256": "537d7ed2c6f22e158ab2037c903da745b870eedbea95200b8b3d7f61fb98331a"
+      "sha256": "537d7ed2c6f22e158ab2037c903da745b870eedbea95200b8b3d7f61fb98331a",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -170,7 +184,8 @@
       "id": "san-domenico-rc",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/san-domenico-rc.png?v=f9c412c99dbb",
       "name": "San Domenico RC",
-      "sha256": "f9c412c99dbbfb7965d3f21c1f4ebab93215e4db54aed754b15472123b531118"
+      "sha256": "f9c412c99dbbfb7965d3f21c1f4ebab93215e4db54aed754b15472123b531118",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -182,7 +197,8 @@
       "id": "spirit-of-monmouth-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/spirit-of-monmouth-running-club.png?v=12df78ef3520",
       "name": "Spirit of Monmouth Running Club",
-      "sha256": "12df78ef35209191bd3405a439cf4925b661fa71f025a6a588b792063bda9652"
+      "sha256": "12df78ef35209191bd3405a439cf4925b661fa71f025a6a588b792063bda9652",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -192,10 +208,11 @@
       "id": "ystrad-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/ystrad-runners.png?v=245b8d8ddfc5",
       "name": "Ystrad Runners",
-      "sha256": "245b8d8ddfc5669766b59f893006acf2b7fd5dc1c9a48c97007d747b1f4de66a"
+      "sha256": "245b8d8ddfc5669766b59f893006acf2b7fd5dc1c9a48c97007d747b1f4de66a",
+      "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T21:40:54+00:00",
+  "generated_at": "2026-09-28T22:03:05+00:00",
   "lookup": {
     "caerleon": "caerleon-running-club",
     "caerleon runners": "caerleon-running-club",
