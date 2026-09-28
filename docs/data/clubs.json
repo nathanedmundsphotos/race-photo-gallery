@@ -190,6 +190,17 @@
     },
     {
       "aliases": [
+        "Grangetown"
+      ],
+      "format": "png",
+      "id": "run-grangetown",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/run-grangetown.png?v=2330799dc105",
+      "name": "Run Grangetown",
+      "sha256": "2330799dc105fc4e9dbf08eea2da3bfa8979699755f82eca84ab1bf2d2839e03",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "San Domenico Running Club",
         "San Domenico Runners",
         "San Domenico"
@@ -226,7 +237,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T22:14:44+00:00",
+  "generated_at": "2026-09-28T22:18:10+00:00",
   "lookup": {
     "caerleon": "caerleon-running-club",
     "caerleon runners": "caerleon-running-club",
@@ -243,6 +254,7 @@
     "fairwater": "fairwater-runners",
     "fairwater runners": "fairwater-runners",
     "fairwater running club": "fairwater-runners",
+    "grangetown": "run-grangetown",
     "griffithstown": "griffithstown-harriers-running-club",
     "griffithstown harriers": "griffithstown-harriers-running-club",
     "griffithstown harriers runners": "griffithstown-harriers-running-club",
@@ -282,6 +294,7 @@
     "pontypridd": "pontypridd-roadents-ac",
     "pontypridd roadents": "pontypridd-roadents-ac",
     "pontypridd roadents ac": "pontypridd-roadents-ac",
+    "run grangetown": "run-grangetown",
     "san domenico": "san-domenico-rc",
     "san domenico rc": "san-domenico-rc",
     "san domenico runners": "san-domenico-rc",
