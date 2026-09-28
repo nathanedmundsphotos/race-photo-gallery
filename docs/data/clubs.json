@@ -120,7 +120,8 @@
     {
       "aliases": [
         "Parc Bryn Bach Runners",
-        "Parc Bryn Bach"
+        "Parc Bryn Bach",
+        "PBB"
       ],
       "format": "png",
       "id": "parc-bryn-bach-running-club",
@@ -212,7 +213,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T22:03:05+00:00",
+  "generated_at": "2026-09-28T22:10:25+00:00",
   "lookup": {
     "caerleon": "caerleon-running-club",
     "caerleon runners": "caerleon-running-club",
@@ -245,6 +246,7 @@
     "parc bryn bach": "parc-bryn-bach-running-club",
     "parc bryn bach runners": "parc-bryn-bach-running-club",
     "parc bryn bach running club": "parc-bryn-bach-running-club",
+    "pbb": "parc-bryn-bach-running-club",
     "penarth": "penarth-and-dinas-runners",
     "penarth and dinas": "penarth-and-dinas-runners",
     "penarth and dinas runners": "penarth-and-dinas-runners",
