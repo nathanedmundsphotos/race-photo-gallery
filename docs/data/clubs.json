@@ -119,6 +119,19 @@
     },
     {
       "aliases": [
+        "Newport Harriers AC",
+        "Newport Harriers",
+        "Newport"
+      ],
+      "format": "png",
+      "id": "newport-harriers-athletic-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/newport-harriers-athletic-club.png?v=ac904ebb60d9",
+      "name": "Newport Harriers Athletic Club",
+      "sha256": "ac904ebb60d940bb5d52b160bf7b0bacd519ed5926a2a81de84233ee8e324ab6",
+      "tile_colour": "#111827"
+    },
+    {
+      "aliases": [
         "Parc Bryn Bach Runners",
         "Parc Bryn Bach",
         "PBB"
@@ -213,7 +226,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T22:10:25+00:00",
+  "generated_at": "2026-09-28T22:14:44+00:00",
   "lookup": {
     "caerleon": "caerleon-running-club",
     "caerleon runners": "caerleon-running-club",
@@ -243,6 +256,10 @@
     "lliswerry": "lliswerry-runners",
     "lliswerry runners": "lliswerry-runners",
     "monmouth": "spirit-of-monmouth-running-club",
+    "newport": "newport-harriers-athletic-club",
+    "newport harriers": "newport-harriers-athletic-club",
+    "newport harriers ac": "newport-harriers-athletic-club",
+    "newport harriers athletic club": "newport-harriers-athletic-club",
     "parc bryn bach": "parc-bryn-bach-running-club",
     "parc bryn bach runners": "parc-bryn-bach-running-club",
     "parc bryn bach running club": "parc-bryn-bach-running-club",
