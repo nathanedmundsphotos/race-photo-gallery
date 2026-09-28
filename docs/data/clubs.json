@@ -2,6 +2,18 @@
   "clubs": [
     {
       "aliases": [
+        "Aberdare Valley AC",
+        "Aberdare Valley"
+      ],
+      "format": "png",
+      "id": "aberdare-valley-athletic-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/aberdare-valley-athletic-club.png?v=050b79999e44",
+      "name": "Aberdare Valley Athletic Club",
+      "sha256": "050b79999e44b6313f1f5ebf713953affcf537f9d673a897d29f1a9d82804316",
+      "tile_colour": "#f8fafc"
+    },
+    {
+      "aliases": [
         "Albany Road Runners",
         "Albany Road",
         "Albany Rd"
@@ -231,6 +243,18 @@
     },
     {
       "aliases": [
+        "Neath Harriers Athletics Club",
+        "Neath Harriers AC"
+      ],
+      "format": "webp",
+      "id": "neath-harriers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/neath-harriers.webp?v=25892360abfe",
+      "name": "Neath Harriers",
+      "sha256": "25892360abfee0b8ce8ab23c5a23bd48f175c096f1f6f203a78b2b1a5c9c89e5",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "Newport Harriers AC",
         "Newport Harriers",
         "Newport"
@@ -336,6 +360,29 @@
       "name": "Pontypridd Roadents AC",
       "sha256": "537d7ed2c6f22e158ab2037c903da745b870eedbea95200b8b3d7f61fb98331a",
       "tile_colour": "#111827"
+    },
+    {
+      "aliases": [
+        "Rhondda Tri"
+      ],
+      "format": "png",
+      "id": "rhondda-triathlon-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/rhondda-triathlon-club.png?v=be3aeef7b445",
+      "name": "Rhondda Triathlon Club",
+      "sha256": "be3aeef7b4454806862f6d6e6db0e6e4932f75f8eaadc70b55b450d2681a8424",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Rhymney Valley Athletics Club",
+        "Rhymney Valley"
+      ],
+      "format": "png",
+      "id": "rhymney-valley-ac",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/rhymney-valley-ac.png?v=d1051a27e7d6",
+      "name": "Rhymney Valley AC",
+      "sha256": "d1051a27e7d6590520014a91fe75bebbe668969b9bb5ebf5b338eee391477bf2",
+      "tile_colour": "#ffffff"
     },
     {
       "aliases": [
@@ -461,7 +508,8 @@
     },
     {
       "aliases": [
-        "Ystrad"
+        "Ystrad Mynach RC",
+        "Ystrad Mynach"
       ],
       "format": "png",
       "id": "ystrad-runners",
@@ -471,8 +519,11 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T23:30:35+00:00",
+  "generated_at": "2026-09-28T23:50:32+00:00",
   "lookup": {
+    "aberdare valley": "aberdare-valley-athletic-club",
+    "aberdare valley ac": "aberdare-valley-athletic-club",
+    "aberdare valley athletic club": "aberdare-valley-athletic-club",
     "albany rd": "albany-road-run-club",
     "albany road": "albany-road-run-club",
     "albany road run club": "albany-road-run-club",
@@ -534,6 +585,9 @@
     "lliswerry": "lliswerry-runners",
     "lliswerry runners": "lliswerry-runners",
     "monmouth": "spirit-of-monmouth-running-club",
+    "neath harriers": "neath-harriers",
+    "neath harriers ac": "neath-harriers",
+    "neath harriers athletics club": "neath-harriers",
     "newport": "newport-harriers-athletic-club",
     "newport harriers": "newport-harriers-athletic-club",
     "newport harriers ac": "newport-harriers-athletic-club",
@@ -570,6 +624,11 @@
     "pontypridd": "pontypridd-roadents-ac",
     "pontypridd roadents": "pontypridd-roadents-ac",
     "pontypridd roadents ac": "pontypridd-roadents-ac",
+    "rhondda tri": "rhondda-triathlon-club",
+    "rhondda triathlon club": "rhondda-triathlon-club",
+    "rhymney valley": "rhymney-valley-ac",
+    "rhymney valley ac": "rhymney-valley-ac",
+    "rhymney valley athletics club": "rhymney-valley-ac",
     "roberttown": "roberttown-road-runners",
     "roberttown road runners": "roberttown-road-runners",
     "run grangetown": "run-grangetown",
@@ -594,7 +653,8 @@
     "vegan runners": "vegan-runners-uk",
     "vegan runners cymru": "vegan-runners-uk",
     "vegan runners uk": "vegan-runners-uk",
-    "ystrad": "ystrad-runners",
+    "ystrad mynach": "ystrad-runners",
+    "ystrad mynach rc": "ystrad-runners",
     "ystrad runners": "ystrad-runners"
   },
   "schema_version": 1
