@@ -10,7 +10,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/aberdare-valley-athletic-club.png?v=050b79999e44",
       "name": "Aberdare Valley Athletic Club",
       "sha256": "050b79999e44b6313f1f5ebf713953affcf537f9d673a897d29f1a9d82804316",
-      "tile_colour": "#f8fafc"
+      "tile_colour": "#111827"
     },
     {
       "aliases": [
@@ -36,7 +36,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caerleon-running-club.png?v=93bd809e067e",
       "name": "Caerleon Running Club",
       "sha256": "93bd809e067e9b4583de78628b1e464a8011cb532c159ef7d068985975368a9f",
-      "tile_colour": "#111827"
+      "tile_colour": "#4a047a"
     },
     {
       "aliases": [
@@ -47,7 +47,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caerphilly-runners.png?v=cfe2b62cd558",
       "name": "Caerphilly Runners",
       "sha256": "cfe2b62cd5584eabe1d17cac6e9e311b8f34f9586e47cb87fc9cf6e2da806e5b",
-      "tile_colour": "#ffffff"
+      "tile_colour": "#30a7e9"
     },
     {
       "aliases": [
@@ -59,7 +59,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caldicot-running-club.png?v=ae84fe7f51f6",
       "name": "Caldicot Running Club",
       "sha256": "ae84fe7f51f61273743f837ff748c37a7309885749709dd47ac6567a92774f45",
-      "tile_colour": "#111827"
+      "tile_colour": "#7b2d8b"
     },
     {
       "aliases": [
@@ -83,7 +83,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/cdf-runners.png?v=27872a7692c2",
       "name": "CDF Runners",
       "sha256": "27872a7692c2d207defbb157a6ab428def389a73d08e7d654f800bd298307489",
-      "tile_colour": "#111827"
+      "tile_colour": "#262626"
     },
     {
       "aliases": [
@@ -94,7 +94,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/chepstow-harriers.png?v=1b5d7ac8650b",
       "name": "Chepstow Harriers",
       "sha256": "1b5d7ac8650b1164550e4c19016afa0bc4780fc2f0cbfe306a1df6898602b766",
-      "tile_colour": "#f8fafc"
+      "tile_colour": "#323232"
     },
     {
       "aliases": [
@@ -133,7 +133,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/fairwater-runners.svg?v=bb5e5c661292",
       "name": "Fairwater Runners",
       "sha256": "bb5e5c661292e5fb2399d435aa699d386ee9f62aada44306d63fea285f972bf5",
-      "tile_colour": "#ffffff"
+      "tile_colour": "#8eb2e7"
     },
     {
       "aliases": [
@@ -158,7 +158,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/griffithstown-harriers-running-club.png?v=04ee87d54746",
       "name": "Griffithstown Harriers Running Club",
       "sha256": "04ee87d54746719845003de9a736d2f31364558e7e946d54b11275da90c5e924",
-      "tile_colour": "#ffffff"
+      "tile_colour": "#06693a"
     },
     {
       "aliases": [
@@ -170,7 +170,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/grove-run-club.png?v=dbae2cf335fe",
       "name": "Grove Run Club",
       "sha256": "dbae2cf335fe7284835abce5f2836dfaaeb6dddf3ed1ba3a5c0de04b04db2da3",
-      "tile_colour": "#fef3c7"
+      "tile_colour": "#fffbe2"
     },
     {
       "aliases": [
@@ -219,7 +219,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/les-croupiers-running-club.png?v=36a3440c962b",
       "name": "Les Croupiers Running Club",
       "sha256": "36a3440c962b981d695350d4c57dfa1a3abb77164c84c5d4a6ab92c96db015a2",
-      "tile_colour": "#ffffff"
+      "tile_colour": "#e52329"
     },
     {
       "aliases": [],
@@ -289,7 +289,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/parc-bryn-bach-running-club.png?v=ce10c7f3313f",
       "name": "Parc Bryn Bach Running Club",
       "sha256": "ce10c7f3313fb64db581c1bb19bab6747c8f432ad061af4f4142abae5edea1da",
-      "tile_colour": "#111827"
+      "tile_colour": "#00632c"
     },
     {
       "aliases": [
@@ -426,7 +426,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/san-domenico-rc.png?v=f9c412c99dbb",
       "name": "San Domenico RC",
       "sha256": "f9c412c99dbbfb7965d3f21c1f4ebab93215e4db54aed754b15472123b531118",
-      "tile_colour": "#ffffff"
+      "tile_colour": "#4743c5"
     },
     {
       "aliases": [],
@@ -459,7 +459,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/spirit-of-monmouth-running-club.png?v=12df78ef3520",
       "name": "Spirit of Monmouth Running Club",
       "sha256": "12df78ef35209191bd3405a439cf4925b661fa71f025a6a588b792063bda9652",
-      "tile_colour": "#111827"
+      "tile_colour": "#034dac"
     },
     {
       "aliases": [
@@ -471,7 +471,7 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/team-rees-gym.webp?v=60a9d49a7348",
       "name": "Team Rees Gym",
       "sha256": "60a9d49a734884bc0e9f6e24ed99b6fb11dd7c085c118dcb883c8b2dfd47a2e4",
-      "tile_colour": "#111827"
+      "tile_colour": "#1d1f1c"
     },
     {
       "aliases": [
@@ -519,7 +519,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-28T23:50:32+00:00",
+  "generated_at": "2026-09-29T09:11:04+00:00",
   "lookup": {
     "aberdare valley": "aberdare-valley-athletic-club",
     "aberdare valley ac": "aberdare-valley-athletic-club",
