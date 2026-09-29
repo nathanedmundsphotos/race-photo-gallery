@@ -2,6 +2,18 @@
   "clubs": [
     {
       "aliases": [
+        "3M Gorseinon Road Runners",
+        "3M Gorseinon Runners"
+      ],
+      "format": "png",
+      "id": "3m-gorseinon",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/3m-gorseinon.png?v=eb488545dc2c",
+      "name": "3M Gorseinon",
+      "sha256": "eb488545dc2cb08e795208e84f99c53f420675fd1dd705f9c752f8578e0ef521",
+      "tile_colour": "#0292c7"
+    },
+    {
+      "aliases": [
         "Aberdare Valley AC",
         "Aberdare Valley"
       ],
@@ -24,6 +36,53 @@
       "name": "Albany Road Run Club",
       "sha256": "c140079336a7c76b538d2abea1dee3d54a97ef303072a536df9914e41a0f7a85",
       "tile_colour": "#111827"
+    },
+    {
+      "aliases": [
+        "Brackla"
+      ],
+      "format": "png",
+      "id": "brackla-harriers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/brackla-harriers.png?v=6f3a43ea8465",
+      "name": "Brackla Harriers",
+      "sha256": "6f3a43ea84653d37c6e377d3f3bf6cc886282879a5f20a04f75c9ff9d97b2cf5",
+      "tile_colour": "#ff0000"
+    },
+    {
+      "aliases": [
+        "Brecon AC",
+        "Brecon"
+      ],
+      "format": "webp",
+      "id": "brecon-athletic-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/brecon-athletic-club.webp?v=8d610d68d838",
+      "name": "Brecon Athletic Club",
+      "sha256": "8d610d68d83808d2348558cc72dd8dd27f00349061271c0f27bf45f53a90c392",
+      "tile_colour": "#1c3144"
+    },
+    {
+      "aliases": [
+        "Bridgend"
+      ],
+      "format": "webp",
+      "id": "bridgend-athletics",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/bridgend-athletics.webp?v=67f13bb15089",
+      "name": "Bridgend Athletics",
+      "sha256": "67f13bb150897961b8542b8af7ae6e2a0a6dcfd08da98bea20517888120c59dc",
+      "tile_colour": "#febd2f"
+    },
+    {
+      "aliases": [
+        "Builth and District Running Club",
+        "Builth and District RC",
+        "Builth and District"
+      ],
+      "format": "png",
+      "id": "builth-district-running-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/builth-district-running-club.png?v=7c09b4d93b42",
+      "name": "Builth & District Running Club",
+      "sha256": "7c09b4d93b42537a0d94ca4c60b0ac51c9e558dadfa383743d7a01d7cdff20e1",
+      "tile_colour": "#fee34c"
     },
     {
       "aliases": [
@@ -95,6 +154,17 @@
       "name": "Chepstow Harriers",
       "sha256": "1b5d7ac8650b1164550e4c19016afa0bc4780fc2f0cbfe306a1df6898602b766",
       "tile_colour": "#323232"
+    },
+    {
+      "aliases": [
+        "Cornelly"
+      ],
+      "format": "png",
+      "id": "cornelly-striders",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/cornelly-striders.png?v=d7497ac62b41",
+      "name": "Cornelly Striders",
+      "sha256": "d7497ac62b41ec0ea7fe220fef91f245fac632418bf877af3904009fabe84351",
+      "tile_colour": "#f4ba03"
     },
     {
       "aliases": [
@@ -243,6 +313,19 @@
     },
     {
       "aliases": [
+        "Micky Morris TR",
+        "Micky Morris",
+        "MMRT"
+      ],
+      "format": "png",
+      "id": "micky-morris-racing-team",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/micky-morris-racing-team.png?v=f00c6bab0958",
+      "name": "Micky Morris Racing Team",
+      "sha256": "f00c6bab0958d862581314f7b14645de520c2e5f994bbc9ffe96ac1b162a4b94",
+      "tile_colour": "#f7c20f"
+    },
+    {
+      "aliases": [
         "Neath Harriers Athletics Club",
         "Neath Harriers AC"
       ],
@@ -320,6 +403,17 @@
     },
     {
       "aliases": [
+        "Pencoed"
+      ],
+      "format": "png",
+      "id": "pencoed-panthers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pencoed-panthers.png?v=cf2265fb4bab",
+      "name": "Pencoed Panthers",
+      "sha256": "cf2265fb4bab6f2f36b2c75aa3ffd0b34abd255b84e0122a9864499203b98c16",
+      "tile_colour": "#172a4a"
+    },
+    {
+      "aliases": [
         "Pont-y-pwl and District Runners",
         "Pontypool & District Runners",
         "Pontypool and District Runners",
@@ -336,6 +430,18 @@
       "name": "Pont-y-pwl & District Runners",
       "sha256": "62bb62144b15c71ba42928a4850a6ef085a0b9dca1458305f0efbfe6210dc37e",
       "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Pontyclun Phoenix AC",
+        "Pontyclun Phoenix"
+      ],
+      "format": "png",
+      "id": "pontyclun-phoenix-athletics-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontyclun-phoenix-athletics-club.png?v=86eac439405f",
+      "name": "Pontyclun Phoenix Athletics Club",
+      "sha256": "86eac439405f454dba525210b012229c7a47c016ac44f118b9b709bb633ce257",
+      "tile_colour": "#513fc8"
     },
     {
       "aliases": [
@@ -363,6 +469,39 @@
     },
     {
       "aliases": [
+        "Port Talbot"
+      ],
+      "format": "png",
+      "id": "port-talbot-harriers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/port-talbot-harriers.png?v=4930735bff02",
+      "name": "Port Talbot Harriers",
+      "sha256": "4930735bff024f815030ec14abee964ae8dd75855ad1ae87d8405c4c9a3c76ac",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Porthcawl"
+      ],
+      "format": "png",
+      "id": "porthcawl-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/porthcawl-runners.png?v=a8b6c9f78898",
+      "name": "Porthcawl Runners",
+      "sha256": "a8b6c9f78898392dcb9b3ea3e59ea2c612ae53b4c325e8a7463aecff59ea5d88",
+      "tile_colour": "#0d9857"
+    },
+    {
+      "aliases": [
+        "Rhondda AC"
+      ],
+      "format": "png",
+      "id": "rhondda-athletics-club",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/rhondda-athletics-club.png?v=dd1da60fd13c",
+      "name": "Rhondda Athletics Club",
+      "sha256": "dd1da60fd13c280ce1c86a03e8094003d828a0c7146702f22ac0aecdcbfdb248",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "Rhondda Tri"
       ],
       "format": "png",
@@ -371,6 +510,18 @@
       "name": "Rhondda Triathlon Club",
       "sha256": "be3aeef7b4454806862f6d6e6db0e6e4932f75f8eaadc70b55b450d2681a8424",
       "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Rhondda Valley",
+        "Rhondda"
+      ],
+      "format": "png",
+      "id": "rhondda-valley-runners",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/rhondda-valley-runners.png?v=58ae7ba85bb2",
+      "name": "Rhondda Valley Runners",
+      "sha256": "58ae7ba85bb2fcacf57368ac4773a0b4724a9d56538d9ee8929d23266ad2cdd6",
+      "tile_colour": "#f8fafc"
     },
     {
       "aliases": [
@@ -405,6 +556,17 @@
       "name": "Run Grangetown",
       "sha256": "2330799dc105fc4e9dbf08eea2da3bfa8979699755f82eca84ab1bf2d2839e03",
       "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Run4All"
+      ],
+      "format": "png",
+      "id": "run4all-neath",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/run4all-neath.png?v=dfb11060aeec",
+      "name": "Run4All Neath",
+      "sha256": "dfb11060aeec2ce2383732446f90c96b491dcf71ca7a40eba09028a0d14ea04b",
+      "tile_colour": "#111827"
     },
     {
       "aliases": [],
@@ -462,6 +624,15 @@
       "tile_colour": "#034dac"
     },
     {
+      "aliases": [],
+      "format": "png",
+      "id": "swansea-harriers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/swansea-harriers.png?v=e500bb600dad",
+      "name": "Swansea Harriers",
+      "sha256": "e500bb600dad0b3a1638be91b9b03d4db882da840395a110fe6c13134c3437e7",
+      "tile_colour": "#6eaf87"
+    },
+    {
       "aliases": [
         "Team Rees",
         "TRG"
@@ -496,6 +667,17 @@
     },
     {
       "aliases": [
+        "Tri Hard"
+      ],
+      "format": "png",
+      "id": "tri-hard-harriers",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/tri-hard-harriers.png?v=f7c928d29dd3",
+      "name": "Tri Hard Harriers",
+      "sha256": "f7c928d29dd3cb411f3d7d40a208d26671772aef87290323e977079bd747cf44",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
         "Vegan Runners Cymru",
         "Vegan Runners"
       ],
@@ -519,8 +701,11 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-29T09:11:04+00:00",
+  "generated_at": "2026-09-29T10:29:33+00:00",
   "lookup": {
+    "3m gorseinon": "3m-gorseinon",
+    "3m gorseinon road runners": "3m-gorseinon",
+    "3m gorseinon runners": "3m-gorseinon",
     "aberdare valley": "aberdare-valley-athletic-club",
     "aberdare valley ac": "aberdare-valley-athletic-club",
     "aberdare valley athletic club": "aberdare-valley-athletic-club",
@@ -528,6 +713,17 @@
     "albany road": "albany-road-run-club",
     "albany road run club": "albany-road-run-club",
     "albany road runners": "albany-road-run-club",
+    "brackla": "brackla-harriers",
+    "brackla harriers": "brackla-harriers",
+    "brecon": "brecon-athletic-club",
+    "brecon ac": "brecon-athletic-club",
+    "brecon athletic club": "brecon-athletic-club",
+    "bridgend": "bridgend-athletics",
+    "bridgend athletics": "bridgend-athletics",
+    "builth and district": "builth-district-running-club",
+    "builth and district rc": "builth-district-running-club",
+    "builth and district running club": "builth-district-running-club",
+    "builth district running club": "builth-district-running-club",
     "caerleon": "caerleon-running-club",
     "caerleon rc": "caerleon-running-club",
     "caerleon runners": "caerleon-running-club",
@@ -545,6 +741,8 @@
     "cdf runners": "cdf-runners",
     "chepstow": "chepstow-harriers",
     "chepstow harriers": "chepstow-harriers",
+    "cornelly": "cornelly-striders",
+    "cornelly striders": "cornelly-striders",
     "dragons runners": "dragons-running-club",
     "dragons running club": "dragons-running-club",
     "dragons running club aberdare": "dragons-running-club",
@@ -584,6 +782,10 @@
     "llantwit major milers": "llantwit-major-milers",
     "lliswerry": "lliswerry-runners",
     "lliswerry runners": "lliswerry-runners",
+    "micky morris": "micky-morris-racing-team",
+    "micky morris racing team": "micky-morris-racing-team",
+    "micky morris tr": "micky-morris-racing-team",
+    "mmrt": "micky-morris-racing-team",
     "monmouth": "spirit-of-monmouth-running-club",
     "neath harriers": "neath-harriers",
     "neath harriers ac": "neath-harriers",
@@ -608,12 +810,17 @@
     "penarth and dinas runners": "penarth-and-dinas-runners",
     "penarth dinas": "penarth-and-dinas-runners",
     "penarth dinas runners": "penarth-and-dinas-runners",
+    "pencoed": "pencoed-panthers",
+    "pencoed panthers": "pencoed-panthers",
     "pont y pwl": "pont-y-pwl-district-runners",
     "pont y pwl and district": "pont-y-pwl-district-runners",
     "pont y pwl and district runners": "pont-y-pwl-district-runners",
     "pont y pwl district": "pont-y-pwl-district-runners",
     "pont y pwl district runners": "pont-y-pwl-district-runners",
     "pontyclun": "pontyclun-road-runners",
+    "pontyclun phoenix": "pontyclun-phoenix-athletics-club",
+    "pontyclun phoenix ac": "pontyclun-phoenix-athletics-club",
+    "pontyclun phoenix athletics club": "pontyclun-phoenix-athletics-club",
     "pontyclun road runners": "pontyclun-road-runners",
     "pontyclun runners": "pontyclun-road-runners",
     "pontypool": "pont-y-pwl-district-runners",
@@ -624,14 +831,25 @@
     "pontypridd": "pontypridd-roadents-ac",
     "pontypridd roadents": "pontypridd-roadents-ac",
     "pontypridd roadents ac": "pontypridd-roadents-ac",
+    "port talbot": "port-talbot-harriers",
+    "port talbot harriers": "port-talbot-harriers",
+    "porthcawl": "porthcawl-runners",
+    "porthcawl runners": "porthcawl-runners",
+    "rhondda": "rhondda-valley-runners",
+    "rhondda ac": "rhondda-athletics-club",
+    "rhondda athletics club": "rhondda-athletics-club",
     "rhondda tri": "rhondda-triathlon-club",
     "rhondda triathlon club": "rhondda-triathlon-club",
+    "rhondda valley": "rhondda-valley-runners",
+    "rhondda valley runners": "rhondda-valley-runners",
     "rhymney valley": "rhymney-valley-ac",
     "rhymney valley ac": "rhymney-valley-ac",
     "rhymney valley athletics club": "rhymney-valley-ac",
     "roberttown": "roberttown-road-runners",
     "roberttown road runners": "roberttown-road-runners",
     "run grangetown": "run-grangetown",
+    "run4all": "run4all-neath",
+    "run4all neath": "run4all-neath",
     "runnewport": "runnewport",
     "san domenico": "san-domenico-rc",
     "san domenico rc": "san-domenico-rc",
@@ -643,6 +861,7 @@
     "spirit of monmouth runners": "spirit-of-monmouth-running-club",
     "spirit of monmouth running club": "spirit-of-monmouth-running-club",
     "ssrc": "short-strides-run-club",
+    "swansea harriers": "swansea-harriers",
     "team rees": "team-rees-gym",
     "team rees gym": "team-rees-gym",
     "tewkesbury": "tewkesbury-running-club",
@@ -650,6 +869,8 @@
     "tewkesbury running club": "tewkesbury-running-club",
     "torfaen dolphins": "torfaen-dolphins",
     "trg": "team-rees-gym",
+    "tri hard": "tri-hard-harriers",
+    "tri hard harriers": "tri-hard-harriers",
     "vegan runners": "vegan-runners-uk",
     "vegan runners cymru": "vegan-runners-uk",
     "vegan runners uk": "vegan-runners-uk",
