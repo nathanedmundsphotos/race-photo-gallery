@@ -378,6 +378,7 @@
       "aliases": [
         "Pegasus Running Club",
         "Pegasus Running",
+        "Pegasus RC",
         "Pegasus"
       ],
       "format": "webp",
@@ -453,6 +454,19 @@
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontyclun-road-runners.png?v=379584df4dcd",
       "name": "Pontyclun Road Runners",
       "sha256": "379584df4dcd4cc7e61e1a5b7abf0cbbbcde39c7849f13d39f5973580d3d2f8c",
+      "tile_colour": "#ffffff"
+    },
+    {
+      "aliases": [
+        "Pontypool Triathlon and Endurance",
+        "Pontypool endurance and triathlon",
+        "Pontypool endurance & triathlon"
+      ],
+      "format": "png",
+      "id": "pontypool-triathlon-endurance",
+      "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontypool-triathlon-endurance.png?v=402f0e9ff14c",
+      "name": "Pontypool Triathlon & Endurance",
+      "sha256": "402f0e9ff14c83c66bc0e9ea40a39790a0f0463d8f70acafaf7cad48c10cee1b",
       "tile_colour": "#ffffff"
     },
     {
@@ -701,7 +715,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-29T10:29:33+00:00",
+  "generated_at": "2026-09-30T22:57:23+00:00",
   "lookup": {
     "3m gorseinon": "3m-gorseinon",
     "3m gorseinon road runners": "3m-gorseinon",
@@ -802,6 +816,7 @@
     "parc bryn bach running club": "parc-bryn-bach-running-club",
     "pbb": "parc-bryn-bach-running-club",
     "pegasus": "pegasus-running-club-cardiff",
+    "pegasus rc": "pegasus-running-club-cardiff",
     "pegasus running": "pegasus-running-club-cardiff",
     "pegasus running club": "pegasus-running-club-cardiff",
     "pegasus running club cardiff": "pegasus-running-club-cardiff",
@@ -828,6 +843,10 @@
     "pontypool and district runners": "pont-y-pwl-district-runners",
     "pontypool district": "pont-y-pwl-district-runners",
     "pontypool district runners": "pont-y-pwl-district-runners",
+    "pontypool endurance and triathlon": "pontypool-triathlon-endurance",
+    "pontypool endurance triathlon": "pontypool-triathlon-endurance",
+    "pontypool triathlon and endurance": "pontypool-triathlon-endurance",
+    "pontypool triathlon endurance": "pontypool-triathlon-endurance",
     "pontypridd": "pontypridd-roadents-ac",
     "pontypridd roadents": "pontypridd-roadents-ac",
     "pontypridd roadents ac": "pontypridd-roadents-ac",
