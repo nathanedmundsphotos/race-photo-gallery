@@ -438,6 +438,7 @@
     {
       "aliases": [
         "Parc Bryn Bach Runners",
+        "Parc Bryn Bach RC",
         "Parc Bryn Bach",
         "PBB"
       ],
@@ -753,6 +754,7 @@
     {
       "aliases": [
         "Spirit of Monmouth Runners",
+        "Spirit of Monmouth RC",
         "Spirit of Monmouth",
         "Monmouth"
       ],
@@ -863,7 +865,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-10-01T10:28:37+00:00",
+  "generated_at": "2026-10-01T18:00:14+00:00",
   "lookup": {
     "3m gorseinon": "3m-gorseinon",
     "3m gorseinon road runners": "3m-gorseinon",
@@ -960,6 +962,7 @@
     "ogmore phoenix": "ogmore-phoenix-runners",
     "ogmore phoenix runners": "ogmore-phoenix-runners",
     "parc bryn bach": "parc-bryn-bach-running-club",
+    "parc bryn bach rc": "parc-bryn-bach-running-club",
     "parc bryn bach runners": "parc-bryn-bach-running-club",
     "parc bryn bach running club": "parc-bryn-bach-running-club",
     "pbb": "parc-bryn-bach-running-club",
@@ -1025,6 +1028,7 @@
     "she runs cardiff": "she-runs-cardiff",
     "short strides run club": "short-strides-run-club",
     "spirit of monmouth": "spirit-of-monmouth-running-club",
+    "spirit of monmouth rc": "spirit-of-monmouth-running-club",
     "spirit of monmouth runners": "spirit-of-monmouth-running-club",
     "spirit of monmouth running club": "spirit-of-monmouth-running-club",
     "ssrc": "short-strides-run-club",
