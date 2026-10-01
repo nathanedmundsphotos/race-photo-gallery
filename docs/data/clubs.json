@@ -139,7 +139,10 @@
       "id": "caldicot-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caldicot-running-club.png?v=ae84fe7f51f6",
       "name": "Caldicot Running Club",
+      "primary_colour": "#7b2d8b",
+      "secondary_colour": "#000000",
       "sha256": "ae84fe7f51f61273743f837ff748c37a7309885749709dd47ac6567a92774f45",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#7b2d8b"
     },
     {
@@ -152,6 +155,8 @@
       "id": "cardiff-harlequins-trail-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/cardiff-harlequins-trail-running-club.png?v=d178d3960376",
       "name": "Cardiff Harlequins Trail Running Club",
+      "primary_colour": "#cd2362",
+      "secondary_colour": "#005bdf",
       "sha256": "d178d396037635a586dfa5d0c56c9094dfdf4e09478292ee605f6a97b1776a7f",
       "tile_colour": "#ffffff"
     },
@@ -163,8 +168,10 @@
       "id": "cdf-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/cdf-runners.png?v=27872a7692c2",
       "name": "CDF Runners",
+      "primary_colour": "#222222",
+      "secondary_colour": "#ffffff",
       "sha256": "27872a7692c2d207defbb157a6ab428def389a73d08e7d654f800bd298307489",
-      "tile_colour": "#262626"
+      "tile_colour": "#222222"
     },
     {
       "aliases": [
@@ -174,7 +181,10 @@
       "id": "chepstow-harriers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/chepstow-harriers.png?v=1b5d7ac8650b",
       "name": "Chepstow Harriers",
+      "primary_colour": "#444b9b",
+      "secondary_colour": "#c53443",
       "sha256": "1b5d7ac8650b1164550e4c19016afa0bc4780fc2f0cbfe306a1df6898602b766",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#323232"
     },
     {
@@ -185,8 +195,11 @@
       "id": "cornelly-striders",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/cornelly-striders.png?v=d7497ac62b41",
       "name": "Cornelly Striders",
+      "primary_colour": "#e1ca05",
+      "secondary_colour": "#065f22",
       "sha256": "d7497ac62b41ec0ea7fe220fef91f245fac632418bf877af3904009fabe84351",
-      "tile_colour": "#f4ba03"
+      "tertiary_colour": "#b10917",
+      "tile_colour": "#e1ca05"
     },
     {
       "aliases": [
@@ -197,7 +210,10 @@
       "id": "dragons-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/dragons-running-club.png?v=331aeff408ae",
       "name": "Dragons Running Club",
+      "primary_colour": "#111827",
+      "secondary_colour": "#a1db33",
       "sha256": "331aeff408aea33a491c29388db1b8d25019763caa016e72f2a7b32d4db4b083",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#111827"
     },
     {
@@ -211,7 +227,10 @@
       "id": "emersons-green-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/emersons-green-running-club.png?v=c17c727b4872",
       "name": "Emersons Green Running Club",
+      "primary_colour": "#20aa3a",
+      "secondary_colour": "#343c4d",
       "sha256": "c17c727b4872fce49328e0980559cf1c0f07831b3c318a7bd3d2532a77716aaf",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#ffffff"
     },
     {
@@ -224,7 +243,10 @@
       "id": "fairwater-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/fairwater-runners.svg?v=bb5e5c661292",
       "name": "Fairwater Runners",
+      "primary_colour": "#8eb2e7",
+      "secondary_colour": "#102441",
       "sha256": "bb5e5c661292e5fb2399d435aa699d386ee9f62aada44306d63fea285f972bf5",
+      "tertiary_colour": "#6e1681",
       "tile_colour": "#8eb2e7"
     },
     {
@@ -236,7 +258,10 @@
       "id": "forest-of-dean-ac",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/forest-of-dean-ac.png?v=f252252c6b22",
       "name": "Forest of Dean AC",
+      "primary_colour": "#0d9c30",
+      "secondary_colour": "#ffffff",
       "sha256": "f252252c6b225067b397517fa5603a401d7ceb2667f50b28c0b72aca55d41d64",
+      "tertiary_colour": "#000000",
       "tile_colour": "#ffffff"
     },
     {
@@ -249,7 +274,10 @@
       "id": "griffithstown-harriers-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/griffithstown-harriers-running-club.png?v=04ee87d54746",
       "name": "Griffithstown Harriers Running Club",
+      "primary_colour": "#06693a",
+      "secondary_colour": "#363b9d",
       "sha256": "04ee87d54746719845003de9a736d2f31364558e7e946d54b11275da90c5e924",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#06693a"
     },
     {
@@ -261,6 +289,8 @@
       "id": "grove-run-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/grove-run-club.png?v=dbae2cf335fe",
       "name": "Grove Run Club",
+      "primary_colour": "#fffbe2",
+      "secondary_colour": "#2a2a6a",
       "sha256": "dbae2cf335fe7284835abce5f2836dfaaeb6dddf3ed1ba3a5c0de04b04db2da3",
       "tile_colour": "#fffbe2"
     },
@@ -272,7 +302,10 @@
       "id": "hengoed-harriers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/hengoed-harriers.png?v=cfa0faecfacd",
       "name": "Hengoed Harriers",
+      "primary_colour": "#20fe51",
+      "secondary_colour": "#bb1917",
       "sha256": "cfa0faecfacdc5bbe97d21a8eb43b886318a73f7c94c06d0c598a329a44c3c19",
+      "tertiary_colour": "#000000",
       "tile_colour": "#ffffff"
     },
     {
@@ -285,6 +318,8 @@
       "id": "hereford-couriers-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/hereford-couriers-running-club.png?v=37538dbfc489",
       "name": "Hereford Couriers Running Club",
+      "primary_colour": "#ff0000",
+      "secondary_colour": "#fc6009",
       "sha256": "37538dbfc4899961ac9525bf3b3d029bbc5ee91d7a0b13433d8e51a8f1682e31",
       "tile_colour": "#ff0000"
     },
@@ -298,7 +333,10 @@
       "id": "islwyn-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/islwyn-running-club.png?v=ef04a36d0786",
       "name": "Islwyn Running Club",
+      "primary_colour": "#000000",
+      "secondary_colour": "#ffffff",
       "sha256": "ef04a36d078691846e4d13a072dbfc956784257ba558695511ecba00f9f1dbcb",
+      "tertiary_colour": "#e90924",
       "tile_colour": "#ffffff"
     },
     {
@@ -310,6 +348,8 @@
       "id": "les-croupiers-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/les-croupiers-running-club.png?v=36a3440c962b",
       "name": "Les Croupiers Running Club",
+      "primary_colour": "#e52329",
+      "secondary_colour": "#00b13f",
       "sha256": "36a3440c962b981d695350d4c57dfa1a3abb77164c84c5d4a6ab92c96db015a2",
       "tile_colour": "#e52329"
     },
@@ -319,6 +359,8 @@
       "id": "llantwit-major-milers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/llantwit-major-milers.png?v=354ed3edc40f",
       "name": "Llantwit Major Milers",
+      "primary_colour": "#d61528",
+      "secondary_colour": "#ffffff",
       "sha256": "354ed3edc40f65d44230e5d3b9dbe051d19d813325733b2765dd7b1828af582a",
       "tile_colour": "#ffffff"
     },
@@ -330,6 +372,8 @@
       "id": "lliswerry-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/lliswerry-runners.png?v=97b27f2c3fa7",
       "name": "Lliswerry Runners",
+      "primary_colour": "#af1859",
+      "secondary_colour": "#ffffff",
       "sha256": "97b27f2c3fa7094c4c18bf79b8d5e9414cb4a29070ddaf937220c908ba848cdf",
       "tile_colour": "#ffffff"
     },
@@ -343,6 +387,8 @@
       "id": "micky-morris-racing-team",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/micky-morris-racing-team.png?v=f00c6bab0958",
       "name": "Micky Morris Racing Team",
+      "primary_colour": "#234b46",
+      "secondary_colour": "#f7c20f",
       "sha256": "f00c6bab0958d862581314f7b14645de520c2e5f994bbc9ffe96ac1b162a4b94",
       "tile_colour": "#f7c20f"
     },
@@ -355,6 +401,8 @@
       "id": "neath-harriers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/neath-harriers.webp?v=25892360abfe",
       "name": "Neath Harriers",
+      "primary_colour": "#000000",
+      "secondary_colour": "#ffffff",
       "sha256": "25892360abfee0b8ce8ab23c5a23bd48f175c096f1f6f203a78b2b1a5c9c89e5",
       "tile_colour": "#ffffff"
     },
@@ -368,6 +416,8 @@
       "id": "newport-harriers-athletic-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/newport-harriers-athletic-club.png?v=ac904ebb60d9",
       "name": "Newport Harriers Athletic Club",
+      "primary_colour": "#fddb44",
+      "secondary_colour": "#111827",
       "sha256": "ac904ebb60d940bb5d52b160bf7b0bacd519ed5926a2a81de84233ee8e324ab6",
       "tile_colour": "#111827"
     },
@@ -380,6 +430,8 @@
       "id": "ogmore-phoenix-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/ogmore-phoenix-runners.png?v=8a1113af838f",
       "name": "Ogmore Phoenix Runners",
+      "primary_colour": "#353e93",
+      "secondary_colour": "#ffffff",
       "sha256": "8a1113af838f3610b685a9bce4d6d48fdfb1b8cad793e940ef38d5562aac3ff0",
       "tile_colour": "#ffffff"
     },
@@ -393,7 +445,10 @@
       "id": "parc-bryn-bach-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/parc-bryn-bach-running-club.png?v=ce10c7f3313f",
       "name": "Parc Bryn Bach Running Club",
+      "primary_colour": "#00632c",
+      "secondary_colour": "#ffffff",
       "sha256": "ce10c7f3313fb64db581c1bb19bab6747c8f432ad061af4f4142abae5edea1da",
+      "tertiary_colour": "#111827",
       "tile_colour": "#00632c"
     },
     {
@@ -407,6 +462,8 @@
       "id": "pegasus-running-club-cardiff",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pegasus-running-club-cardiff.webp?v=7b334f0e80f1",
       "name": "Pegasus Running Club Cardiff",
+      "primary_colour": "#ffffff",
+      "secondary_colour": "#790101",
       "sha256": "7b334f0e80f15b78e64f39f146f585b82aaec0c264e589ebb29a416e285f2eb5",
       "tile_colour": "#ffffff"
     },
@@ -421,6 +478,8 @@
       "id": "penarth-and-dinas-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/penarth-and-dinas-runners.png?v=7bc9da7cfe83",
       "name": "Penarth and Dinas Runners",
+      "primary_colour": "#1d0ef0",
+      "secondary_colour": "#ffff01",
       "sha256": "7bc9da7cfe83267248fdaa7c956427ce38ba3a39fb8e87c30a8938c594a8060c",
       "tile_colour": "#ffffff"
     },
@@ -432,7 +491,10 @@
       "id": "pencoed-panthers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pencoed-panthers.png?v=cf2265fb4bab",
       "name": "Pencoed Panthers",
+      "primary_colour": "#172a4a",
+      "secondary_colour": "#c71c84",
       "sha256": "cf2265fb4bab6f2f36b2c75aa3ffd0b34abd255b84e0122a9864499203b98c16",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#172a4a"
     },
     {
@@ -451,7 +513,10 @@
       "id": "pont-y-pwl-district-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pont-y-pwl-district-runners.png?v=62bb62144b15",
       "name": "Pont-y-pwl & District Runners",
+      "primary_colour": "#ff1f1f",
+      "secondary_colour": "#000000",
       "sha256": "62bb62144b15c71ba42928a4850a6ef085a0b9dca1458305f0efbfe6210dc37e",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#ffffff"
     },
     {
@@ -463,7 +528,10 @@
       "id": "pontyclun-phoenix-athletics-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontyclun-phoenix-athletics-club.png?v=86eac439405f",
       "name": "Pontyclun Phoenix Athletics Club",
+      "primary_colour": "#513fc8",
+      "secondary_colour": "#fbe232",
       "sha256": "86eac439405f454dba525210b012229c7a47c016ac44f118b9b709bb633ce257",
+      "tertiary_colour": "#716a6a",
       "tile_colour": "#513fc8"
     },
     {
@@ -475,6 +543,8 @@
       "id": "pontyclun-road-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontyclun-road-runners.png?v=379584df4dcd",
       "name": "Pontyclun Road Runners",
+      "primary_colour": "#fbcf2c",
+      "secondary_colour": "#b0b0b0",
       "sha256": "379584df4dcd4cc7e61e1a5b7abf0cbbbcde39c7849f13d39f5973580d3d2f8c",
       "tile_colour": "#ffffff"
     },
@@ -488,7 +558,10 @@
       "id": "pontypool-triathlon-endurance",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontypool-triathlon-endurance.png?v=402f0e9ff14c",
       "name": "Pontypool Triathlon & Endurance",
+      "primary_colour": "#ff1f1f",
+      "secondary_colour": "#000000",
       "sha256": "402f0e9ff14c83c66bc0e9ea40a39790a0f0463d8f70acafaf7cad48c10cee1b",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#ffffff"
     },
     {
@@ -500,6 +573,8 @@
       "id": "pontypridd-roadents-ac",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/pontypridd-roadents-ac.png?v=537d7ed2c6f2",
       "name": "Pontypridd Roadents AC",
+      "primary_colour": "#000000",
+      "secondary_colour": "#ffffff",
       "sha256": "537d7ed2c6f22e158ab2037c903da745b870eedbea95200b8b3d7f61fb98331a",
       "tile_colour": "#111827"
     },
@@ -511,7 +586,10 @@
       "id": "port-talbot-harriers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/port-talbot-harriers.png?v=4930735bff02",
       "name": "Port Talbot Harriers",
+      "primary_colour": "#000000",
+      "secondary_colour": "#d62128",
       "sha256": "4930735bff024f815030ec14abee964ae8dd75855ad1ae87d8405c4c9a3c76ac",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#ffffff"
     },
     {
@@ -522,7 +600,10 @@
       "id": "porthcawl-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/porthcawl-runners.png?v=a8b6c9f78898",
       "name": "Porthcawl Runners",
+      "primary_colour": "#0d9857",
+      "secondary_colour": "#ffffff",
       "sha256": "a8b6c9f78898392dcb9b3ea3e59ea2c612ae53b4c325e8a7463aecff59ea5d88",
+      "tertiary_colour": "#000000",
       "tile_colour": "#0d9857"
     },
     {
@@ -533,6 +614,8 @@
       "id": "rhondda-athletics-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/rhondda-athletics-club.png?v=dd1da60fd13c",
       "name": "Rhondda Athletics Club",
+      "primary_colour": "#913e96",
+      "secondary_colour": "#f2c029",
       "sha256": "dd1da60fd13c280ce1c86a03e8094003d828a0c7146702f22ac0aecdcbfdb248",
       "tile_colour": "#ffffff"
     },
@@ -544,6 +627,8 @@
       "id": "rhondda-triathlon-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/rhondda-triathlon-club.png?v=be3aeef7b445",
       "name": "Rhondda Triathlon Club",
+      "primary_colour": "#000000",
+      "secondary_colour": "#c09a25",
       "sha256": "be3aeef7b4454806862f6d6e6db0e6e4932f75f8eaadc70b55b450d2681a8424",
       "tile_colour": "#ffffff"
     },
@@ -556,6 +641,8 @@
       "id": "rhondda-valley-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/rhondda-valley-runners.png?v=58ae7ba85bb2",
       "name": "Rhondda Valley Runners",
+      "primary_colour": "#ff0000",
+      "secondary_colour": "#ffffff",
       "sha256": "58ae7ba85bb2fcacf57368ac4773a0b4724a9d56538d9ee8929d23266ad2cdd6",
       "tile_colour": "#f8fafc"
     },
@@ -568,7 +655,10 @@
       "id": "rhymney-valley-ac",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/rhymney-valley-ac.png?v=d1051a27e7d6",
       "name": "Rhymney Valley AC",
+      "primary_colour": "#ff0000",
+      "secondary_colour": "#ffffff",
       "sha256": "d1051a27e7d6590520014a91fe75bebbe668969b9bb5ebf5b338eee391477bf2",
+      "tertiary_colour": "#182c53",
       "tile_colour": "#ffffff"
     },
     {
@@ -579,6 +669,8 @@
       "id": "roberttown-road-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/roberttown-road-runners.png?v=ec84c0c5e089",
       "name": "Roberttown Road Runners",
+      "primary_colour": "#2c40b9",
+      "secondary_colour": "#ffffff",
       "sha256": "ec84c0c5e0899b1b0b8d6948c70e7c44cd472c4024badb9c29d24e8097058ce6",
       "tile_colour": "#ffffff"
     },
@@ -590,6 +682,7 @@
       "id": "run-grangetown",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/run-grangetown.png?v=2330799dc105",
       "name": "Run Grangetown",
+      "primary_colour": "#48327e",
       "sha256": "2330799dc105fc4e9dbf08eea2da3bfa8979699755f82eca84ab1bf2d2839e03",
       "tile_colour": "#ffffff"
     },
@@ -601,6 +694,8 @@
       "id": "run4all-neath",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/run4all-neath.png?v=dfb11060aeec",
       "name": "Run4All Neath",
+      "primary_colour": "#f3d809",
+      "secondary_colour": "#000000",
       "sha256": "dfb11060aeec2ce2383732446f90c96b491dcf71ca7a40eba09028a0d14ea04b",
       "tile_colour": "#111827"
     },
@@ -610,6 +705,8 @@
       "id": "runnewport",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/runnewport.png?v=319333439a8f",
       "name": "RunNewport",
+      "primary_colour": "#111827",
+      "secondary_colour": "#ffffff",
       "sha256": "319333439a8f4357c87ab57d9985a8419a398b08b2989008a01083cc48a67f34",
       "tile_colour": "#111827"
     },
@@ -623,8 +720,11 @@
       "id": "san-domenico-rc",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/san-domenico-rc.png?v=f9c412c99dbb",
       "name": "San Domenico RC",
+      "primary_colour": "#2f4da3",
+      "secondary_colour": "#ff0000",
       "sha256": "f9c412c99dbbfb7965d3f21c1f4ebab93215e4db54aed754b15472123b531118",
-      "tile_colour": "#4743c5"
+      "tertiary_colour": "#ffffff",
+      "tile_colour": "#2f4da3"
     },
     {
       "aliases": [],
@@ -632,6 +732,8 @@
       "id": "she-runs-cardiff",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/she-runs-cardiff.png?v=a6c496cb329a",
       "name": "She Runs Cardiff",
+      "primary_colour": "#652d92",
+      "secondary_colour": "#ffffff",
       "sha256": "a6c496cb329a2d90ca434b024e205ee98f81537700dfdb71b32ab7d99f3328bc",
       "tile_colour": "#652d92"
     },
@@ -643,6 +745,8 @@
       "id": "short-strides-run-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/short-strides-run-club.png?v=6c4e689fe120",
       "name": "Short Strides Run Club",
+      "primary_colour": "#a0fffb",
+      "secondary_colour": "#ff8f3e",
       "sha256": "6c4e689fe12084c3d604cbb400eb8398e59d625a88a496ef5a38b0c986fa2066",
       "tile_colour": "#e5e4e0"
     },
@@ -656,7 +760,10 @@
       "id": "spirit-of-monmouth-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/spirit-of-monmouth-running-club.png?v=12df78ef3520",
       "name": "Spirit of Monmouth Running Club",
+      "primary_colour": "#034dac",
+      "secondary_colour": "#e5df10",
       "sha256": "12df78ef35209191bd3405a439cf4925b661fa71f025a6a588b792063bda9652",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#034dac"
     },
     {
@@ -665,6 +772,8 @@
       "id": "swansea-harriers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/swansea-harriers.png?v=e500bb600dad",
       "name": "Swansea Harriers",
+      "primary_colour": "#ffffff",
+      "secondary_colour": "#6eaf87",
       "sha256": "e500bb600dad0b3a1638be91b9b03d4db882da840395a110fe6c13134c3437e7",
       "tile_colour": "#6eaf87"
     },
@@ -677,7 +786,10 @@
       "id": "team-rees-gym",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/team-rees-gym.webp?v=60a9d49a7348",
       "name": "Team Rees Gym",
+      "primary_colour": "#ee6936",
+      "secondary_colour": "#ffffff",
       "sha256": "60a9d49a734884bc0e9f6e24ed99b6fb11dd7c085c118dcb883c8b2dfd47a2e4",
+      "tertiary_colour": "#000000",
       "tile_colour": "#1d1f1c"
     },
     {
@@ -689,6 +801,8 @@
       "id": "tewkesbury-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/tewkesbury-running-club.png?v=87e3134edd06",
       "name": "Tewkesbury Running Club",
+      "primary_colour": "#000000",
+      "secondary_colour": "#fbba00",
       "sha256": "87e3134edd06b016326092bf6548fd52b6f64e60e72f20c3c334e8276b008177",
       "tile_colour": "#000000"
     },
@@ -698,7 +812,10 @@
       "id": "torfaen-dolphins",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/torfaen-dolphins.png?v=76e33fc2caed",
       "name": "Torfaen Dolphins",
+      "primary_colour": "#103c67",
+      "secondary_colour": "#f3252f",
       "sha256": "76e33fc2caed7421a74e8ea99d539f63e8d419ee7d1382556991a29e07670715",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#ffffff"
     },
     {
@@ -709,7 +826,10 @@
       "id": "tri-hard-harriers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/tri-hard-harriers.png?v=f7c928d29dd3",
       "name": "Tri Hard Harriers",
+      "primary_colour": "#38a1d0",
+      "secondary_colour": "#d9252e",
       "sha256": "f7c928d29dd3cb411f3d7d40a208d26671772aef87290323e977079bd747cf44",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#ffffff"
     },
     {
@@ -721,7 +841,10 @@
       "id": "vegan-runners-uk",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/vegan-runners-uk.png?v=b9c044dc3e7b",
       "name": "Vegan Runners UK",
+      "primary_colour": "#000000",
+      "secondary_colour": "#008235",
       "sha256": "b9c044dc3e7b75502daceadf129b7d8e4cf6c902eac1d06d825794dca9cd3a21",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#008235"
     },
     {
@@ -733,11 +856,14 @@
       "id": "ystrad-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/ystrad-runners.png?v=245b8d8ddfc5",
       "name": "Ystrad Runners",
+      "primary_colour": "#032459",
+      "secondary_colour": "#ffffff",
       "sha256": "245b8d8ddfc5669766b59f893006acf2b7fd5dc1c9a48c97007d747b1f4de66a",
+      "tertiary_colour": "#3e97cf",
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-10-01T09:04:27+00:00",
+  "generated_at": "2026-10-01T10:28:37+00:00",
   "lookup": {
     "3m gorseinon": "3m-gorseinon",
     "3m gorseinon road runners": "3m-gorseinon",
