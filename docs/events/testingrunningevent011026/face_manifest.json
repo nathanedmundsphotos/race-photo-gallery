@@ -30596,5 +30596,9 @@
       ],
       "bibs": []
     }
+  },
+  "race_timeline": {
+    "race_start": "19:30:00",
+    "race_finish": "20:10:00"
   }
 }
