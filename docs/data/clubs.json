@@ -24,7 +24,10 @@
       "id": "aberdare-valley-athletic-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/aberdare-valley-athletic-club.png?v=050b79999e44",
       "name": "Aberdare Valley Athletic Club",
+      "primary_colour": "#131311",
+      "secondary_colour": "#fa993d",
       "sha256": "050b79999e44b6313f1f5ebf713953affcf537f9d673a897d29f1a9d82804316",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#111827"
     },
     {
@@ -37,7 +40,10 @@
       "id": "albany-road-run-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/albany-road-run-club.png?v=c140079336a7",
       "name": "Albany Road Run Club",
+      "primary_colour": "#111827",
+      "secondary_colour": "#fb25a4",
       "sha256": "c140079336a7c76b538d2abea1dee3d54a97ef303072a536df9914e41a0f7a85",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#111827"
     },
     {
@@ -48,7 +54,10 @@
       "id": "brackla-harriers",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/brackla-harriers.png?v=6f3a43ea8465",
       "name": "Brackla Harriers",
+      "primary_colour": "#ff0000",
+      "secondary_colour": "#fea400",
       "sha256": "6f3a43ea84653d37c6e377d3f3bf6cc886282879a5f20a04f75c9ff9d97b2cf5",
+      "tertiary_colour": "#ffffff",
       "tile_colour": "#ff0000"
     },
     {
@@ -60,6 +69,8 @@
       "id": "brecon-athletic-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/brecon-athletic-club.webp?v=8d610d68d838",
       "name": "Brecon Athletic Club",
+      "primary_colour": "#1c7ada",
+      "secondary_colour": "#263d86",
       "sha256": "8d610d68d83808d2348558cc72dd8dd27f00349061271c0f27bf45f53a90c392",
       "tile_colour": "#1c3144"
     },
@@ -71,6 +82,8 @@
       "id": "bridgend-athletics",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/bridgend-athletics.webp?v=67f13bb15089",
       "name": "Bridgend Athletics",
+      "primary_colour": "#febd2f",
+      "secondary_colour": "#1441f5",
       "sha256": "67f13bb150897961b8542b8af7ae6e2a0a6dcfd08da98bea20517888120c59dc",
       "tile_colour": "#febd2f"
     },
@@ -84,8 +97,10 @@
       "id": "builth-district-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/builth-district-running-club.png?v=7c09b4d93b42",
       "name": "Builth & District Running Club",
+      "primary_colour": "#f9c857",
+      "secondary_colour": "#31373d",
       "sha256": "7c09b4d93b42537a0d94ca4c60b0ac51c9e558dadfa383743d7a01d7cdff20e1",
-      "tile_colour": "#fee34c"
+      "tile_colour": "#fcca58"
     },
     {
       "aliases": [
@@ -97,6 +112,8 @@
       "id": "caerleon-running-club",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caerleon-running-club.png?v=93bd809e067e",
       "name": "Caerleon Running Club",
+      "primary_colour": "#4a047a",
+      "secondary_colour": "#ffffff",
       "sha256": "93bd809e067e9b4583de78628b1e464a8011cb532c159ef7d068985975368a9f",
       "tile_colour": "#4a047a"
     },
@@ -108,6 +125,8 @@
       "id": "caerphilly-runners",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/caerphilly-runners.png?v=cfe2b62cd558",
       "name": "Caerphilly Runners",
+      "primary_colour": "#30a7e9",
+      "secondary_colour": "#000000",
       "sha256": "cfe2b62cd5584eabe1d17cac6e9e311b8f34f9586e47cb87fc9cf6e2da806e5b",
       "tile_colour": "#30a7e9"
     },
@@ -718,7 +737,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-10-01T08:52:32+00:00",
+  "generated_at": "2026-10-01T09:04:27+00:00",
   "lookup": {
     "3m gorseinon": "3m-gorseinon",
     "3m gorseinon road runners": "3m-gorseinon",
