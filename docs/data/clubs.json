@@ -9,7 +9,10 @@
       "id": "3m-gorseinon",
       "logo_url": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/club-logos/3m-gorseinon.png?v=eb488545dc2c",
       "name": "3M Gorseinon",
+      "primary_colour": "#0292c7",
+      "secondary_colour": "#000000",
       "sha256": "eb488545dc2cb08e795208e84f99c53f420675fd1dd705f9c752f8578e0ef521",
+      "tertiary_colour": "#ff0000",
       "tile_colour": "#0292c7"
     },
     {
@@ -715,7 +718,7 @@
       "tile_colour": "#111827"
     }
   ],
-  "generated_at": "2026-09-30T22:57:23+00:00",
+  "generated_at": "2026-10-01T08:52:32+00:00",
   "lookup": {
     "3m gorseinon": "3m-gorseinon",
     "3m gorseinon road runners": "3m-gorseinon",
