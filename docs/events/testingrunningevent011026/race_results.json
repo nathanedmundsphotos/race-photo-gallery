@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "event_tag": "testing_running_event_011026",
   "confirmed": true,
   "columns": [
@@ -83,7 +83,11 @@
       "category": "Senior Male",
       "time": "00:30:43",
       "gender_position": 5,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_4",
+      "portrait_filename": "4N4A1980.jpg",
+      "portrait_flickr_id": "55563190804",
+      "portrait_thumbnail": ""
     },
     {
       "position": 6,
@@ -97,7 +101,11 @@
       "category": "Senior Male",
       "time": "00:30:45",
       "gender_position": 6,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_8",
+      "portrait_filename": "4N4A1999.jpg",
+      "portrait_flickr_id": "55563033156",
+      "portrait_thumbnail": ""
     },
     {
       "position": 7,
@@ -125,7 +133,11 @@
       "category": "M40",
       "time": "00:30:57",
       "gender_position": 8,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_6",
+      "portrait_filename": "4N4A1998.jpg",
+      "portrait_flickr_id": "55563135073",
+      "portrait_thumbnail": ""
     },
     {
       "position": 9,
@@ -139,7 +151,11 @@
       "category": "Senior Male",
       "time": "00:31:00",
       "gender_position": 9,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_21",
+      "portrait_filename": "4N4A2003.jpg",
+      "portrait_flickr_id": "55563135368",
+      "portrait_thumbnail": ""
     },
     {
       "position": 10,
@@ -181,7 +197,11 @@
       "category": "M55",
       "time": "00:31:29",
       "gender_position": 12,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_27",
+      "portrait_filename": "4N4A2009.jpg",
+      "portrait_flickr_id": "55563033681",
+      "portrait_thumbnail": ""
     },
     {
       "position": 13,
@@ -209,7 +229,11 @@
       "category": "M35",
       "time": "00:31:33",
       "gender_position": 14,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_19",
+      "portrait_filename": "4N4A2002.jpg",
+      "portrait_flickr_id": "55563192264",
+      "portrait_thumbnail": ""
     },
     {
       "position": 15,
@@ -223,7 +247,11 @@
       "category": "M35",
       "time": "00:31:42",
       "gender_position": 15,
-      "category_position": 4
+      "category_position": 4,
+      "cluster_tag": "face_cluster_29",
+      "portrait_filename": "4N4A2008.jpg",
+      "portrait_flickr_id": "55563135688",
+      "portrait_thumbnail": ""
     },
     {
       "position": 16,
@@ -237,7 +265,11 @@
       "category": "Senior Male",
       "time": "00:31:49",
       "gender_position": 16,
-      "category_position": 6
+      "category_position": 6,
+      "cluster_tag": "face_cluster_10",
+      "portrait_filename": "4N4A2001.jpg",
+      "portrait_flickr_id": "55563192184",
+      "portrait_thumbnail": ""
     },
     {
       "position": 17,
@@ -265,7 +297,11 @@
       "category": "M35",
       "time": "00:31:58",
       "gender_position": 17,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_23",
+      "portrait_filename": "4N4A2007.jpg",
+      "portrait_flickr_id": "55563135603",
+      "portrait_thumbnail": ""
     },
     {
       "position": 19,
@@ -279,7 +315,11 @@
       "category": "Senior Male",
       "time": "00:32:07",
       "gender_position": 18,
-      "category_position": 7
+      "category_position": 7,
+      "cluster_tag": "face_cluster_22",
+      "portrait_filename": "4N4A2003.jpg",
+      "portrait_flickr_id": "55563135368",
+      "portrait_thumbnail": ""
     },
     {
       "position": 20,
@@ -293,7 +333,8 @@
       "category": "Senior Male",
       "time": "00:32:12",
       "gender_position": 501,
-      "category_position": 501
+      "category_position": 501,
+      "thumbnail_assignment_status": "ambiguous_duplicate_bib"
     },
     {
       "position": 21,
@@ -335,7 +376,11 @@
       "category": "Senior Female",
       "time": "00:32:38",
       "gender_position": 1,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_40",
+      "portrait_filename": "4N4A2021.jpg",
+      "portrait_flickr_id": "55563034396",
+      "portrait_thumbnail": ""
     },
     {
       "position": 24,
@@ -349,7 +394,11 @@
       "category": "Senior Male",
       "time": "00:32:38",
       "gender_position": 21,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_25",
+      "portrait_filename": "4N4A2006.jpg",
+      "portrait_flickr_id": "55563135543",
+      "portrait_thumbnail": ""
     },
     {
       "position": 25,
@@ -363,7 +412,11 @@
       "category": "M50",
       "time": "00:32:41",
       "gender_position": 22,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_38",
+      "portrait_filename": "4N4A2018.jpg",
+      "portrait_flickr_id": "55562010807",
+      "portrait_thumbnail": ""
     },
     {
       "position": 26,
@@ -377,7 +430,11 @@
       "category": "M35",
       "time": "00:32:53",
       "gender_position": 23,
-      "category_position": 6
+      "category_position": 6,
+      "cluster_tag": "face_cluster_34",
+      "portrait_filename": "4N4A2015.jpg",
+      "portrait_flickr_id": "55563034021",
+      "portrait_thumbnail": ""
     },
     {
       "position": 27,
@@ -405,7 +462,11 @@
       "category": "Senior Male",
       "time": "00:33:06",
       "gender_position": 24,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_36",
+      "portrait_filename": "4N4A2016.jpg",
+      "portrait_flickr_id": "55563193024",
+      "portrait_thumbnail": ""
     },
     {
       "position": 29,
@@ -419,7 +480,11 @@
       "category": "M35",
       "time": "00:33:10",
       "gender_position": 25,
-      "category_position": 7
+      "category_position": 7,
+      "cluster_tag": "face_cluster_42",
+      "portrait_filename": "4N4A2020.jpg",
+      "portrait_flickr_id": "55563136363",
+      "portrait_thumbnail": ""
     },
     {
       "position": 30,
@@ -433,7 +498,11 @@
       "category": "M35",
       "time": "00:33:12",
       "gender_position": 26,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_45",
+      "portrait_filename": "4N4A2023.jpg",
+      "portrait_flickr_id": "55563193439",
+      "portrait_thumbnail": ""
     },
     {
       "position": 31,
@@ -461,7 +530,11 @@
       "category": "Senior Male",
       "time": "00:33:18",
       "gender_position": 28,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_31",
+      "portrait_filename": "4N4A2012.jpg",
+      "portrait_flickr_id": "55563135903",
+      "portrait_thumbnail": ""
     },
     {
       "position": 33,
@@ -475,7 +548,11 @@
       "category": "M35",
       "time": "00:33:39",
       "gender_position": 29,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_50",
+      "portrait_filename": "4N4A2027.jpg",
+      "portrait_flickr_id": "55563034891",
+      "portrait_thumbnail": ""
     },
     {
       "position": 34,
@@ -489,7 +566,11 @@
       "category": "Senior Male",
       "time": "00:33:42",
       "gender_position": 30,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_48",
+      "portrait_filename": "4N4A2025.jpg",
+      "portrait_flickr_id": "55563034736",
+      "portrait_thumbnail": ""
     },
     {
       "position": 35,
@@ -503,7 +584,11 @@
       "category": "Senior Male",
       "time": "00:33:47",
       "gender_position": 31,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_44",
+      "portrait_filename": "4N4A2022.jpg",
+      "portrait_flickr_id": "55562010982",
+      "portrait_thumbnail": ""
     },
     {
       "position": 36,
@@ -531,7 +616,11 @@
       "category": "M35",
       "time": "00:33:58",
       "gender_position": 33,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_47",
+      "portrait_filename": "4N4A2024.jpg",
+      "portrait_flickr_id": "55563034656",
+      "portrait_thumbnail": ""
     },
     {
       "position": 38,
@@ -545,7 +634,11 @@
       "category": "M50",
       "time": "00:33:59",
       "gender_position": 34,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_51",
+      "portrait_filename": "4N4A2028.jpg",
+      "portrait_flickr_id": "55562011447",
+      "portrait_thumbnail": ""
     },
     {
       "position": 39,
@@ -601,7 +694,11 @@
       "category": "Senior Male",
       "time": "00:34:37",
       "gender_position": 37,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_62",
+      "portrait_filename": "4N4A2034.jpg",
+      "portrait_flickr_id": "55563035521",
+      "portrait_thumbnail": ""
     },
     {
       "position": 43,
@@ -615,7 +712,11 @@
       "category": "Senior Male",
       "time": "00:34:42",
       "gender_position": 38,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_60",
+      "portrait_filename": "4N4A2036.jpg",
+      "portrait_flickr_id": "55563035646",
+      "portrait_thumbnail": ""
     },
     {
       "position": 44,
@@ -643,7 +744,11 @@
       "category": "M45",
       "time": "00:34:44",
       "gender_position": 40,
-      "category_position": 6
+      "category_position": 6,
+      "cluster_tag": "face_cluster_59",
+      "portrait_filename": "4N4A2037.jpg",
+      "portrait_flickr_id": "55563137553",
+      "portrait_thumbnail": ""
     },
     {
       "position": 46,
@@ -657,7 +762,11 @@
       "category": "M45",
       "time": "00:34:46",
       "gender_position": 41,
-      "category_position": 7
+      "category_position": 7,
+      "cluster_tag": "face_cluster_55",
+      "portrait_filename": "4N4A2031.jpg",
+      "portrait_flickr_id": "55563035286",
+      "portrait_thumbnail": ""
     },
     {
       "position": 47,
@@ -671,7 +780,11 @@
       "category": "M40",
       "time": "00:34:49",
       "gender_position": 42,
-      "category_position": 6
+      "category_position": 6,
+      "cluster_tag": "face_cluster_70",
+      "portrait_filename": "4N4A2042.jpg",
+      "portrait_flickr_id": "55562012547",
+      "portrait_thumbnail": ""
     },
     {
       "position": 48,
@@ -713,7 +826,11 @@
       "category": "M45",
       "time": "00:34:55",
       "gender_position": 45,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_85",
+      "portrait_filename": "4N4A2053.jpg",
+      "portrait_flickr_id": "55563437660",
+      "portrait_thumbnail": ""
     },
     {
       "position": 51,
@@ -727,7 +844,11 @@
       "category": "M45",
       "time": "00:34:58",
       "gender_position": 46,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_73",
+      "portrait_filename": "4N4A2343.jpg",
+      "portrait_flickr_id": "55563053651",
+      "portrait_thumbnail": ""
     },
     {
       "position": 52,
@@ -741,7 +862,11 @@
       "category": "M35",
       "time": "00:35:04",
       "gender_position": 47,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_65",
+      "portrait_filename": "4N4A2039.jpg",
+      "portrait_flickr_id": "55562012297",
+      "portrait_thumbnail": ""
     },
     {
       "position": 53,
@@ -755,7 +880,11 @@
       "category": "M60",
       "time": "00:35:06",
       "gender_position": 48,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_61",
+      "portrait_filename": "4N4A2037.jpg",
+      "portrait_flickr_id": "55563137553",
+      "portrait_thumbnail": ""
     },
     {
       "position": 54,
@@ -769,7 +898,11 @@
       "category": "M50",
       "time": "00:35:08",
       "gender_position": 49,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_76",
+      "portrait_filename": "4N4A2047.jpg",
+      "portrait_flickr_id": "55563036416",
+      "portrait_thumbnail": ""
     },
     {
       "position": 55,
@@ -811,7 +944,11 @@
       "category": "F35",
       "time": "00:35:13",
       "gender_position": 5,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_79",
+      "portrait_filename": "4N4A2048.jpg",
+      "portrait_flickr_id": "55563437330",
+      "portrait_thumbnail": ""
     },
     {
       "position": 58,
@@ -825,7 +962,11 @@
       "category": "M45",
       "time": "00:35:18",
       "gender_position": 51,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_87",
+      "portrait_filename": "4N4A2056.jpg",
+      "portrait_flickr_id": "55563195674",
+      "portrait_thumbnail": ""
     },
     {
       "position": 59,
@@ -839,7 +980,11 @@
       "category": "M40",
       "time": "00:35:20",
       "gender_position": 52,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_69",
+      "portrait_filename": "4N4A2040.jpg",
+      "portrait_flickr_id": "55563194664",
+      "portrait_thumbnail": ""
     },
     {
       "position": 60,
@@ -853,7 +998,11 @@
       "category": "M35",
       "time": "00:35:22",
       "gender_position": 53,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_89",
+      "portrait_filename": "4N4A2057.jpg",
+      "portrait_flickr_id": "55563037026",
+      "portrait_thumbnail": ""
     },
     {
       "position": 61,
@@ -867,7 +1016,11 @@
       "category": "M35",
       "time": "00:35:31",
       "gender_position": 54,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_63",
+      "portrait_filename": "4N4A2035.jpg",
+      "portrait_flickr_id": "55563436390",
+      "portrait_thumbnail": ""
     },
     {
       "position": 62,
@@ -881,7 +1034,11 @@
       "category": "M35",
       "time": "00:35:35",
       "gender_position": 55,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_109",
+      "portrait_filename": "4N4A2062.jpg",
+      "portrait_flickr_id": "55563438285",
+      "portrait_thumbnail": ""
     },
     {
       "position": 63,
@@ -895,7 +1052,8 @@
       "category": "Senior Male",
       "time": "00:35:37",
       "gender_position": 56,
-      "category_position": 16
+      "category_position": 16,
+      "thumbnail_assignment_status": "ambiguous_duplicate_bib"
     },
     {
       "position": 64,
@@ -923,7 +1081,11 @@
       "category": "F35",
       "time": "00:35:40",
       "gender_position": 7,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_75",
+      "portrait_filename": "4N4A2046.jpg",
+      "portrait_flickr_id": "55563195069",
+      "portrait_thumbnail": ""
     },
     {
       "position": 66,
@@ -937,7 +1099,11 @@
       "category": "Senior Male",
       "time": "00:35:41",
       "gender_position": 57,
-      "category_position": 17
+      "category_position": 17,
+      "cluster_tag": "face_cluster_84",
+      "portrait_filename": "4N4A2051.jpg",
+      "portrait_flickr_id": "55563437535",
+      "portrait_thumbnail": ""
     },
     {
       "position": 67,
@@ -951,7 +1117,11 @@
       "category": "M40",
       "time": "00:35:46",
       "gender_position": 58,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_77",
+      "portrait_filename": "4N4A2045.jpg",
+      "portrait_flickr_id": "55563138183",
+      "portrait_thumbnail": ""
     },
     {
       "position": 68,
@@ -965,7 +1135,11 @@
       "category": "F55",
       "time": "00:35:48",
       "gender_position": 8,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_104",
+      "portrait_filename": "4N4A2059.jpg",
+      "portrait_flickr_id": "55563195934",
+      "portrait_thumbnail": ""
     },
     {
       "position": 69,
@@ -993,7 +1167,11 @@
       "category": "Senior Female",
       "time": "00:36:02",
       "gender_position": 9,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_80",
+      "portrait_filename": "4N4A2049.jpg",
+      "portrait_flickr_id": "55563195239",
+      "portrait_thumbnail": ""
     },
     {
       "position": 71,
@@ -1007,7 +1185,11 @@
       "category": "F45",
       "time": "00:36:06",
       "gender_position": 10,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_82",
+      "portrait_filename": "4N4A2050.jpg",
+      "portrait_flickr_id": "55562013022",
+      "portrait_thumbnail": ""
     },
     {
       "position": 72,
@@ -1021,7 +1203,11 @@
       "category": "Senior Male",
       "time": "00:36:07",
       "gender_position": 60,
-      "category_position": 18
+      "category_position": 18,
+      "cluster_tag": "face_cluster_86",
+      "portrait_filename": "4N4A2055.jpg",
+      "portrait_flickr_id": "55563138793",
+      "portrait_thumbnail": ""
     },
     {
       "position": 73,
@@ -1077,7 +1263,11 @@
       "category": "Senior Male",
       "time": "00:36:24",
       "gender_position": 63,
-      "category_position": 19
+      "category_position": 19,
+      "cluster_tag": "face_cluster_125",
+      "portrait_filename": "4N4A2075.jpg",
+      "portrait_flickr_id": "55563038351",
+      "portrait_thumbnail": ""
     },
     {
       "position": 77,
@@ -1105,7 +1295,11 @@
       "category": "M55",
       "time": "00:36:36",
       "gender_position": 64,
-      "category_position": 4
+      "category_position": 4,
+      "cluster_tag": "face_cluster_111",
+      "portrait_filename": "4N4A2065.jpg",
+      "portrait_flickr_id": "55563139613",
+      "portrait_thumbnail": ""
     },
     {
       "position": 79,
@@ -1133,7 +1327,11 @@
       "category": "M55",
       "time": "00:36:40",
       "gender_position": 66,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_105",
+      "portrait_filename": "4N4A2058.jpg",
+      "portrait_flickr_id": "55563438045",
+      "portrait_thumbnail": ""
     },
     {
       "position": 81,
@@ -1175,7 +1373,11 @@
       "category": "M50",
       "time": "00:36:49",
       "gender_position": 69,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_115",
+      "portrait_filename": "4N4A2069.jpg",
+      "portrait_flickr_id": "55562014322",
+      "portrait_thumbnail": ""
     },
     {
       "position": 84,
@@ -1189,7 +1391,11 @@
       "category": "M50",
       "time": "00:36:55",
       "gender_position": 70,
-      "category_position": 6
+      "category_position": 6,
+      "cluster_tag": "face_cluster_114",
+      "portrait_filename": "4N4A2068.jpg",
+      "portrait_flickr_id": "55563037931",
+      "portrait_thumbnail": ""
     },
     {
       "position": 85,
@@ -1231,7 +1437,11 @@
       "category": "M40",
       "time": "00:37:07",
       "gender_position": 72,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_107",
+      "portrait_filename": "4N4A2062.jpg",
+      "portrait_flickr_id": "55563438285",
+      "portrait_thumbnail": ""
     },
     {
       "position": 88,
@@ -1245,7 +1455,11 @@
       "category": "Senior Male",
       "time": "00:37:08",
       "gender_position": 73,
-      "category_position": 21
+      "category_position": 21,
+      "cluster_tag": "face_cluster_108",
+      "portrait_filename": "4N4A2063.jpg",
+      "portrait_flickr_id": "55563037481",
+      "portrait_thumbnail": ""
     },
     {
       "position": 89,
@@ -1287,7 +1501,11 @@
       "category": "M50",
       "time": "00:37:22",
       "gender_position": 76,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_117",
+      "portrait_filename": "4N4A2070.jpg",
+      "portrait_flickr_id": "55563139988",
+      "portrait_thumbnail": ""
     },
     {
       "position": 92,
@@ -1315,7 +1533,11 @@
       "category": "M50",
       "time": "00:37:34",
       "gender_position": 78,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_98",
+      "portrait_filename": "4N4A2058.jpg",
+      "portrait_flickr_id": "55563438045",
+      "portrait_thumbnail": ""
     },
     {
       "position": 94,
@@ -1343,7 +1565,11 @@
       "category": "M45",
       "time": "00:37:43",
       "gender_position": 79,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_129",
+      "portrait_filename": "4N4A2076.jpg",
+      "portrait_flickr_id": "55562014862",
+      "portrait_thumbnail": ""
     },
     {
       "position": 96,
@@ -1371,7 +1597,11 @@
       "category": "F35",
       "time": "00:37:56",
       "gender_position": 15,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_122",
+      "portrait_filename": "4N4A2074.jpg",
+      "portrait_flickr_id": "55563038271",
+      "portrait_thumbnail": ""
     },
     {
       "position": 98,
@@ -1399,7 +1629,11 @@
       "category": "M50",
       "time": "00:38:06",
       "gender_position": 82,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_127",
+      "portrait_filename": "4N4A2078.jpg",
+      "portrait_flickr_id": "55563439490",
+      "portrait_thumbnail": ""
     },
     {
       "position": 100,
@@ -1413,7 +1647,11 @@
       "category": "Senior Male",
       "time": "00:38:07",
       "gender_position": 83,
-      "category_position": 24
+      "category_position": 24,
+      "cluster_tag": "face_cluster_158",
+      "portrait_filename": "4N4A2098.jpg",
+      "portrait_flickr_id": "55563141518",
+      "portrait_thumbnail": ""
     },
     {
       "position": 101,
@@ -1427,7 +1665,11 @@
       "category": "M45",
       "time": "00:38:10",
       "gender_position": 84,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_119",
+      "portrait_filename": "4N4A2072.jpg",
+      "portrait_flickr_id": "55563038186",
+      "portrait_thumbnail": ""
     },
     {
       "position": 102,
@@ -1441,7 +1683,11 @@
       "category": "F40",
       "time": "00:38:20",
       "gender_position": 16,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_128",
+      "portrait_filename": "4N4A2076.jpg",
+      "portrait_flickr_id": "55562014862",
+      "portrait_thumbnail": ""
     },
     {
       "position": 103,
@@ -1497,7 +1743,11 @@
       "category": "M50",
       "time": "00:38:29",
       "gender_position": 88,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_156",
+      "portrait_filename": "4N4A2096.jpg",
+      "portrait_flickr_id": "55563039596",
+      "portrait_thumbnail": ""
     },
     {
       "position": 107,
@@ -1525,7 +1775,11 @@
       "category": "Senior Male",
       "time": "00:38:37",
       "gender_position": 90,
-      "category_position": 27
+      "category_position": 27,
+      "cluster_tag": "face_cluster_138",
+      "portrait_filename": "4N4A2082.jpg",
+      "portrait_flickr_id": "55563140718",
+      "portrait_thumbnail": ""
     },
     {
       "position": 109,
@@ -1595,7 +1849,11 @@
       "category": "Senior Male",
       "time": "00:39:03",
       "gender_position": 93,
-      "category_position": 28
+      "category_position": 28,
+      "cluster_tag": "face_cluster_155",
+      "portrait_filename": "4N4A2095.jpg",
+      "portrait_flickr_id": "55563141408",
+      "portrait_thumbnail": ""
     },
     {
       "position": 114,
@@ -1623,7 +1881,11 @@
       "category": "M40",
       "time": "00:39:09",
       "gender_position": 95,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_164",
+      "portrait_filename": "4N4A2102.jpg",
+      "portrait_flickr_id": "55563440770",
+      "portrait_thumbnail": ""
     },
     {
       "position": 116,
@@ -1651,7 +1913,11 @@
       "category": "M35",
       "time": "00:39:13",
       "gender_position": 97,
-      "category_position": 17
+      "category_position": 17,
+      "cluster_tag": "face_cluster_144",
+      "portrait_filename": "4N4A2087.jpg",
+      "portrait_flickr_id": "55563141018",
+      "portrait_thumbnail": ""
     },
     {
       "position": 118,
@@ -1665,7 +1931,11 @@
       "category": "M60",
       "time": "00:39:14",
       "gender_position": 98,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_151",
+      "portrait_filename": "4N4A2092.jpg",
+      "portrait_flickr_id": "55563197994",
+      "portrait_thumbnail": ""
     },
     {
       "position": 119,
@@ -1707,7 +1977,11 @@
       "category": "M55",
       "time": "00:39:20",
       "gender_position": 100,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_145",
+      "portrait_filename": "4N4A2088.jpg",
+      "portrait_flickr_id": "55562015592",
+      "portrait_thumbnail": ""
     },
     {
       "position": 122,
@@ -1749,7 +2023,11 @@
       "category": "F45",
       "time": "00:39:26",
       "gender_position": 20,
-      "category_position": 4
+      "category_position": 4,
+      "cluster_tag": "face_cluster_147",
+      "portrait_filename": "4N4A2089.jpg",
+      "portrait_flickr_id": "55563039326",
+      "portrait_thumbnail": ""
     },
     {
       "position": 125,
@@ -1763,7 +2041,11 @@
       "category": "Senior Male",
       "time": "00:39:34",
       "gender_position": 103,
-      "category_position": 29
+      "category_position": 29,
+      "cluster_tag": "face_cluster_116",
+      "portrait_filename": "4N4A2071.jpg",
+      "portrait_flickr_id": "55562014452",
+      "portrait_thumbnail": ""
     },
     {
       "position": 126,
@@ -1777,7 +2059,11 @@
       "category": "Senior Female",
       "time": "00:39:44",
       "gender_position": 21,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_188",
+      "portrait_filename": "4N4A2115.jpg",
+      "portrait_flickr_id": "55563441415",
+      "portrait_thumbnail": ""
     },
     {
       "position": 127,
@@ -1791,7 +2077,11 @@
       "category": "M50",
       "time": "00:39:46",
       "gender_position": 104,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_180",
+      "portrait_filename": "4N4A2111.jpg",
+      "portrait_flickr_id": "55563040376",
+      "portrait_thumbnail": ""
     },
     {
       "position": 128,
@@ -1805,7 +2095,11 @@
       "category": "F45",
       "time": "00:39:52",
       "gender_position": 22,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_380",
+      "portrait_filename": "4N4A2227.jpg",
+      "portrait_flickr_id": "55562022987",
+      "portrait_thumbnail": ""
     },
     {
       "position": 129,
@@ -1819,7 +2113,11 @@
       "category": "M45",
       "time": "00:39:57",
       "gender_position": 105,
-      "category_position": 19
+      "category_position": 19,
+      "cluster_tag": "face_cluster_185",
+      "portrait_filename": "4N4A2113.jpg",
+      "portrait_flickr_id": "55563040486",
+      "portrait_thumbnail": ""
     },
     {
       "position": 130,
@@ -1833,7 +2131,11 @@
       "category": "M45",
       "time": "00:40:00",
       "gender_position": 106,
-      "category_position": 20
+      "category_position": 20,
+      "cluster_tag": "face_cluster_186",
+      "portrait_filename": "4N4A2114.jpg",
+      "portrait_flickr_id": "55563199064",
+      "portrait_thumbnail": ""
     },
     {
       "position": 131,
@@ -1861,7 +2163,11 @@
       "category": "M40",
       "time": "00:40:04",
       "gender_position": 108,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_153",
+      "portrait_filename": "4N4A2093.jpg",
+      "portrait_flickr_id": "55562015782",
+      "portrait_thumbnail": ""
     },
     {
       "position": 133,
@@ -1889,7 +2195,11 @@
       "category": "M45",
       "time": "00:40:09",
       "gender_position": 110,
-      "category_position": 21
+      "category_position": 21,
+      "cluster_tag": "face_cluster_177",
+      "portrait_filename": "4N4A2111.jpg",
+      "portrait_flickr_id": "55563040376",
+      "portrait_thumbnail": ""
     },
     {
       "position": 135,
@@ -1903,7 +2213,11 @@
       "category": "M45",
       "time": "00:40:12",
       "gender_position": 111,
-      "category_position": 22
+      "category_position": 22,
+      "cluster_tag": "face_cluster_165",
+      "portrait_filename": "4N4A2104.jpg",
+      "portrait_flickr_id": "55563141848",
+      "portrait_thumbnail": ""
     },
     {
       "position": 136,
@@ -1917,7 +2231,11 @@
       "category": "F60",
       "time": "00:40:14",
       "gender_position": 23,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_167",
+      "portrait_filename": "4N4A2103.jpg",
+      "portrait_flickr_id": "55563039911",
+      "portrait_thumbnail": ""
     },
     {
       "position": 137,
@@ -1931,7 +2249,11 @@
       "category": "M50",
       "time": "00:40:15",
       "gender_position": 112,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_178",
+      "portrait_filename": "4N4A2110.jpg",
+      "portrait_flickr_id": "55563040291",
+      "portrait_thumbnail": ""
     },
     {
       "position": 138,
@@ -1945,7 +2267,11 @@
       "category": "F55",
       "time": "00:40:18",
       "gender_position": 24,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_200",
+      "portrait_filename": "4N4A2121.jpg",
+      "portrait_flickr_id": "55563199384",
+      "portrait_thumbnail": ""
     },
     {
       "position": 139,
@@ -1973,7 +2299,11 @@
       "category": "M55",
       "time": "00:40:29",
       "gender_position": 113,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_162",
+      "portrait_filename": "4N4A2100.jpg",
+      "portrait_flickr_id": "55563039816",
+      "portrait_thumbnail": ""
     },
     {
       "position": 141,
@@ -1987,7 +2317,11 @@
       "category": "Senior Female",
       "time": "00:40:32",
       "gender_position": 26,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_175",
+      "portrait_filename": "4N4A2111.jpg",
+      "portrait_flickr_id": "55563040376",
+      "portrait_thumbnail": ""
     },
     {
       "position": 142,
@@ -2001,7 +2335,11 @@
       "category": "F50",
       "time": "00:40:41",
       "gender_position": 27,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_189",
+      "portrait_filename": "4N4A2115.jpg",
+      "portrait_flickr_id": "55563441415",
+      "portrait_thumbnail": ""
     },
     {
       "position": 143,
@@ -2015,7 +2353,11 @@
       "category": "Senior Male",
       "time": "00:40:43",
       "gender_position": 114,
-      "category_position": 30
+      "category_position": 30,
+      "cluster_tag": "face_cluster_206",
+      "portrait_filename": "4N4A2122.jpg",
+      "portrait_flickr_id": "55563142613",
+      "portrait_thumbnail": ""
     },
     {
       "position": 144,
@@ -2029,7 +2371,11 @@
       "category": "M50",
       "time": "00:40:45",
       "gender_position": 115,
-      "category_position": 16
+      "category_position": 16,
+      "cluster_tag": "face_cluster_172",
+      "portrait_filename": "4N4A2108.jpg",
+      "portrait_flickr_id": "55563142018",
+      "portrait_thumbnail": ""
     },
     {
       "position": 145,
@@ -2071,7 +2417,8 @@
       "category": "F45",
       "time": "00:41:07",
       "gender_position": 502,
-      "category_position": 502
+      "category_position": 502,
+      "thumbnail_assignment_status": "ambiguous_duplicate_bib"
     },
     {
       "position": 148,
@@ -2085,7 +2432,11 @@
       "category": "M45",
       "time": "00:41:12",
       "gender_position": 117,
-      "category_position": 23
+      "category_position": 23,
+      "cluster_tag": "face_cluster_216",
+      "portrait_filename": "4N4A2128.jpg",
+      "portrait_flickr_id": "55563041021",
+      "portrait_thumbnail": ""
     },
     {
       "position": 149,
@@ -2099,7 +2450,11 @@
       "category": "M50",
       "time": "00:41:18",
       "gender_position": 118,
-      "category_position": 17
+      "category_position": 17,
+      "cluster_tag": "face_cluster_173",
+      "portrait_filename": "4N4A2109.jpg",
+      "portrait_flickr_id": "55563040236",
+      "portrait_thumbnail": ""
     },
     {
       "position": 150,
@@ -2141,7 +2496,11 @@
       "category": "M55",
       "time": "00:41:23",
       "gender_position": 120,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_194",
+      "portrait_filename": "4N4A2117.jpg",
+      "portrait_flickr_id": "55563199169",
+      "portrait_thumbnail": ""
     },
     {
       "position": 153,
@@ -2155,7 +2514,11 @@
       "category": "Senior Male",
       "time": "00:41:24",
       "gender_position": 121,
-      "category_position": 32
+      "category_position": 32,
+      "cluster_tag": "face_cluster_212",
+      "portrait_filename": "4N4A2125.jpg",
+      "portrait_flickr_id": "55563142758",
+      "portrait_thumbnail": ""
     },
     {
       "position": 154,
@@ -2183,7 +2546,11 @@
       "category": "F40",
       "time": "00:41:37",
       "gender_position": 30,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_198",
+      "portrait_filename": "4N4A2119.jpg",
+      "portrait_flickr_id": "55563441580",
+      "portrait_thumbnail": ""
     },
     {
       "position": 156,
@@ -2225,7 +2592,11 @@
       "category": "Senior Male",
       "time": "00:41:52",
       "gender_position": 125,
-      "category_position": 34
+      "category_position": 34,
+      "cluster_tag": "face_cluster_517",
+      "portrait_filename": "4N4A2332.jpg",
+      "portrait_flickr_id": "55563212149",
+      "portrait_thumbnail": ""
     },
     {
       "position": 159,
@@ -2239,7 +2610,11 @@
       "category": "M70",
       "time": "00:41:52",
       "gender_position": 126,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_203",
+      "portrait_filename": "4N4A2120.jpg",
+      "portrait_flickr_id": "55562017052",
+      "portrait_thumbnail": ""
     },
     {
       "position": 160,
@@ -2253,7 +2628,11 @@
       "category": "F40",
       "time": "00:41:54",
       "gender_position": 31,
-      "category_position": 4
+      "category_position": 4,
+      "cluster_tag": "face_cluster_223",
+      "portrait_filename": "4N4A2132.jpg",
+      "portrait_flickr_id": "55562017652",
+      "portrait_thumbnail": ""
     },
     {
       "position": 161,
@@ -2295,7 +2674,8 @@
       "category": "F45",
       "time": "00:42:04",
       "gender_position": 32,
-      "category_position": 6
+      "category_position": 6,
+      "thumbnail_assignment_status": "ambiguous_duplicate_bib"
     },
     {
       "position": 164,
@@ -2309,7 +2689,11 @@
       "category": "M55",
       "time": "00:42:05",
       "gender_position": 129,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_256",
+      "portrait_filename": "4N4A2153.jpg",
+      "portrait_flickr_id": "55563144293",
+      "portrait_thumbnail": ""
     },
     {
       "position": 165,
@@ -2337,7 +2721,11 @@
       "category": "M65",
       "time": "00:42:07",
       "gender_position": 130,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_239",
+      "portrait_filename": "4N4A2144.jpg",
+      "portrait_flickr_id": "55563041766",
+      "portrait_thumbnail": ""
     },
     {
       "position": 167,
@@ -2365,7 +2753,11 @@
       "category": "M35",
       "time": "00:42:09",
       "gender_position": 132,
-      "category_position": 20
+      "category_position": 20,
+      "cluster_tag": "face_cluster_218",
+      "portrait_filename": "4N4A2129.jpg",
+      "portrait_flickr_id": "55562017482",
+      "portrait_thumbnail": ""
     },
     {
       "position": 169,
@@ -2379,7 +2771,11 @@
       "category": "M35",
       "time": "00:42:15",
       "gender_position": 133,
-      "category_position": 21
+      "category_position": 21,
+      "cluster_tag": "face_cluster_213",
+      "portrait_filename": "4N4A2126.jpg",
+      "portrait_flickr_id": "55563040921",
+      "portrait_thumbnail": ""
     },
     {
       "position": 170,
@@ -2393,7 +2789,11 @@
       "category": "M40",
       "time": "00:42:16",
       "gender_position": 134,
-      "category_position": 16
+      "category_position": 16,
+      "cluster_tag": "face_cluster_211",
+      "portrait_filename": "4N4A2124.jpg",
+      "portrait_flickr_id": "55563040811",
+      "portrait_thumbnail": ""
     },
     {
       "position": 171,
@@ -2407,7 +2807,11 @@
       "category": "M60",
       "time": "00:42:20",
       "gender_position": 135,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_268",
+      "portrait_filename": "4N4A2164.jpg",
+      "portrait_flickr_id": "55563042681",
+      "portrait_thumbnail": ""
     },
     {
       "position": 172,
@@ -2421,7 +2825,11 @@
       "category": "M35",
       "time": "00:42:23",
       "gender_position": 136,
-      "category_position": 22
+      "category_position": 22,
+      "cluster_tag": "face_cluster_238",
+      "portrait_filename": "4N4A2142.jpg",
+      "portrait_flickr_id": "55562018157",
+      "portrait_thumbnail": ""
     },
     {
       "position": 173,
@@ -2449,7 +2857,11 @@
       "category": "F55",
       "time": "00:42:32",
       "gender_position": 35,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_221",
+      "portrait_filename": "4N4A2131.jpg",
+      "portrait_flickr_id": "55563442100",
+      "portrait_thumbnail": ""
     },
     {
       "position": 175,
@@ -2463,7 +2875,11 @@
       "category": "M60",
       "time": "00:42:36",
       "gender_position": 137,
-      "category_position": 6
+      "category_position": 6,
+      "cluster_tag": "face_cluster_229",
+      "portrait_filename": "4N4A2136.jpg",
+      "portrait_flickr_id": "55563143383",
+      "portrait_thumbnail": ""
     },
     {
       "position": 176,
@@ -2491,7 +2907,11 @@
       "category": "M60",
       "time": "00:42:40",
       "gender_position": 139,
-      "category_position": 7
+      "category_position": 7,
+      "cluster_tag": "face_cluster_210",
+      "portrait_filename": "4N4A2124.jpg",
+      "portrait_flickr_id": "55563040811",
+      "portrait_thumbnail": ""
     },
     {
       "position": 178,
@@ -2533,7 +2953,11 @@
       "category": "F45",
       "time": "00:42:46",
       "gender_position": 38,
-      "category_position": 7
+      "category_position": 7,
+      "cluster_tag": "face_cluster_230",
+      "portrait_filename": "4N4A2137.jpg",
+      "portrait_flickr_id": "55563442375",
+      "portrait_thumbnail": ""
     },
     {
       "position": 181,
@@ -2575,7 +2999,11 @@
       "category": "F60",
       "time": "00:42:55",
       "gender_position": 40,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_225",
+      "portrait_filename": "4N4A2134.jpg",
+      "portrait_flickr_id": "55562017777",
+      "portrait_thumbnail": ""
     },
     {
       "position": 184,
@@ -2589,7 +3017,11 @@
       "category": "Senior Female",
       "time": "00:43:01",
       "gender_position": 41,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_262",
+      "portrait_filename": "4N4A2159.jpg",
+      "portrait_flickr_id": "55562019092",
+      "portrait_thumbnail": ""
     },
     {
       "position": 185,
@@ -2617,7 +3049,11 @@
       "category": "M65",
       "time": "00:43:06",
       "gender_position": 141,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_265",
+      "portrait_filename": "4N4A2159.jpg",
+      "portrait_flickr_id": "55562019092",
+      "portrait_thumbnail": ""
     },
     {
       "position": 187,
@@ -2631,7 +3067,11 @@
       "category": "Senior Male",
       "time": "00:43:12",
       "gender_position": 142,
-      "category_position": 36
+      "category_position": 36,
+      "cluster_tag": "face_cluster_275",
+      "portrait_filename": "4N4A2167.jpg",
+      "portrait_flickr_id": "55562019447",
+      "portrait_thumbnail": ""
     },
     {
       "position": 188,
@@ -2645,7 +3085,11 @@
       "category": "F50",
       "time": "00:43:15",
       "gender_position": 43,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_240",
+      "portrait_filename": "4N4A2144.jpg",
+      "portrait_flickr_id": "55563041766",
+      "portrait_thumbnail": ""
     },
     {
       "position": 189,
@@ -2659,7 +3103,11 @@
       "category": "M45",
       "time": "00:43:17",
       "gender_position": 143,
-      "category_position": 27
+      "category_position": 27,
+      "cluster_tag": "face_cluster_251",
+      "portrait_filename": "4N4A2151.jpg",
+      "portrait_flickr_id": "55563200744",
+      "portrait_thumbnail": ""
     },
     {
       "position": 190,
@@ -2673,7 +3121,11 @@
       "category": "F50",
       "time": "00:43:21",
       "gender_position": 44,
-      "category_position": 6
+      "category_position": 6,
+      "cluster_tag": "face_cluster_261",
+      "portrait_filename": "4N4A2161.jpg",
+      "portrait_flickr_id": "55562019152",
+      "portrait_thumbnail": ""
     },
     {
       "position": 191,
@@ -2687,7 +3139,11 @@
       "category": "M60",
       "time": "00:43:23",
       "gender_position": 144,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_205",
+      "portrait_filename": "4N4A2123.jpg",
+      "portrait_flickr_id": "55563199424",
+      "portrait_thumbnail": ""
     },
     {
       "position": 192,
@@ -2729,7 +3185,11 @@
       "category": "M55",
       "time": "00:43:28",
       "gender_position": 145,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_245",
+      "portrait_filename": "4N4A2146.jpg",
+      "portrait_flickr_id": "55563200534",
+      "portrait_thumbnail": ""
     },
     {
       "position": 195,
@@ -2743,7 +3203,11 @@
       "category": "M70",
       "time": "00:43:34",
       "gender_position": 146,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_250",
+      "portrait_filename": "4N4A2150.jpg",
+      "portrait_flickr_id": "55563200689",
+      "portrait_thumbnail": ""
     },
     {
       "position": 196,
@@ -2757,7 +3221,11 @@
       "category": "F45",
       "time": "00:43:36",
       "gender_position": 47,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_296",
+      "portrait_filename": "4N4A2181.jpg",
+      "portrait_flickr_id": "55563043591",
+      "portrait_thumbnail": ""
     },
     {
       "position": 197,
@@ -2785,7 +3253,11 @@
       "category": "M50",
       "time": "00:43:39",
       "gender_position": 148,
-      "category_position": 20
+      "category_position": 20,
+      "cluster_tag": "face_cluster_274",
+      "portrait_filename": "4N4A2167.jpg",
+      "portrait_flickr_id": "55562019447",
+      "portrait_thumbnail": ""
     },
     {
       "position": 199,
@@ -2799,7 +3271,11 @@
       "category": "F40",
       "time": "00:43:50",
       "gender_position": 48,
-      "category_position": 7
+      "category_position": 7,
+      "cluster_tag": "face_cluster_271",
+      "portrait_filename": "4N4A2164.jpg",
+      "portrait_flickr_id": "55563042681",
+      "portrait_thumbnail": ""
     },
     {
       "position": 200,
@@ -2813,7 +3289,11 @@
       "category": "M70",
       "time": "00:43:54",
       "gender_position": 149,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_259",
+      "portrait_filename": "4N4A2157.jpg",
+      "portrait_flickr_id": "55563042381",
+      "portrait_thumbnail": ""
     },
     {
       "position": 201,
@@ -2855,7 +3335,11 @@
       "category": "M45",
       "time": "00:44:00",
       "gender_position": 152,
-      "category_position": 28
+      "category_position": 28,
+      "cluster_tag": "face_cluster_533",
+      "portrait_filename": "4N4A2342.jpg",
+      "portrait_flickr_id": "55563212614",
+      "portrait_thumbnail": ""
     },
     {
       "position": 204,
@@ -2869,7 +3353,11 @@
       "category": "F50",
       "time": "00:44:06",
       "gender_position": 49,
-      "category_position": 7
+      "category_position": 7,
+      "cluster_tag": "face_cluster_266",
+      "portrait_filename": "4N4A2162.jpg",
+      "portrait_flickr_id": "55563443560",
+      "portrait_thumbnail": ""
     },
     {
       "position": 205,
@@ -2883,7 +3371,11 @@
       "category": "M60",
       "time": "00:44:08",
       "gender_position": 153,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_254",
+      "portrait_filename": "4N4A2155.jpg",
+      "portrait_flickr_id": "55563443155",
+      "portrait_thumbnail": ""
     },
     {
       "position": 206,
@@ -2967,7 +3459,11 @@
       "category": "F40",
       "time": "00:44:22",
       "gender_position": 53,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_273",
+      "portrait_filename": "4N4A2166.jpg",
+      "portrait_flickr_id": "55562019357",
+      "portrait_thumbnail": ""
     },
     {
       "position": 212,
@@ -2995,7 +3491,11 @@
       "category": "M65",
       "time": "00:44:35",
       "gender_position": 156,
-      "category_position": 3
+      "category_position": 3,
+      "cluster_tag": "face_cluster_280",
+      "portrait_filename": "4N4A2171.jpg",
+      "portrait_flickr_id": "55562019677",
+      "portrait_thumbnail": ""
     },
     {
       "position": 214,
@@ -3009,7 +3509,11 @@
       "category": "M55",
       "time": "00:44:43",
       "gender_position": 157,
-      "category_position": 16
+      "category_position": 16,
+      "cluster_tag": "face_cluster_279",
+      "portrait_filename": "4N4A2169.jpg",
+      "portrait_flickr_id": "55563145188",
+      "portrait_thumbnail": ""
     },
     {
       "position": 215,
@@ -3037,7 +3541,11 @@
       "category": "M65",
       "time": "00:44:48",
       "gender_position": 159,
-      "category_position": 4
+      "category_position": 4,
+      "cluster_tag": "face_cluster_284",
+      "portrait_filename": "4N4A2173.jpg",
+      "portrait_flickr_id": "55563145438",
+      "portrait_thumbnail": ""
     },
     {
       "position": 217,
@@ -3065,7 +3573,11 @@
       "category": "M60",
       "time": "00:45:00",
       "gender_position": 160,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_288",
+      "portrait_filename": "4N4A2176.jpg",
+      "portrait_flickr_id": "55562019872",
+      "portrait_thumbnail": ""
     },
     {
       "position": 219,
@@ -3079,7 +3591,11 @@
       "category": "Senior Male",
       "time": "00:45:13",
       "gender_position": 161,
-      "category_position": 39
+      "category_position": 39,
+      "cluster_tag": "face_cluster_294",
+      "portrait_filename": "4N4A2179.jpg",
+      "portrait_flickr_id": "55563202189",
+      "portrait_thumbnail": ""
     },
     {
       "position": 220,
@@ -3093,7 +3609,11 @@
       "category": "F60",
       "time": "00:45:16",
       "gender_position": 56,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_248",
+      "portrait_filename": "4N4A2148.jpg",
+      "portrait_flickr_id": "55563041956",
+      "portrait_thumbnail": ""
     },
     {
       "position": 221,
@@ -3107,7 +3627,11 @@
       "category": "M45",
       "time": "00:45:18",
       "gender_position": 162,
-      "category_position": 29
+      "category_position": 29,
+      "cluster_tag": "face_cluster_392",
+      "portrait_filename": "4N4A2233.jpg",
+      "portrait_flickr_id": "55563205434",
+      "portrait_thumbnail": ""
     },
     {
       "position": 222,
@@ -3121,7 +3645,11 @@
       "category": "Senior Male",
       "time": "00:45:19",
       "gender_position": 163,
-      "category_position": 40
+      "category_position": 40,
+      "cluster_tag": "face_cluster_244",
+      "portrait_filename": "4N4A2147.jpg",
+      "portrait_flickr_id": "55563442775",
+      "portrait_thumbnail": ""
     },
     {
       "position": 223,
@@ -3135,7 +3663,11 @@
       "category": "M35",
       "time": "00:45:27",
       "gender_position": 164,
-      "category_position": 23
+      "category_position": 23,
+      "cluster_tag": "face_cluster_362",
+      "portrait_filename": "4N4A2218.jpg",
+      "portrait_flickr_id": "55563148123",
+      "portrait_thumbnail": ""
     },
     {
       "position": 224,
@@ -3163,7 +3695,11 @@
       "category": "M55",
       "time": "00:45:32",
       "gender_position": 165,
-      "category_position": 17
+      "category_position": 17,
+      "cluster_tag": "face_cluster_299",
+      "portrait_filename": "4N4A2182.jpg",
+      "portrait_flickr_id": "55562020172",
+      "portrait_thumbnail": ""
     },
     {
       "position": 226,
@@ -3177,7 +3713,11 @@
       "category": "M70",
       "time": "00:45:43",
       "gender_position": 166,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_303",
+      "portrait_filename": "4N4A2184.jpg",
+      "portrait_flickr_id": "55563145993",
+      "portrait_thumbnail": ""
     },
     {
       "position": 227,
@@ -3191,7 +3731,11 @@
       "category": "F55",
       "time": "00:45:46",
       "gender_position": 58,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_305",
+      "portrait_filename": "4N4A2186.jpg",
+      "portrait_flickr_id": "55563202539",
+      "portrait_thumbnail": ""
     },
     {
       "position": 228,
@@ -3233,7 +3777,11 @@
       "category": "M65",
       "time": "00:46:01",
       "gender_position": 168,
-      "category_position": 5
+      "category_position": 5,
+      "cluster_tag": "face_cluster_312",
+      "portrait_filename": "4N4A2192.jpg",
+      "portrait_flickr_id": "55563044146",
+      "portrait_thumbnail": ""
     },
     {
       "position": 231,
@@ -3247,7 +3795,11 @@
       "category": "Senior Female",
       "time": "00:46:02",
       "gender_position": 60,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_253",
+      "portrait_filename": "4N4A2154.jpg",
+      "portrait_flickr_id": "55563144333",
+      "portrait_thumbnail": ""
     },
     {
       "position": 232,
@@ -3303,7 +3855,11 @@
       "category": "M55",
       "time": "00:46:27",
       "gender_position": 171,
-      "category_position": 19
+      "category_position": 19,
+      "cluster_tag": "face_cluster_285",
+      "portrait_filename": "4N4A2173.jpg",
+      "portrait_flickr_id": "55563145438",
+      "portrait_thumbnail": ""
     },
     {
       "position": 236,
@@ -3359,7 +3915,11 @@
       "category": "M45",
       "time": "00:46:48",
       "gender_position": 174,
-      "category_position": 31
+      "category_position": 31,
+      "cluster_tag": "face_cluster_307",
+      "portrait_filename": "4N4A2187.jpg",
+      "portrait_flickr_id": "55563146133",
+      "portrait_thumbnail": ""
     },
     {
       "position": 240,
@@ -3387,7 +3947,11 @@
       "category": "M40",
       "time": "00:46:51",
       "gender_position": 176,
-      "category_position": 18
+      "category_position": 18,
+      "cluster_tag": "face_cluster_355",
+      "portrait_filename": "4N4A2216.jpg",
+      "portrait_flickr_id": "55563446760",
+      "portrait_thumbnail": ""
     },
     {
       "position": 242,
@@ -3401,7 +3965,11 @@
       "category": "Senior Female",
       "time": "00:47:01",
       "gender_position": 63,
-      "category_position": 16
+      "category_position": 16,
+      "cluster_tag": "face_cluster_340",
+      "portrait_filename": "4N4A2210.jpg",
+      "portrait_flickr_id": "55563147638",
+      "portrait_thumbnail": ""
     },
     {
       "position": 243,
@@ -3443,7 +4011,11 @@
       "category": "F60",
       "time": "00:47:20",
       "gender_position": 64,
-      "category_position": 6
+      "category_position": 6,
+      "cluster_tag": "face_cluster_310",
+      "portrait_filename": "4N4A2190.jpg",
+      "portrait_flickr_id": "55562020622",
+      "portrait_thumbnail": ""
     },
     {
       "position": 246,
@@ -3471,7 +4043,11 @@
       "category": "M35",
       "time": "00:47:31",
       "gender_position": 179,
-      "category_position": 26
+      "category_position": 26,
+      "cluster_tag": "face_cluster_272",
+      "portrait_filename": "4N4A2165.jpg",
+      "portrait_flickr_id": "55563042731",
+      "portrait_thumbnail": ""
     },
     {
       "position": 248,
@@ -3485,7 +4061,11 @@
       "category": "M55",
       "time": "00:47:34",
       "gender_position": 180,
-      "category_position": 21
+      "category_position": 21,
+      "cluster_tag": "face_cluster_332",
+      "portrait_filename": "4N4A2204.jpg",
+      "portrait_flickr_id": "55563045021",
+      "portrait_thumbnail": ""
     },
     {
       "position": 249,
@@ -3499,7 +4079,11 @@
       "category": "M55",
       "time": "00:47:41",
       "gender_position": 181,
-      "category_position": 22
+      "category_position": 22,
+      "cluster_tag": "face_cluster_320",
+      "portrait_filename": "4N4A2200.jpg",
+      "portrait_flickr_id": "55563445730",
+      "portrait_thumbnail": ""
     },
     {
       "position": 250,
@@ -3527,7 +4111,11 @@
       "category": "M55",
       "time": "00:47:45",
       "gender_position": 182,
-      "category_position": 23
+      "category_position": 23,
+      "cluster_tag": "face_cluster_318",
+      "portrait_filename": "4N4A2199.jpg",
+      "portrait_flickr_id": "55563445655",
+      "portrait_thumbnail": ""
     },
     {
       "position": 252,
@@ -3541,7 +4129,11 @@
       "category": "F50",
       "time": "00:47:47",
       "gender_position": 67,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_321",
+      "portrait_filename": "4N4A2197.jpg",
+      "portrait_flickr_id": "55563203199",
+      "portrait_thumbnail": ""
     },
     {
       "position": 253,
@@ -3555,7 +4147,11 @@
       "category": "F50",
       "time": "00:47:52",
       "gender_position": 68,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_361",
+      "portrait_filename": "4N4A2220.jpg",
+      "portrait_flickr_id": "55563046071",
+      "portrait_thumbnail": ""
     },
     {
       "position": 254,
@@ -3583,7 +4179,11 @@
       "category": "Senior Female",
       "time": "00:47:57",
       "gender_position": 69,
-      "category_position": 17
+      "category_position": 17,
+      "cluster_tag": "face_cluster_319",
+      "portrait_filename": "4N4A2196.jpg",
+      "portrait_flickr_id": "55563044391",
+      "portrait_thumbnail": ""
     },
     {
       "position": 256,
@@ -3597,7 +4197,11 @@
       "category": "F50",
       "time": "00:47:58",
       "gender_position": 70,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_336",
+      "portrait_filename": "4N4A2209.jpg",
+      "portrait_flickr_id": "55563045331",
+      "portrait_thumbnail": ""
     },
     {
       "position": 257,
@@ -3611,7 +4215,11 @@
       "category": "Senior Male",
       "time": "00:47:59",
       "gender_position": 184,
-      "category_position": 41
+      "category_position": 41,
+      "cluster_tag": "face_cluster_317",
+      "portrait_filename": "4N4A2196.jpg",
+      "portrait_flickr_id": "55563044391",
+      "portrait_thumbnail": ""
     },
     {
       "position": 258,
@@ -3625,7 +4233,11 @@
       "category": "F50",
       "time": "00:48:02",
       "gender_position": 71,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_352",
+      "portrait_filename": "4N4A2214.jpg",
+      "portrait_flickr_id": "55563147828",
+      "portrait_thumbnail": ""
     },
     {
       "position": 259,
@@ -3639,7 +4251,11 @@
       "category": "F45",
       "time": "00:48:06",
       "gender_position": 72,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_368",
+      "portrait_filename": "4N4A2221.jpg",
+      "portrait_flickr_id": "55562022657",
+      "portrait_thumbnail": ""
     },
     {
       "position": 260,
@@ -3681,7 +4297,11 @@
       "category": "F65",
       "time": "00:48:20",
       "gender_position": 74,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_342",
+      "portrait_filename": "4N4A2211.jpg",
+      "portrait_flickr_id": "55563204244",
+      "portrait_thumbnail": ""
     },
     {
       "position": 263,
@@ -3709,7 +4329,11 @@
       "category": "Senior Female",
       "time": "00:48:32",
       "gender_position": 75,
-      "category_position": 18
+      "category_position": 18,
+      "cluster_tag": "face_cluster_314",
+      "portrait_filename": "4N4A2193.jpg",
+      "portrait_flickr_id": "55563202984",
+      "portrait_thumbnail": ""
     },
     {
       "position": 265,
@@ -3723,7 +4347,8 @@
       "category": "M50",
       "time": "00:48:37",
       "gender_position": 187,
-      "category_position": 22
+      "category_position": 22,
+      "thumbnail_assignment_status": "ambiguous_duplicate_bib"
     },
     {
       "position": 266,
@@ -3737,7 +4362,11 @@
       "category": "M40",
       "time": "00:48:39",
       "gender_position": 188,
-      "category_position": 19
+      "category_position": 19,
+      "cluster_tag": "face_cluster_326",
+      "portrait_filename": "4N4A2202.jpg",
+      "portrait_flickr_id": "55563147143",
+      "portrait_thumbnail": ""
     },
     {
       "position": 267,
@@ -3765,7 +4394,8 @@
       "category": "Senior Female",
       "time": "00:48:51",
       "gender_position": 77,
-      "category_position": 20
+      "category_position": 20,
+      "thumbnail_assignment_status": "ambiguous_duplicate_bib"
     },
     {
       "position": 269,
@@ -3807,7 +4437,11 @@
       "category": "F50",
       "time": "00:49:10",
       "gender_position": 80,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_385",
+      "portrait_filename": "4N4A2229.jpg",
+      "portrait_flickr_id": "55563447605",
+      "portrait_thumbnail": ""
     },
     {
       "position": 272,
@@ -3835,7 +4469,11 @@
       "category": "F55",
       "time": "00:49:21",
       "gender_position": 81,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_403",
+      "portrait_filename": "4N4A2242.jpg",
+      "portrait_flickr_id": "55563149448",
+      "portrait_thumbnail": ""
     },
     {
       "position": 274,
@@ -3849,7 +4487,8 @@
       "category": "Senior Female",
       "time": "00:49:22",
       "gender_position": 503,
-      "category_position": 503
+      "category_position": 503,
+      "thumbnail_assignment_status": "ambiguous_duplicate_bib"
     },
     {
       "position": 275,
@@ -3863,7 +4502,11 @@
       "category": "M50",
       "time": "00:49:25",
       "gender_position": 190,
-      "category_position": 23
+      "category_position": 23,
+      "cluster_tag": "face_cluster_379",
+      "portrait_filename": "4N4A2225.jpg",
+      "portrait_flickr_id": "55562022877",
+      "portrait_thumbnail": ""
     },
     {
       "position": 276,
@@ -3891,7 +4534,11 @@
       "category": "M55",
       "time": "00:49:34",
       "gender_position": 192,
-      "category_position": 24
+      "category_position": 24,
+      "cluster_tag": "face_cluster_344",
+      "portrait_filename": "4N4A2212.jpg",
+      "portrait_flickr_id": "55562022067",
+      "portrait_thumbnail": ""
     },
     {
       "position": 278,
@@ -3919,7 +4566,11 @@
       "category": "Senior Male",
       "time": "00:49:37",
       "gender_position": 193,
-      "category_position": 42
+      "category_position": 42,
+      "cluster_tag": "face_cluster_401",
+      "portrait_filename": "4N4A2241.jpg",
+      "portrait_flickr_id": "55562023732",
+      "portrait_thumbnail": ""
     },
     {
       "position": 280,
@@ -3933,7 +4584,11 @@
       "category": "M45",
       "time": "00:49:42",
       "gender_position": 194,
-      "category_position": 32
+      "category_position": 32,
+      "cluster_tag": "face_cluster_387",
+      "portrait_filename": "4N4A2231.jpg",
+      "portrait_flickr_id": "55563205339",
+      "portrait_thumbnail": ""
     },
     {
       "position": 281,
@@ -3947,7 +4602,11 @@
       "category": "F40",
       "time": "00:49:54",
       "gender_position": 83,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_360",
+      "portrait_filename": "4N4A2218.jpg",
+      "portrait_flickr_id": "55563148123",
+      "portrait_thumbnail": ""
     },
     {
       "position": 282,
@@ -3961,7 +4620,11 @@
       "category": "F45",
       "time": "00:49:54",
       "gender_position": 84,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_349",
+      "portrait_filename": "4N4A2214.jpg",
+      "portrait_flickr_id": "55563147828",
+      "portrait_thumbnail": ""
     },
     {
       "position": 283,
@@ -3975,7 +4638,11 @@
       "category": "M60",
       "time": "00:49:55",
       "gender_position": 195,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_335",
+      "portrait_filename": "4N4A2207.jpg",
+      "portrait_flickr_id": "55563045231",
+      "portrait_thumbnail": ""
     },
     {
       "position": 284,
@@ -3989,7 +4656,11 @@
       "category": "F40",
       "time": "00:50:00",
       "gender_position": 85,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_429",
+      "portrait_filename": "4N4A2263.jpg",
+      "portrait_flickr_id": "55563207629",
+      "portrait_thumbnail": ""
     },
     {
       "position": 285,
@@ -4003,7 +4674,11 @@
       "category": "Senior Male",
       "time": "00:50:06",
       "gender_position": 196,
-      "category_position": 43
+      "category_position": 43,
+      "cluster_tag": "face_cluster_327",
+      "portrait_filename": "4N4A2203.jpg",
+      "portrait_flickr_id": "55563147233",
+      "portrait_thumbnail": ""
     },
     {
       "position": 286,
@@ -4017,7 +4692,11 @@
       "category": "Senior Female",
       "time": "00:50:11",
       "gender_position": 86,
-      "category_position": 22
+      "category_position": 22,
+      "cluster_tag": "face_cluster_405",
+      "portrait_filename": "4N4A2244.jpg",
+      "portrait_flickr_id": "55563206204",
+      "portrait_thumbnail": ""
     },
     {
       "position": 287,
@@ -4031,7 +4710,11 @@
       "category": "Senior Male",
       "time": "00:50:24",
       "gender_position": 197,
-      "category_position": 44
+      "category_position": 44,
+      "cluster_tag": "face_cluster_304",
+      "portrait_filename": "4N4A2185.jpg",
+      "portrait_flickr_id": "55563444795",
+      "portrait_thumbnail": ""
     },
     {
       "position": 288,
@@ -4087,7 +4770,11 @@
       "category": "F55",
       "time": "00:50:50",
       "gender_position": 88,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_378",
+      "portrait_filename": "4N4A2224.jpg",
+      "portrait_flickr_id": "55563046311",
+      "portrait_thumbnail": ""
     },
     {
       "position": 292,
@@ -4101,7 +4788,11 @@
       "category": "F35",
       "time": "00:50:55",
       "gender_position": 89,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_386",
+      "portrait_filename": "4N4A2232.jpg",
+      "portrait_flickr_id": "55563046736",
+      "portrait_thumbnail": ""
     },
     {
       "position": 293,
@@ -4115,7 +4806,11 @@
       "category": "M65",
       "time": "00:50:58",
       "gender_position": 200,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_376",
+      "portrait_filename": "4N4A2223.jpg",
+      "portrait_flickr_id": "55563148363",
+      "portrait_thumbnail": ""
     },
     {
       "position": 294,
@@ -4143,7 +4838,11 @@
       "category": "F60",
       "time": "00:51:06",
       "gender_position": 90,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_438",
+      "portrait_filename": "4N4A2270.jpg",
+      "portrait_flickr_id": "55563049326",
+      "portrait_thumbnail": ""
     },
     {
       "position": 296,
@@ -4157,7 +4856,11 @@
       "category": "Senior Female",
       "time": "00:51:06",
       "gender_position": 91,
-      "category_position": 24
+      "category_position": 24,
+      "cluster_tag": "face_cluster_437",
+      "portrait_filename": "4N4A2269.jpg",
+      "portrait_flickr_id": "55563049281",
+      "portrait_thumbnail": ""
     },
     {
       "position": 297,
@@ -4185,7 +4888,11 @@
       "category": "M70",
       "time": "00:51:11",
       "gender_position": 203,
-      "category_position": 8
+      "category_position": 8,
+      "cluster_tag": "face_cluster_345",
+      "portrait_filename": "4N4A2213.jpg",
+      "portrait_flickr_id": "55563446545",
+      "portrait_thumbnail": ""
     },
     {
       "position": 299,
@@ -4199,7 +4906,11 @@
       "category": "F50",
       "time": "00:51:16",
       "gender_position": 92,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_398",
+      "portrait_filename": "4N4A2238.jpg",
+      "portrait_flickr_id": "55562023587",
+      "portrait_thumbnail": ""
     },
     {
       "position": 300,
@@ -4213,7 +4924,11 @@
       "category": "F55",
       "time": "00:51:30",
       "gender_position": 93,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_428",
+      "portrait_filename": "4N4A2262.jpg",
+      "portrait_flickr_id": "55563207539",
+      "portrait_thumbnail": ""
     },
     {
       "position": 301,
@@ -4269,7 +4984,11 @@
       "category": "M60",
       "time": "00:51:46",
       "gender_position": 205,
-      "category_position": 18
+      "category_position": 18,
+      "cluster_tag": "face_cluster_407",
+      "portrait_filename": "4N4A2246.jpg",
+      "portrait_flickr_id": "55563047496",
+      "portrait_thumbnail": ""
     },
     {
       "position": 305,
@@ -4311,7 +5030,11 @@
       "category": "F55",
       "time": "00:52:04",
       "gender_position": 97,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_412",
+      "portrait_filename": "4N4A2252.jpg",
+      "portrait_flickr_id": "55563150203",
+      "portrait_thumbnail": ""
     },
     {
       "position": 308,
@@ -4325,7 +5048,11 @@
       "category": "F60",
       "time": "00:52:21",
       "gender_position": 98,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_439",
+      "portrait_filename": "4N4A2273.jpg",
+      "portrait_flickr_id": "55563049591",
+      "portrait_thumbnail": ""
     },
     {
       "position": 309,
@@ -4353,7 +5080,11 @@
       "category": "F35",
       "time": "00:52:44",
       "gender_position": 99,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_443",
+      "portrait_filename": "4N4A2266.jpg",
+      "portrait_flickr_id": "55563151378",
+      "portrait_thumbnail": ""
     },
     {
       "position": 311,
@@ -4367,7 +5098,11 @@
       "category": "F45",
       "time": "00:52:49",
       "gender_position": 100,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_463",
+      "portrait_filename": "4N4A2278.jpg",
+      "portrait_flickr_id": "55563451500",
+      "portrait_thumbnail": ""
     },
     {
       "position": 312,
@@ -4381,7 +5116,11 @@
       "category": "M60",
       "time": "00:53:02",
       "gender_position": 208,
-      "category_position": 20
+      "category_position": 20,
+      "cluster_tag": "face_cluster_431",
+      "portrait_filename": "4N4A2264.jpg",
+      "portrait_flickr_id": "55563048871",
+      "portrait_thumbnail": ""
     },
     {
       "position": 313,
@@ -4409,7 +5148,11 @@
       "category": "F40",
       "time": "00:53:25",
       "gender_position": 102,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_357",
+      "portrait_filename": "4N4A2218.jpg",
+      "portrait_flickr_id": "55563148123",
+      "portrait_thumbnail": ""
     },
     {
       "position": 315,
@@ -4437,7 +5180,11 @@
       "category": "M55",
       "time": "00:53:32",
       "gender_position": 210,
-      "category_position": 26
+      "category_position": 26,
+      "cluster_tag": "face_cluster_447",
+      "portrait_filename": "4N4A2271.jpg",
+      "portrait_flickr_id": "55563450820",
+      "portrait_thumbnail": ""
     },
     {
       "position": 317,
@@ -4451,7 +5198,11 @@
       "category": "F45",
       "time": "00:53:39",
       "gender_position": 103,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_451",
+      "portrait_filename": "4N4A2273.jpg",
+      "portrait_flickr_id": "55563049591",
+      "portrait_thumbnail": ""
     },
     {
       "position": 318,
@@ -4465,7 +5216,11 @@
       "category": "M55",
       "time": "00:53:40",
       "gender_position": 211,
-      "category_position": 27
+      "category_position": 27,
+      "cluster_tag": "face_cluster_424",
+      "portrait_filename": "4N4A2258.jpg",
+      "portrait_flickr_id": "55562024847",
+      "portrait_thumbnail": ""
     },
     {
       "position": 319,
@@ -4479,7 +5234,11 @@
       "category": "F50",
       "time": "00:53:44",
       "gender_position": 104,
-      "category_position": 17
+      "category_position": 17,
+      "cluster_tag": "face_cluster_418",
+      "portrait_filename": "4N4A2256.jpg",
+      "portrait_flickr_id": "55563449520",
+      "portrait_thumbnail": ""
     },
     {
       "position": 320,
@@ -4507,7 +5266,11 @@
       "category": "F40",
       "time": "00:53:55",
       "gender_position": 106,
-      "category_position": 16
+      "category_position": 16,
+      "cluster_tag": "face_cluster_466",
+      "portrait_filename": "4N4A2281.jpg",
+      "portrait_flickr_id": "55563209159",
+      "portrait_thumbnail": ""
     },
     {
       "position": 322,
@@ -4521,7 +5284,11 @@
       "category": "F45",
       "time": "00:53:58",
       "gender_position": 107,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_402",
+      "portrait_filename": "4N4A2243.jpg",
+      "portrait_flickr_id": "55563206149",
+      "portrait_thumbnail": ""
     },
     {
       "position": 323,
@@ -4549,7 +5316,11 @@
       "category": "Senior Female",
       "time": "00:54:01",
       "gender_position": 109,
-      "category_position": 27
+      "category_position": 27,
+      "cluster_tag": "face_cluster_452",
+      "portrait_filename": "4N4A2275.jpg",
+      "portrait_flickr_id": "55562026332",
+      "portrait_thumbnail": ""
     },
     {
       "position": 325,
@@ -4563,7 +5334,11 @@
       "category": "F40",
       "time": "00:54:14",
       "gender_position": 110,
-      "category_position": 17
+      "category_position": 17,
+      "cluster_tag": "face_cluster_442",
+      "portrait_filename": "4N4A2267.jpg",
+      "portrait_flickr_id": "55563208024",
+      "portrait_thumbnail": ""
     },
     {
       "position": 326,
@@ -4577,7 +5352,11 @@
       "category": "F45",
       "time": "00:54:15",
       "gender_position": 111,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_473",
+      "portrait_filename": "4N4A2282.jpg",
+      "portrait_flickr_id": "55563152648",
+      "portrait_thumbnail": ""
     },
     {
       "position": 327,
@@ -4591,7 +5370,11 @@
       "category": "F45",
       "time": "00:54:15",
       "gender_position": 112,
-      "category_position": 16
+      "category_position": 16,
+      "cluster_tag": "face_cluster_468",
+      "portrait_filename": "4N4A2283.jpg",
+      "portrait_flickr_id": "55563209319",
+      "portrait_thumbnail": ""
     },
     {
       "position": 328,
@@ -4605,7 +5388,11 @@
       "category": "F60",
       "time": "00:54:17",
       "gender_position": 113,
-      "category_position": 10
+      "category_position": 10,
+      "cluster_tag": "face_cluster_458",
+      "portrait_filename": "4N4A2277.jpg",
+      "portrait_flickr_id": "55563152268",
+      "portrait_thumbnail": ""
     },
     {
       "position": 329,
@@ -4633,7 +5420,11 @@
       "category": "F40",
       "time": "00:54:44",
       "gender_position": 114,
-      "category_position": 18
+      "category_position": 18,
+      "cluster_tag": "face_cluster_426",
+      "portrait_filename": "4N4A2260.jpg",
+      "portrait_flickr_id": "55562025032",
+      "portrait_thumbnail": ""
     },
     {
       "position": 331,
@@ -4675,7 +5466,11 @@
       "category": "Senior Female",
       "time": "00:54:56",
       "gender_position": 116,
-      "category_position": 28
+      "category_position": 28,
+      "cluster_tag": "face_cluster_435",
+      "portrait_filename": "4N4A2265.jpg",
+      "portrait_flickr_id": "55562025537",
+      "portrait_thumbnail": ""
     },
     {
       "position": 334,
@@ -4689,7 +5484,11 @@
       "category": "M65",
       "time": "00:54:58",
       "gender_position": 213,
-      "category_position": 9
+      "category_position": 9,
+      "cluster_tag": "face_cluster_427",
+      "portrait_filename": "4N4A2259.jpg",
+      "portrait_flickr_id": "55563207344",
+      "portrait_thumbnail": ""
     },
     {
       "position": 335,
@@ -4703,7 +5502,11 @@
       "category": "F45",
       "time": "00:54:59",
       "gender_position": 117,
-      "category_position": 18
+      "category_position": 18,
+      "cluster_tag": "face_cluster_479",
+      "portrait_filename": "4N4A2288.jpg",
+      "portrait_flickr_id": "55562027162",
+      "portrait_thumbnail": ""
     },
     {
       "position": 336,
@@ -4717,7 +5520,11 @@
       "category": "M60",
       "time": "00:55:00",
       "gender_position": 214,
-      "category_position": 21
+      "category_position": 21,
+      "cluster_tag": "face_cluster_482",
+      "portrait_filename": "4N4A2289.jpg",
+      "portrait_flickr_id": "55563452195",
+      "portrait_thumbnail": ""
     },
     {
       "position": 337,
@@ -4731,7 +5538,11 @@
       "category": "F65",
       "time": "00:55:03",
       "gender_position": 118,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_470",
+      "portrait_filename": "4N4A2280.jpg",
+      "portrait_flickr_id": "55563152518",
+      "portrait_thumbnail": ""
     },
     {
       "position": 338,
@@ -4759,7 +5570,11 @@
       "category": "M65",
       "time": "00:55:07",
       "gender_position": 216,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_436",
+      "portrait_filename": "4N4A2265.jpg",
+      "portrait_flickr_id": "55562025537",
+      "portrait_thumbnail": ""
     },
     {
       "position": 340,
@@ -4773,7 +5588,11 @@
       "category": "F60",
       "time": "00:55:11",
       "gender_position": 119,
-      "category_position": 11
+      "category_position": 11,
+      "cluster_tag": "face_cluster_488",
+      "portrait_filename": "4N4A2294.jpg",
+      "portrait_flickr_id": "55563210114",
+      "portrait_thumbnail": ""
     },
     {
       "position": 341,
@@ -4801,7 +5620,11 @@
       "category": "F35",
       "time": "00:55:26",
       "gender_position": 121,
-      "category_position": 12
+      "category_position": 12,
+      "cluster_tag": "face_cluster_416",
+      "portrait_filename": "4N4A2255.jpg",
+      "portrait_flickr_id": "55563449440",
+      "portrait_thumbnail": ""
     },
     {
       "position": 343,
@@ -4829,7 +5652,11 @@
       "category": "F45",
       "time": "00:55:41",
       "gender_position": 122,
-      "category_position": 19
+      "category_position": 19,
+      "cluster_tag": "face_cluster_484",
+      "portrait_filename": "4N4A2290.jpg",
+      "portrait_flickr_id": "55563452275",
+      "portrait_thumbnail": ""
     },
     {
       "position": 345,
@@ -4843,7 +5670,11 @@
       "category": "M35",
       "time": "00:56:01",
       "gender_position": 218,
-      "category_position": 29
+      "category_position": 29,
+      "cluster_tag": "face_cluster_481",
+      "portrait_filename": "4N4A2292.jpg",
+      "portrait_flickr_id": "55563452445",
+      "portrait_thumbnail": ""
     },
     {
       "position": 346,
@@ -4857,7 +5688,11 @@
       "category": "Senior Female",
       "time": "00:56:03",
       "gender_position": 123,
-      "category_position": 29
+      "category_position": 29,
+      "cluster_tag": "face_cluster_494",
+      "portrait_filename": "4N4A2298.jpg",
+      "portrait_flickr_id": "55563452910",
+      "portrait_thumbnail": ""
     },
     {
       "position": 347,
@@ -4871,7 +5706,11 @@
       "category": "F55",
       "time": "00:56:12",
       "gender_position": 124,
-      "category_position": 15
+      "category_position": 15,
+      "cluster_tag": "face_cluster_493",
+      "portrait_filename": "4N4A2297.jpg",
+      "portrait_flickr_id": "55563051446",
+      "portrait_thumbnail": ""
     },
     {
       "position": 348,
@@ -4899,7 +5738,8 @@
       "category": "F50",
       "time": "00:56:18",
       "gender_position": 126,
-      "category_position": 18
+      "category_position": 18,
+      "thumbnail_assignment_status": "ambiguous_duplicate_bib"
     },
     {
       "position": 350,
@@ -4927,7 +5767,11 @@
       "category": "F50",
       "time": "00:56:42",
       "gender_position": 128,
-      "category_position": 19
+      "category_position": 19,
+      "cluster_tag": "face_cluster_489",
+      "portrait_filename": "4N4A2295.jpg",
+      "portrait_flickr_id": "55562027682",
+      "portrait_thumbnail": ""
     },
     {
       "position": 352,
@@ -4969,7 +5813,11 @@
       "category": "F70",
       "time": "00:58:04",
       "gender_position": 131,
-      "category_position": 1
+      "category_position": 1,
+      "cluster_tag": "face_cluster_496",
+      "portrait_filename": "4N4A2300.jpg",
+      "portrait_flickr_id": "55563210674",
+      "portrait_thumbnail": ""
     },
     {
       "position": 355,
@@ -4983,7 +5831,11 @@
       "category": "F55",
       "time": "00:58:19",
       "gender_position": 132,
-      "category_position": 17
+      "category_position": 17,
+      "cluster_tag": "face_cluster_472",
+      "portrait_filename": "4N4A2279.jpg",
+      "portrait_flickr_id": "55563451590",
+      "portrait_thumbnail": ""
     },
     {
       "position": 356,
@@ -4997,7 +5849,11 @@
       "category": "F35",
       "time": "00:58:19",
       "gender_position": 133,
-      "category_position": 14
+      "category_position": 14,
+      "cluster_tag": "face_cluster_476",
+      "portrait_filename": "4N4A2285.jpg",
+      "portrait_flickr_id": "55563209414",
+      "portrait_thumbnail": ""
     },
     {
       "position": 357,
@@ -5011,7 +5867,11 @@
       "category": "F55",
       "time": "00:58:59",
       "gender_position": 134,
-      "category_position": 18
+      "category_position": 18,
+      "cluster_tag": "face_cluster_501",
+      "portrait_filename": "4N4A2303.jpg",
+      "portrait_flickr_id": "55563453150",
+      "portrait_thumbnail": ""
     },
     {
       "position": 358,
@@ -5025,7 +5885,11 @@
       "category": "Senior Male",
       "time": "00:59:11",
       "gender_position": 219,
-      "category_position": 46
+      "category_position": 46,
+      "cluster_tag": "face_cluster_425",
+      "portrait_filename": "4N4A2260.jpg",
+      "portrait_flickr_id": "55562025032",
+      "portrait_thumbnail": ""
     },
     {
       "position": 359,
@@ -5039,7 +5903,11 @@
       "category": "Senior Female",
       "time": "00:59:20",
       "gender_position": 135,
-      "category_position": 30
+      "category_position": 30,
+      "cluster_tag": "face_cluster_477",
+      "portrait_filename": "4N4A2286.jpg",
+      "portrait_flickr_id": "55563050496",
+      "portrait_thumbnail": ""
     },
     {
       "position": 360,
@@ -5053,7 +5921,11 @@
       "category": "F70",
       "time": "00:59:35",
       "gender_position": 136,
-      "category_position": 2
+      "category_position": 2,
+      "cluster_tag": "face_cluster_499",
+      "portrait_filename": "4N4A2301.jpg",
+      "portrait_flickr_id": "55563051656",
+      "portrait_thumbnail": ""
     },
     {
       "position": 361,
@@ -5081,7 +5953,11 @@
       "category": "F40",
       "time": "01:00:06",
       "gender_position": 138,
-      "category_position": 20
+      "category_position": 20,
+      "cluster_tag": "face_cluster_480",
+      "portrait_filename": "4N4A2291.jpg",
+      "portrait_flickr_id": "55563153273",
+      "portrait_thumbnail": ""
     },
     {
       "position": 363,
@@ -5123,7 +5999,11 @@
       "category": "F50",
       "time": "01:01:16",
       "gender_position": 140,
-      "category_position": 20
+      "category_position": 20,
+      "cluster_tag": "face_cluster_502",
+      "portrait_filename": "4N4A2304.jpg",
+      "portrait_flickr_id": "55563154163",
+      "portrait_thumbnail": ""
     },
     {
       "position": 366,
@@ -5263,9 +6143,17 @@
       "category": "F60",
       "time": "01:15:44",
       "gender_position": 147,
-      "category_position": 13
+      "category_position": 13,
+      "cluster_tag": "face_cluster_515",
+      "portrait_filename": "4N4A2327.jpg",
+      "portrait_flickr_id": "55562029652",
+      "portrait_thumbnail": ""
     }
   ],
+  "race_timeline": {
+    "race_start": "19:30:00",
+    "race_finish": "20:10:00"
+  },
   "series": {
     "series_id": "GLCL-2025-26",
     "series_name": "GLCL",
