@@ -5,7 +5,7 @@
   "team_name": "New Panteg RFC",
   "opposition_name": "Machen RFC",
   "confirmed": true,
-  "man_of_the_match_player_id": "",
+  "man_of_the_match_player_id": "player_4fa3cffd4a9e",
   "players": [
     {
       "player_id": "player_37a061d097e6",
@@ -44,7 +44,7 @@
       "photo_count": 0,
       "link_status": "unlinked",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
@@ -220,9 +220,9 @@
       "photo_count": 0,
       "link_status": "unlinked",
       "scoring": {
-        "try": 0,
-        "conversion": 0,
-        "penalty_kick": 0,
+        "try": 1,
+        "conversion": 3,
+        "penalty_kick": 2,
         "drop_goal": 0,
         "penalty_try": 0
       }
@@ -242,7 +242,7 @@
       "photo_count": 0,
       "link_status": "unlinked",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
@@ -264,7 +264,7 @@
       "photo_count": 0,
       "link_status": "unlinked",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
