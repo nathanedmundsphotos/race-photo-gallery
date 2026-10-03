@@ -1,0 +1,788 @@
+{
+  "schema_version": 8,
+  "sport": "rugby",
+  "event_tag": "new_panteg_machen_031026",
+  "team_name": "New Panteg RFC",
+  "opposition_name": "Machen RFC",
+  "confirmed": true,
+  "man_of_the_match_player_id": "",
+  "players": [
+    {
+      "player_id": "player_37a061d097e6",
+      "number": 1,
+      "name": "Will Jones",
+      "position": "Loosehead Prop",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_d1140f4aedb6",
+      "number": 2,
+      "name": "Owen Tudgay",
+      "position": "Hooker",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_32ef444bc052",
+      "number": 3,
+      "name": "Russell Beale",
+      "position": "Tighthead Prop",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_9ca66745a0d8",
+      "number": 4,
+      "name": "Ben Sullivan",
+      "position": "Lock",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_69adb4057323",
+      "number": 5,
+      "name": "Mikey Glynn",
+      "position": "Lock",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_0b0e0124ec30",
+      "number": 6,
+      "name": "Spencer Williams",
+      "position": "Blindside Flanker",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_0e9bd22cdf62",
+      "number": 7,
+      "name": "Llewi Maclean",
+      "position": "Openside Flanker",
+      "role": "starter",
+      "leadership_role": "Captain",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_4fa3cffd4a9e",
+      "number": 8,
+      "name": "Harry Chesse",
+      "position": "Number Eight",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_1b015ab166ee",
+      "number": 9,
+      "name": "Ethan Edmunds",
+      "position": "Scrum-half",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_e988c83d3608",
+      "number": 10,
+      "name": "Alex Gwatkin",
+      "position": "Fly-half",
+      "role": "starter",
+      "leadership_role": "Vice Captain",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_10424c6bf130",
+      "number": 11,
+      "name": "Logan Edmunds",
+      "position": "Left Wing",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_509b88bd6554",
+      "number": 12,
+      "name": "Nathan Baldwin",
+      "position": "Inside Centre",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_b1f90acb35df",
+      "number": 13,
+      "name": "Elliot Jones",
+      "position": "Outside Centre",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_2323f69ca585",
+      "number": 14,
+      "name": "Ben Gomez",
+      "position": "Right Wing",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_9c048711cd35",
+      "number": 15,
+      "name": "Lewis Bury",
+      "position": "Full-back",
+      "role": "starter",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_dd688efab7dd",
+      "number": 16,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_cd7ed7fadb41",
+      "number": 17,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_1cb0d473d00b",
+      "number": 18,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_a2a8f1362448",
+      "number": 19,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_06b2ac4361d0",
+      "number": 20,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_fa2accab01e1",
+      "number": 21,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_10a1a8ad3db6",
+      "number": 22,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    },
+    {
+      "player_id": "player_81ee97aad9f2",
+      "number": 23,
+      "name": "",
+      "position": "Replacement",
+      "role": "replacement",
+      "leadership_role": "",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked",
+      "scoring": {
+        "try": 0,
+        "conversion": 0,
+        "penalty_kick": 0,
+        "drop_goal": 0,
+        "penalty_try": 0
+      }
+    }
+  ],
+  "staff": [
+    {
+      "staff_id": "staff_c0ca23759b43",
+      "staff_type": "coach",
+      "order": 1,
+      "name": "Tom Lampard",
+      "position": "Forwards Coach",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "staff_id": "staff_3be228a9177f",
+      "staff_type": "coach",
+      "order": 2,
+      "name": "Robert Tovey",
+      "position": "Backs Coach",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "staff_id": "staff_3bdf9a901e97",
+      "staff_type": "coach",
+      "order": 3,
+      "name": "Luke Bigham",
+      "position": "Skills & Defence Coach",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "staff_id": "staff_4145c693de58",
+      "staff_type": "coach",
+      "order": 4,
+      "name": "",
+      "position": "Coach",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "staff_id": "staff_8219279b4e86",
+      "staff_type": "coach",
+      "order": 5,
+      "name": "",
+      "position": "Coach",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "staff_id": "staff_3bf0c5ed71f0",
+      "staff_type": "physio",
+      "order": 1,
+      "name": "Hannah Roberts",
+      "position": "Physio",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    },
+    {
+      "staff_id": "staff_b2716ea76919",
+      "staff_type": "physio",
+      "order": 2,
+      "name": "",
+      "position": "Physio",
+      "cluster_tag": "",
+      "portrait_filename": "",
+      "portrait_flickr_id": "",
+      "portrait_crop": {},
+      "portrait_thumbnail": "",
+      "photo_count": 0,
+      "link_status": "unlinked"
+    }
+  ],
+  "opposition_players": [
+    {
+      "name": "Ethan Harris",
+      "number": 1,
+      "position": "Loosehead Prop",
+      "role": "starter"
+    },
+    {
+      "name": "Jenson Jenkins",
+      "number": 2,
+      "position": "Hooker",
+      "role": "starter"
+    },
+    {
+      "name": "Morgan Roberts",
+      "number": 3,
+      "position": "Tighthead Prop",
+      "role": "starter"
+    },
+    {
+      "name": "Aaron Gomer",
+      "number": 4,
+      "position": "Lock",
+      "role": "starter"
+    },
+    {
+      "name": "Zac Wright",
+      "number": 5,
+      "position": "Lock",
+      "role": "starter"
+    },
+    {
+      "name": "Olly Lawford",
+      "number": 6,
+      "position": "Blindside Flanker",
+      "role": "starter"
+    },
+    {
+      "name": "James Edwards",
+      "number": 7,
+      "position": "Openside Flanker",
+      "role": "starter"
+    },
+    {
+      "name": "Oliver Kincaid",
+      "number": 8,
+      "position": "Number Eight",
+      "role": "starter"
+    },
+    {
+      "name": "Jacob Wright",
+      "number": 9,
+      "position": "Scrum-half",
+      "role": "starter"
+    },
+    {
+      "name": "Adam Nicklin",
+      "number": 10,
+      "position": "Fly-half",
+      "role": "starter"
+    },
+    {
+      "name": "The Doyle",
+      "number": 11,
+      "position": "Left Wing",
+      "role": "starter"
+    },
+    {
+      "name": "Keelan Jones",
+      "number": 12,
+      "position": "Inside Centre",
+      "role": "starter"
+    },
+    {
+      "name": "David Tabor",
+      "number": 13,
+      "position": "Outside Centre",
+      "role": "starter"
+    },
+    {
+      "name": "Logan George",
+      "number": 14,
+      "position": "Right Wing",
+      "role": "starter"
+    },
+    {
+      "name": "Doug Hann",
+      "number": 15,
+      "position": "Full-back",
+      "role": "starter"
+    },
+    {
+      "name": "Tyler Davies",
+      "number": 16,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "Luke Studdart",
+      "number": 17,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "Markos Thorne",
+      "number": 18,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "Rhys Taylor Jones",
+      "number": 19,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "Josh Perrin",
+      "number": 20,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "",
+      "number": 21,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "",
+      "number": 22,
+      "position": "Replacement",
+      "role": "replacement"
+    },
+    {
+      "name": "",
+      "number": 23,
+      "position": "Replacement",
+      "role": "replacement"
+    }
+  ],
+  "match_details": {
+    "away_score": "36",
+    "competition": "Divistion 3 Cup - Round 1",
+    "home_score": "32",
+    "kickoff": "14:30",
+    "match_date": "3rd October 2026",
+    "notes": "",
+    "venue": "Welfare Ground"
+  },
+  "match_timeline": {
+    "first_half": {
+      "capture_time": "2026-10-03T14:32:32",
+      "capture_time_display": "14:32:32",
+      "filename": "NE1_6657.jpg"
+    },
+    "half_time": {
+      "capture_time": "2026-10-03T15:10:25",
+      "capture_time_display": "15:10:25",
+      "filename": "NE1_6702.jpg"
+    },
+    "post_match": {
+      "capture_time": "2026-10-03T16:05:50",
+      "capture_time_display": "16:05:50",
+      "filename": "NE2_1408.jpg"
+    },
+    "second_half": {
+      "capture_time": "2026-10-03T15:17:46",
+      "capture_time_display": "15:17:46",
+      "filename": "NE1_6703.jpg"
+    }
+  }
+}
