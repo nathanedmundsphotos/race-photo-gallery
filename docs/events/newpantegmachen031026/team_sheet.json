@@ -521,13 +521,13 @@
       "order": 1,
       "name": "Tom Lampard",
       "position": "Forwards Coach",
-      "cluster_tag": "",
-      "portrait_filename": "",
-      "portrait_flickr_id": "",
+      "cluster_tag": "face_cluster_35",
+      "portrait_filename": "NE2_1347.jpg",
+      "portrait_flickr_id": "55565990292",
       "portrait_crop": {},
-      "portrait_thumbnail": "",
-      "photo_count": 0,
-      "link_status": "unlinked"
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/newpantegmachen031026/face_thumbnails/NE2_1287_face_1_cluster_35.jpg",
+      "photo_count": 2,
+      "link_status": "approved"
     },
     {
       "staff_id": "staff_3be228a9177f",
@@ -535,13 +535,13 @@
       "order": 2,
       "name": "Robert Tovey",
       "position": "Backs Coach",
-      "cluster_tag": "",
-      "portrait_filename": "",
-      "portrait_flickr_id": "",
+      "cluster_tag": "face_cluster_265",
+      "portrait_filename": "NE2_1423.jpg",
+      "portrait_flickr_id": "55567127658",
       "portrait_crop": {},
-      "portrait_thumbnail": "",
-      "photo_count": 0,
-      "link_status": "unlinked"
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/newpantegmachen031026/face_thumbnails/NE2_1423_face_1_cluster_265.jpg",
+      "photo_count": 1,
+      "link_status": "approved"
     },
     {
       "staff_id": "staff_3bdf9a901e97",
@@ -549,13 +549,13 @@
       "order": 3,
       "name": "Luke Bigham",
       "position": "Skills & Defence Coach",
-      "cluster_tag": "",
-      "portrait_filename": "",
-      "portrait_flickr_id": "",
+      "cluster_tag": "face_cluster_90",
+      "portrait_filename": "NE2_1424.jpg",
+      "portrait_flickr_id": "55567021851",
       "portrait_crop": {},
-      "portrait_thumbnail": "",
-      "photo_count": 0,
-      "link_status": "unlinked"
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/newpantegmachen031026/face_thumbnails/NE1_6675_face_1_cluster_90.jpg",
+      "photo_count": 3,
+      "link_status": "approved"
     },
     {
       "staff_id": "staff_4145c693de58",
@@ -591,13 +591,13 @@
       "order": 1,
       "name": "Hannah Roberts",
       "position": "Physio",
-      "cluster_tag": "",
-      "portrait_filename": "",
-      "portrait_flickr_id": "",
+      "cluster_tag": "face_cluster_158",
+      "portrait_filename": "NE2_1425.jpg",
+      "portrait_flickr_id": "55565995312",
       "portrait_crop": {},
-      "portrait_thumbnail": "",
-      "photo_count": 0,
-      "link_status": "unlinked"
+      "portrait_thumbnail": "https://pub-c45f6c6d9c44442682bfc891bbed7a09.r2.dev/events/newpantegmachen031026/face_thumbnails/NE2_1346_face_1_cluster_158.jpg",
+      "photo_count": 3,
+      "link_status": "approved"
     },
     {
       "staff_id": "staff_b2716ea76919",
