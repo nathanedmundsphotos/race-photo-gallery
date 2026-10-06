@@ -5,7 +5,7 @@
   "team_name": "New Panteg RFC",
   "opposition_name": "Machen RFC",
   "confirmed": true,
-  "man_of_the_match_player_id": "",
+  "man_of_the_match_player_id": "fbcbb829-ef7e-47ea-8c3a-d564e23b1ff1",
   "players": [
     {
       "player_id": "af640819-31db-45d7-82f3-53f6b0536192",
@@ -44,7 +44,7 @@
       "photo_count": 0,
       "link_status": "unlinked",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
@@ -145,7 +145,7 @@
       "name": "Llewi Maclean",
       "position": "Openside Flanker",
       "role": "starter",
-      "leadership_role": "captain",
+      "leadership_role": "Captain",
       "cluster_tag": "",
       "portrait_filename": "",
       "portrait_flickr_id": "",
@@ -211,7 +211,7 @@
       "name": "Alex Gwatkin",
       "position": "Fly-Half",
       "role": "starter",
-      "leadership_role": "vice_captain",
+      "leadership_role": "Vice Captain",
       "cluster_tag": "",
       "portrait_filename": "",
       "portrait_flickr_id": "",
@@ -220,9 +220,9 @@
       "photo_count": 0,
       "link_status": "unlinked",
       "scoring": {
-        "try": 0,
-        "conversion": 0,
-        "penalty_kick": 0,
+        "try": 1,
+        "conversion": 3,
+        "penalty_kick": 2,
         "drop_goal": 0,
         "penalty_try": 0
       }
@@ -242,7 +242,7 @@
       "photo_count": 0,
       "link_status": "unlinked",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
@@ -264,7 +264,7 @@
       "photo_count": 0,
       "link_status": "unlinked",
       "scoring": {
-        "try": 0,
+        "try": 1,
         "conversion": 0,
         "penalty_kick": 0,
         "drop_goal": 0,
@@ -589,7 +589,7 @@
       "staff_id": "staff_375f99bf717a",
       "staff_type": "physio",
       "order": 1,
-      "name": "",
+      "name": "Hannah Roberts",
       "position": "Physio",
       "cluster_tag": "",
       "portrait_filename": "",
@@ -755,11 +755,11 @@
     }
   ],
   "match_details": {
-    "away_score": "",
+    "away_score": "36",
     "competition": "Division 3 Cup - Round 1",
-    "home_score": "",
-    "kickoff": "",
-    "match_date": "2026-10-03",
+    "home_score": "32",
+    "kickoff": "14:30",
+    "match_date": "3rd October 2026",
     "notes": "",
     "venue": "Welfare Ground"
   },
