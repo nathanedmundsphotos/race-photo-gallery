@@ -93,6 +93,7 @@
       "portrait_thumbnail_filename": "4N4A1980_face_1_cluster_4.jpg",
       "position": 5,
       "surname": "ARCANA",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:30:43",
       "urn": 4143324
     },
@@ -112,6 +113,7 @@
       "portrait_thumbnail_filename": "4N4A1999_face_1_cluster_8.jpg",
       "position": 6,
       "surname": "DUGGAN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:30:45",
       "urn": 4252941
     },
@@ -145,6 +147,7 @@
       "portrait_thumbnail_filename": "4N4A1998_face_1_cluster_6.jpg",
       "position": 8,
       "surname": "GILLETT",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:30:57",
       "urn": 4114151
     },
@@ -164,6 +167,7 @@
       "portrait_thumbnail_filename": "4N4A2003_face_1_cluster_21.jpg",
       "position": 9,
       "surname": "LAWSON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:31:00",
       "urn": 7036637
     },
@@ -211,6 +215,7 @@
       "portrait_thumbnail_filename": "4N4A2009_face_2_cluster_27.jpg",
       "position": 12,
       "surname": "AHERNE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:31:29",
       "urn": 7020826
     },
@@ -244,6 +249,7 @@
       "portrait_thumbnail_filename": "4N4A2002_face_1_cluster_19.jpg",
       "position": 14,
       "surname": "ROBERTS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:31:33",
       "urn": 7045130
     },
@@ -263,6 +269,7 @@
       "portrait_thumbnail_filename": "4N4A2008_face_3_cluster_29.jpg",
       "position": 15,
       "surname": "THOMAS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:31:42",
       "urn": 7047529
     },
@@ -282,6 +289,7 @@
       "portrait_thumbnail_filename": "4N4A2001_face_2_cluster_10.jpg",
       "position": 16,
       "surname": "MARSH",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:31:49",
       "urn": 4049896
     },
@@ -315,6 +323,7 @@
       "portrait_thumbnail_filename": "4N4A2007_face_1_cluster_23.jpg",
       "position": 18,
       "surname": "BRISCO WILLIAMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:31:58",
       "urn": 3555809
     },
@@ -334,6 +343,7 @@
       "portrait_thumbnail_filename": "4N4A2003_face_2_cluster_22.jpg",
       "position": 19,
       "surname": "JARVIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:32:07",
       "urn": 3828313
     },
@@ -396,6 +406,7 @@
       "portrait_thumbnail_filename": "4N4A2021_face_2_cluster_40.jpg",
       "position": 23,
       "surname": "ROSE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:32:38",
       "urn": 7030068
     },
@@ -415,6 +426,7 @@
       "portrait_thumbnail_filename": "4N4A2006_face_2_cluster_25.jpg",
       "position": 24,
       "surname": "SNELLING",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:32:38",
       "urn": 4236532
     },
@@ -434,6 +446,7 @@
       "portrait_thumbnail_filename": "4N4A2018_face_1_cluster_38.jpg",
       "position": 25,
       "surname": "NEWMAN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:32:41",
       "urn": 4039936
     },
@@ -453,6 +466,7 @@
       "portrait_thumbnail_filename": "4N4A2015_face_1_cluster_34.jpg",
       "position": 26,
       "surname": "WATTS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:32:53",
       "urn": 7030625
     },
@@ -486,6 +500,7 @@
       "portrait_thumbnail_filename": "4N4A2016_face_2_cluster_36.jpg",
       "position": 28,
       "surname": "THURSTON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:06",
       "urn": 4218060
     },
@@ -505,6 +520,7 @@
       "portrait_thumbnail_filename": "4N4A2020_face_3_cluster_42.jpg",
       "position": 29,
       "surname": "THOMAS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:10",
       "urn": 4213881
     },
@@ -524,6 +540,7 @@
       "portrait_thumbnail_filename": "4N4A2023_face_1_cluster_45.jpg",
       "position": 30,
       "surname": "HARVEY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:12",
       "urn": 7017643
     },
@@ -557,6 +574,7 @@
       "portrait_thumbnail_filename": "4N4A2012_face_1_cluster_31.jpg",
       "position": 32,
       "surname": "BETHELL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:18",
       "urn": 4244777
     },
@@ -576,6 +594,7 @@
       "portrait_thumbnail_filename": "4N4A2027_face_1_cluster_50.jpg",
       "position": 33,
       "surname": "ROWLAND",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:39",
       "urn": 7041325
     },
@@ -595,6 +614,7 @@
       "portrait_thumbnail_filename": "4N4A2025_face_1_cluster_48.jpg",
       "position": 34,
       "surname": "MURPHY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:42",
       "urn": 4184506
     },
@@ -614,6 +634,7 @@
       "portrait_thumbnail_filename": "4N4A2022_face_3_cluster_44.jpg",
       "position": 35,
       "surname": "WALBYOFF",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:47",
       "urn": 4212016
     },
@@ -647,6 +668,7 @@
       "portrait_thumbnail_filename": "4N4A2024_face_1_cluster_47.jpg",
       "position": 37,
       "surname": "JOHNS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:58",
       "urn": 3890849
     },
@@ -666,6 +688,7 @@
       "portrait_thumbnail_filename": "4N4A2028_face_3_cluster_51.jpg",
       "position": 38,
       "surname": "HUDD",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:33:59",
       "urn": 7040662
     },
@@ -727,6 +750,7 @@
       "portrait_thumbnail_filename": "4N4A2034_face_4_cluster_62.jpg",
       "position": 42,
       "surname": "HOWELLS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:34:37",
       "urn": 7047963
     },
@@ -746,6 +770,7 @@
       "portrait_thumbnail_filename": "4N4A2036_face_3_cluster_60.jpg",
       "position": 43,
       "surname": "DIMMICK",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:34:42",
       "urn": 4227405
     },
@@ -779,6 +804,7 @@
       "portrait_thumbnail_filename": "4N4A2037_face_1_cluster_59.jpg",
       "position": 45,
       "surname": "DILLEY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:34:44",
       "urn": 2809193
     },
@@ -798,6 +824,7 @@
       "portrait_thumbnail_filename": "4N4A2031_face_1_cluster_55.jpg",
       "position": 46,
       "surname": "GAWINOWSKI",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:34:46",
       "urn": 3792824
     },
@@ -817,6 +844,7 @@
       "portrait_thumbnail_filename": "4N4A2042_face_1_cluster_70.jpg",
       "position": 47,
       "surname": "SAUNDERS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:34:49",
       "urn": 4163318
     },
@@ -864,6 +892,7 @@
       "portrait_thumbnail_filename": "4N4A2053_face_1_cluster_85.jpg",
       "position": 50,
       "surname": "WILLIAMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:34:55",
       "urn": 4112447
     },
@@ -883,6 +912,7 @@
       "portrait_thumbnail_filename": "4N4A2343_face_3_cluster_73.jpg",
       "position": 51,
       "surname": "MILLS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:34:58",
       "urn": 7036754
     },
@@ -902,6 +932,7 @@
       "portrait_thumbnail_filename": "4N4A2039_face_1_cluster_65.jpg",
       "position": 52,
       "surname": "PIRVU",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:04",
       "urn": 3971798
     },
@@ -921,6 +952,7 @@
       "portrait_thumbnail_filename": "4N4A2037_face_2_cluster_61.jpg",
       "position": 53,
       "surname": "MARSHALL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:06",
       "urn": 7047069
     },
@@ -940,6 +972,7 @@
       "portrait_thumbnail_filename": "4N4A2047_face_1_cluster_76.jpg",
       "position": 54,
       "surname": "HAEFFNER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:08",
       "urn": 4196835
     },
@@ -987,6 +1020,7 @@
       "portrait_thumbnail_filename": "4N4A2048_face_1_cluster_79.jpg",
       "position": 57,
       "surname": "EVANS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:13",
       "urn": 4182556
     },
@@ -1006,6 +1040,7 @@
       "portrait_thumbnail_filename": "4N4A2056_face_1_cluster_87.jpg",
       "position": 58,
       "surname": "PROFIT",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:18",
       "urn": 7041230
     },
@@ -1025,6 +1060,7 @@
       "portrait_thumbnail_filename": "4N4A2040_face_2_cluster_69.jpg",
       "position": 59,
       "surname": "WASSALL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:20",
       "urn": 4245469
     },
@@ -1044,6 +1080,7 @@
       "portrait_thumbnail_filename": "4N4A2057_face_4_cluster_89.jpg",
       "position": 60,
       "surname": "KEEBLE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:22",
       "urn": 7052642
     },
@@ -1063,6 +1100,7 @@
       "portrait_thumbnail_filename": "4N4A2035_face_5_cluster_63.jpg",
       "position": 61,
       "surname": "PAYMAN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:31",
       "urn": 3723765
     },
@@ -1082,6 +1120,7 @@
       "portrait_thumbnail_filename": "4N4A2062_face_3_cluster_109.jpg",
       "position": 62,
       "surname": "HOLMES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:35",
       "urn": 4226063
     },
@@ -1130,6 +1169,7 @@
       "portrait_thumbnail_filename": "4N4A2046_face_2_cluster_75.jpg",
       "position": 65,
       "surname": "ROBERTS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:40",
       "urn": 7043635
     },
@@ -1149,6 +1189,7 @@
       "portrait_thumbnail_filename": "4N4A2051_face_2_cluster_84.jpg",
       "position": 66,
       "surname": "NASH",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:41",
       "urn": 4245460
     },
@@ -1168,6 +1209,7 @@
       "portrait_thumbnail_filename": "4N4A2045_face_3_cluster_77.jpg",
       "position": 67,
       "surname": "TUDOR",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:46",
       "urn": 4172454
     },
@@ -1187,6 +1229,7 @@
       "portrait_thumbnail_filename": "4N4A2059_face_1_cluster_104.jpg",
       "position": 68,
       "surname": "MORGAN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:35:48",
       "urn": 7018521
     },
@@ -1220,6 +1263,7 @@
       "portrait_thumbnail_filename": "4N4A2049_face_1_cluster_80.jpg",
       "position": 70,
       "surname": "BAKER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:36:02",
       "urn": 7043830
     },
@@ -1239,6 +1283,7 @@
       "portrait_thumbnail_filename": "4N4A2050_face_1_cluster_82.jpg",
       "position": 71,
       "surname": "ADAMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:36:06",
       "urn": 3919519
     },
@@ -1258,6 +1303,7 @@
       "portrait_thumbnail_filename": "4N4A2055_face_2_cluster_86.jpg",
       "position": 72,
       "surname": "POMEROY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:36:07",
       "urn": 4102396
     },
@@ -1319,6 +1365,7 @@
       "portrait_thumbnail_filename": "4N4A2075_face_2_cluster_125.jpg",
       "position": 76,
       "surname": "PRITCHARD",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:36:24",
       "urn": 7040575
     },
@@ -1352,6 +1399,7 @@
       "portrait_thumbnail_filename": "4N4A2065_face_1_cluster_111.jpg",
       "position": 78,
       "surname": "OSMAN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:36:36",
       "urn": 7044417
     },
@@ -1385,6 +1433,7 @@
       "portrait_thumbnail_filename": "4N4A2058_face_6_cluster_105.jpg",
       "position": 80,
       "surname": "MURKIN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:36:40",
       "urn": 7045744
     },
@@ -1432,6 +1481,7 @@
       "portrait_thumbnail_filename": "4N4A2069_face_1_cluster_115.jpg",
       "position": 83,
       "surname": "KING",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:36:49",
       "urn": 7021689
     },
@@ -1451,6 +1501,7 @@
       "portrait_thumbnail_filename": "4N4A2068_face_1_cluster_114.jpg",
       "position": 84,
       "surname": "LANE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:36:55",
       "urn": 7032607
     },
@@ -1498,6 +1549,7 @@
       "portrait_thumbnail_filename": "4N4A2062_face_1_cluster_107.jpg",
       "position": 87,
       "surname": "LEWIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:37:07",
       "urn": 7033033
     },
@@ -1517,6 +1569,7 @@
       "portrait_thumbnail_filename": "4N4A2063_face_2_cluster_108.jpg",
       "position": 88,
       "surname": "GLEED",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:37:08",
       "urn": 4137326
     },
@@ -1564,6 +1617,7 @@
       "portrait_thumbnail_filename": "4N4A2070_face_1_cluster_117.jpg",
       "position": 91,
       "surname": "JONES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:37:22",
       "urn": 7038710
     },
@@ -1597,6 +1651,7 @@
       "portrait_thumbnail_filename": "4N4A2058_face_3_cluster_98.jpg",
       "position": 93,
       "surname": "TURNER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:37:34",
       "urn": 3967959
     },
@@ -1630,6 +1685,7 @@
       "portrait_thumbnail_filename": "4N4A2076_face_3_cluster_129.jpg",
       "position": 95,
       "surname": "LEGGE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:37:43",
       "urn": 4115686
     },
@@ -1663,6 +1719,7 @@
       "portrait_thumbnail_filename": "4N4A2074_face_1_cluster_122.jpg",
       "position": 97,
       "surname": "WILLIAMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:37:56",
       "urn": 4098578
     },
@@ -1696,6 +1753,7 @@
       "portrait_thumbnail_filename": "4N4A2078_face_1_cluster_127.jpg",
       "position": 99,
       "surname": "CLEASE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:38:06",
       "urn": 4155102
     },
@@ -1715,6 +1773,7 @@
       "portrait_thumbnail_filename": "4N4A2098_face_1_cluster_158.jpg",
       "position": 100,
       "surname": "PONTIN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:38:07",
       "urn": 4247634
     },
@@ -1734,6 +1793,7 @@
       "portrait_thumbnail_filename": "4N4A2072_face_1_cluster_119.jpg",
       "position": 101,
       "surname": "WEBB",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:38:10",
       "urn": 7034665
     },
@@ -1753,6 +1813,7 @@
       "portrait_thumbnail_filename": "4N4A2076_face_2_cluster_128.jpg",
       "position": 102,
       "surname": "PRICE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:38:20",
       "urn": 7040770
     },
@@ -1814,6 +1875,7 @@
       "portrait_thumbnail_filename": "4N4A2096_face_1_cluster_156.jpg",
       "position": 106,
       "surname": "PRITCHARD",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:38:29",
       "urn": 7037460
     },
@@ -1847,6 +1909,7 @@
       "portrait_thumbnail_filename": "4N4A2082_face_2_cluster_138.jpg",
       "position": 108,
       "surname": "LEGGE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:38:37",
       "urn": 4226776
     },
@@ -1922,6 +1985,7 @@
       "portrait_thumbnail_filename": "4N4A2095_face_1_cluster_155.jpg",
       "position": 113,
       "surname": "WATKINS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:03",
       "urn": 4144828
     },
@@ -1955,6 +2019,7 @@
       "portrait_thumbnail_filename": "4N4A2102_face_1_cluster_164.jpg",
       "position": 115,
       "surname": "BAKER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:09",
       "urn": 7042662
     },
@@ -1988,6 +2053,7 @@
       "portrait_thumbnail_filename": "4N4A2087_face_1_cluster_144.jpg",
       "position": 117,
       "surname": "ABELL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:13",
       "urn": 3653157
     },
@@ -2007,6 +2073,7 @@
       "portrait_thumbnail_filename": "4N4A2092_face_2_cluster_151.jpg",
       "position": 118,
       "surname": "HISLOP",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:14",
       "urn": 3475319
     },
@@ -2054,6 +2121,7 @@
       "portrait_thumbnail_filename": "4N4A2088_face_1_cluster_145.jpg",
       "position": 121,
       "surname": "DIXON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:20",
       "urn": 7023892
     },
@@ -2101,6 +2169,7 @@
       "portrait_thumbnail_filename": "4N4A2089_face_2_cluster_147.jpg",
       "position": 124,
       "surname": "SILVER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:26",
       "urn": 4144372
     },
@@ -2120,6 +2189,7 @@
       "portrait_thumbnail_filename": "4N4A2071_face_1_cluster_116.jpg",
       "position": 125,
       "surname": "FORD",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:34",
       "urn": 7047372
     },
@@ -2139,6 +2209,7 @@
       "portrait_thumbnail_filename": "4N4A2115_face_2_cluster_188.jpg",
       "position": 126,
       "surname": "KENNEDY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:44",
       "urn": 4017203
     },
@@ -2158,6 +2229,7 @@
       "portrait_thumbnail_filename": "4N4A2111_face_2_cluster_180.jpg",
       "position": 127,
       "surname": "DAVIES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:46",
       "urn": 3843577
     },
@@ -2177,6 +2249,7 @@
       "portrait_thumbnail_filename": "4N4A2227_face_1_cluster_380.jpg",
       "position": 128,
       "surname": "BOWEN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:52",
       "urn": 7035178
     },
@@ -2196,6 +2269,7 @@
       "portrait_thumbnail_filename": "4N4A2113_face_1_cluster_185.jpg",
       "position": 129,
       "surname": "BRAWN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:39:57",
       "urn": 3520467
     },
@@ -2215,6 +2289,7 @@
       "portrait_thumbnail_filename": "4N4A2114_face_1_cluster_186.jpg",
       "position": 130,
       "surname": "JONES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:00",
       "urn": 4224589
     },
@@ -2248,6 +2323,7 @@
       "portrait_thumbnail_filename": "4N4A2093_face_2_cluster_153.jpg",
       "position": 132,
       "surname": "HAY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:04",
       "urn": 4226012
     },
@@ -2281,6 +2357,7 @@
       "portrait_thumbnail_filename": "4N4A2111_face_7_cluster_177.jpg",
       "position": 134,
       "surname": "MUTLOW",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:09",
       "urn": 7049618
     },
@@ -2300,6 +2377,7 @@
       "portrait_thumbnail_filename": "4N4A2104_face_2_cluster_165.jpg",
       "position": 135,
       "surname": "GILL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:12",
       "urn": 7030717
     },
@@ -2319,6 +2397,7 @@
       "portrait_thumbnail_filename": "4N4A2103_face_1_cluster_167.jpg",
       "position": 136,
       "surname": "ROSCOE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:14",
       "urn": 2765012
     },
@@ -2338,6 +2417,7 @@
       "portrait_thumbnail_filename": "4N4A2110_face_4_cluster_178.jpg",
       "position": 137,
       "surname": "HILL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:15",
       "urn": 7048560
     },
@@ -2357,6 +2437,7 @@
       "portrait_thumbnail_filename": "4N4A2121_face_2_cluster_200.jpg",
       "position": 138,
       "surname": "FERGUS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:18",
       "urn": 7050390
     },
@@ -2390,6 +2471,7 @@
       "portrait_thumbnail_filename": "4N4A2100_face_1_cluster_162.jpg",
       "position": 140,
       "surname": "JONES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:29",
       "urn": 4177098
     },
@@ -2409,6 +2491,7 @@
       "portrait_thumbnail_filename": "4N4A2111_face_4_cluster_175.jpg",
       "position": 141,
       "surname": "GILES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:32",
       "urn": 4033039
     },
@@ -2428,6 +2511,7 @@
       "portrait_thumbnail_filename": "4N4A2115_face_3_cluster_189.jpg",
       "position": 142,
       "surname": "JEREMIAH",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:41",
       "urn": 7043980
     },
@@ -2447,6 +2531,7 @@
       "portrait_thumbnail_filename": "4N4A2122_face_1_cluster_206.jpg",
       "position": 143,
       "surname": "THURSTON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:43",
       "urn": 4198162
     },
@@ -2466,6 +2551,7 @@
       "portrait_thumbnail_filename": "4N4A2108_face_1_cluster_172.jpg",
       "position": 144,
       "surname": "LINE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:40:45",
       "urn": 7023984
     },
@@ -2528,6 +2614,7 @@
       "portrait_thumbnail_filename": "4N4A2128_face_1_cluster_216.jpg",
       "position": 148,
       "surname": "SMITH",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:41:12",
       "urn": 7049198
     },
@@ -2547,6 +2634,7 @@
       "portrait_thumbnail_filename": "4N4A2109_face_1_cluster_173.jpg",
       "position": 149,
       "surname": "MULCAHY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:41:18",
       "urn": 3475101
     },
@@ -2594,6 +2682,7 @@
       "portrait_thumbnail_filename": "4N4A2117_face_3_cluster_194.jpg",
       "position": 152,
       "surname": "McLOUGHLIN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:41:23",
       "urn": 7051138
     },
@@ -2613,6 +2702,7 @@
       "portrait_thumbnail_filename": "4N4A2125_face_1_cluster_212.jpg",
       "position": 153,
       "surname": "KUMAR",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:41:24",
       "urn": 4193399
     },
@@ -2646,6 +2736,7 @@
       "portrait_thumbnail_filename": "4N4A2119_face_1_cluster_198.jpg",
       "position": 155,
       "surname": "SINCLAIR",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:41:37",
       "urn": 2903129
     },
@@ -2693,6 +2784,7 @@
       "portrait_thumbnail_filename": "4N4A2332_face_2_cluster_517.jpg",
       "position": 158,
       "surname": "VINCENT",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:41:52",
       "urn": 4245342
     },
@@ -2712,6 +2804,7 @@
       "portrait_thumbnail_filename": "4N4A2120_face_4_cluster_203.jpg",
       "position": 159,
       "surname": "DALLOW",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:41:52",
       "urn": 7044351
     },
@@ -2731,6 +2824,7 @@
       "portrait_thumbnail_filename": "4N4A2132_face_1_cluster_223.jpg",
       "position": 160,
       "surname": "BENJAMIN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:41:54",
       "urn": 7041103
     },
@@ -2793,6 +2887,7 @@
       "portrait_thumbnail_filename": "4N4A2153_face_4_cluster_256.jpg",
       "position": 164,
       "surname": "BAKER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:05",
       "urn": 3343226
     },
@@ -2826,6 +2921,7 @@
       "portrait_thumbnail_filename": "4N4A2144_face_1_cluster_239.jpg",
       "position": 166,
       "surname": "WILMOTT",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:07",
       "urn": 7029680
     },
@@ -2859,6 +2955,7 @@
       "portrait_thumbnail_filename": "4N4A2129_face_1_cluster_218.jpg",
       "position": 168,
       "surname": "REYNOLDS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:09",
       "urn": 4095369
     },
@@ -2878,6 +2975,7 @@
       "portrait_thumbnail_filename": "4N4A2126_face_1_cluster_213.jpg",
       "position": 169,
       "surname": "BOARDMAN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:15",
       "urn": 4074484
     },
@@ -2897,6 +2995,7 @@
       "portrait_thumbnail_filename": "4N4A2124_face_1_cluster_211.jpg",
       "position": 170,
       "surname": "LLOYD",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:16",
       "urn": 3109002
     },
@@ -2916,6 +3015,7 @@
       "portrait_thumbnail_filename": "4N4A2164_face_2_cluster_268.jpg",
       "position": 171,
       "surname": "WATKINS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:20",
       "urn": 7051910
     },
@@ -2935,6 +3035,7 @@
       "portrait_thumbnail_filename": "4N4A2142_face_2_cluster_238.jpg",
       "position": 172,
       "surname": "GREGORY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:23",
       "urn": 4182902
     },
@@ -2968,6 +3069,7 @@
       "portrait_thumbnail_filename": "4N4A2131_face_1_cluster_221.jpg",
       "position": 174,
       "surname": "GOOCH",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:32",
       "urn": 7034935
     },
@@ -2987,6 +3089,7 @@
       "portrait_thumbnail_filename": "4N4A2136_face_1_cluster_229.jpg",
       "position": 175,
       "surname": "BARRY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:36",
       "urn": 7036579
     },
@@ -3020,6 +3123,7 @@
       "portrait_thumbnail_filename": "4N4A2124_face_3_cluster_210.jpg",
       "position": 177,
       "surname": "WHITE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:40",
       "urn": 7022150
     },
@@ -3067,6 +3171,7 @@
       "portrait_thumbnail_filename": "4N4A2137_face_2_cluster_230.jpg",
       "position": 180,
       "surname": "WRIGHT",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:46",
       "urn": 7037058
     },
@@ -3114,6 +3219,7 @@
       "portrait_thumbnail_filename": "4N4A2134_face_2_cluster_225.jpg",
       "position": 183,
       "surname": "SEED",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:42:55",
       "urn": 7044942
     },
@@ -3133,6 +3239,7 @@
       "portrait_thumbnail_filename": "4N4A2159_face_3_cluster_262.jpg",
       "position": 184,
       "surname": "LIDGETT",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:01",
       "urn": 7023747
     },
@@ -3166,6 +3273,7 @@
       "portrait_thumbnail_filename": "4N4A2159_face_1_cluster_265.jpg",
       "position": 186,
       "surname": "WALSH",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:06",
       "urn": 2708143
     },
@@ -3185,6 +3293,7 @@
       "portrait_thumbnail_filename": "4N4A2167_face_2_cluster_275.jpg",
       "position": 187,
       "surname": "THOMAS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:12",
       "urn": 4178148
     },
@@ -3204,6 +3313,7 @@
       "portrait_thumbnail_filename": "4N4A2144_face_2_cluster_240.jpg",
       "position": 188,
       "surname": "DAVIES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:15",
       "urn": 7045568
     },
@@ -3223,6 +3333,7 @@
       "portrait_thumbnail_filename": "4N4A2151_face_1_cluster_251.jpg",
       "position": 189,
       "surname": "KINGSTON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:17",
       "urn": 7039084
     },
@@ -3242,6 +3353,7 @@
       "portrait_thumbnail_filename": "4N4A2161_face_1_cluster_261.jpg",
       "position": 190,
       "surname": "PUTMAN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:21",
       "urn": 3547441
     },
@@ -3261,6 +3373,7 @@
       "portrait_thumbnail_filename": "4N4A2123_face_1_cluster_205.jpg",
       "position": 191,
       "surname": "WEHDEN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:23",
       "urn": 7018069
     },
@@ -3308,6 +3421,7 @@
       "portrait_thumbnail_filename": "4N4A2146_face_3_cluster_245.jpg",
       "position": 194,
       "surname": "WATSON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:28",
       "urn": 7039704
     },
@@ -3327,6 +3441,7 @@
       "portrait_thumbnail_filename": "4N4A2150_face_2_cluster_250.jpg",
       "position": 195,
       "surname": "WELBIRG",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:34",
       "urn": 7021146
     },
@@ -3346,6 +3461,7 @@
       "portrait_thumbnail_filename": "4N4A2181_face_1_cluster_296.jpg",
       "position": 196,
       "surname": "ARTHUR",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:36",
       "urn": 3985348
     },
@@ -3379,6 +3495,7 @@
       "portrait_thumbnail_filename": "4N4A2167_face_1_cluster_274.jpg",
       "position": 198,
       "surname": "SLOPER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:39",
       "urn": 3719907
     },
@@ -3398,6 +3515,7 @@
       "portrait_thumbnail_filename": "4N4A2164_face_1_cluster_271.jpg",
       "position": 199,
       "surname": "DAVIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:50",
       "urn": 4078800
     },
@@ -3417,6 +3535,7 @@
       "portrait_thumbnail_filename": "4N4A2157_face_2_cluster_259.jpg",
       "position": 200,
       "surname": "WHITE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:43:54",
       "urn": 7024847
     },
@@ -3464,6 +3583,7 @@
       "portrait_thumbnail_filename": "4N4A2342_face_1_cluster_533.jpg",
       "position": 203,
       "surname": "HOGAN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:44:00",
       "urn": 7047370
     },
@@ -3483,6 +3603,7 @@
       "portrait_thumbnail_filename": "4N4A2162_face_1_cluster_266.jpg",
       "position": 204,
       "surname": "LAWSON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:44:06",
       "urn": 7018247
     },
@@ -3502,6 +3623,7 @@
       "portrait_thumbnail_filename": "4N4A2155_face_2_cluster_254.jpg",
       "position": 205,
       "surname": "MARTIN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:44:08",
       "urn": 4251366
     },
@@ -3591,6 +3713,7 @@
       "portrait_thumbnail_filename": "4N4A2166_face_1_cluster_273.jpg",
       "position": 211,
       "surname": "JEFFRIES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:44:22",
       "urn": 4225652
     },
@@ -3624,6 +3747,7 @@
       "portrait_thumbnail_filename": "4N4A2171_face_1_cluster_280.jpg",
       "position": 213,
       "surname": "DAVIES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:44:35",
       "urn": 7039536
     },
@@ -3643,6 +3767,7 @@
       "portrait_thumbnail_filename": "4N4A2169_face_2_cluster_279.jpg",
       "position": 214,
       "surname": "BUSSELL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:44:43",
       "urn": 7042099
     },
@@ -3676,6 +3801,7 @@
       "portrait_thumbnail_filename": "4N4A2173_face_4_cluster_284.jpg",
       "position": 216,
       "surname": "ALLSOPP",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:44:48",
       "urn": 4044553
     },
@@ -3709,6 +3835,7 @@
       "portrait_thumbnail_filename": "4N4A2176_face_1_cluster_288.jpg",
       "position": 218,
       "surname": "PHELPS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:00",
       "urn": 3956204
     },
@@ -3728,6 +3855,7 @@
       "portrait_thumbnail_filename": "4N4A2179_face_2_cluster_294.jpg",
       "position": 219,
       "surname": "ELLIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:13",
       "urn": 4244539
     },
@@ -3747,6 +3875,7 @@
       "portrait_thumbnail_filename": "4N4A2148_face_2_cluster_248.jpg",
       "position": 220,
       "surname": "SIMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:16",
       "urn": 4064817
     },
@@ -3766,6 +3895,7 @@
       "portrait_thumbnail_filename": "4N4A2233_face_2_cluster_392.jpg",
       "position": 221,
       "surname": "HARRIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:18",
       "urn": 7040283
     },
@@ -3785,6 +3915,7 @@
       "portrait_thumbnail_filename": "4N4A2147_face_2_cluster_244.jpg",
       "position": 222,
       "surname": "ROBINS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:19",
       "urn": 4241009
     },
@@ -3804,6 +3935,7 @@
       "portrait_thumbnail_filename": "4N4A2218_face_4_cluster_362.jpg",
       "position": 223,
       "surname": "BROWN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:27",
       "urn": 4028342
     },
@@ -3837,6 +3969,7 @@
       "portrait_thumbnail_filename": "4N4A2182_face_2_cluster_299.jpg",
       "position": 225,
       "surname": "CROUCHER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:32",
       "urn": 3013512
     },
@@ -3856,6 +3989,7 @@
       "portrait_thumbnail_filename": "4N4A2184_face_1_cluster_303.jpg",
       "position": 226,
       "surname": "GRIFFITHS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:43",
       "urn": 3171750
     },
@@ -3875,6 +4009,7 @@
       "portrait_thumbnail_filename": "4N4A2186_face_1_cluster_305.jpg",
       "position": 227,
       "surname": "LEWIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:45:46",
       "urn": 7035800
     },
@@ -3922,6 +4057,7 @@
       "portrait_thumbnail_filename": "4N4A2192_face_2_cluster_312.jpg",
       "position": 230,
       "surname": "JONES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:46:01",
       "urn": 7020091
     },
@@ -3941,6 +4077,7 @@
       "portrait_thumbnail_filename": "4N4A2154_face_1_cluster_253.jpg",
       "position": 231,
       "surname": "LEWIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:46:02",
       "urn": 4228397
     },
@@ -4002,6 +4139,7 @@
       "portrait_thumbnail_filename": "4N4A2173_face_1_cluster_285.jpg",
       "position": 235,
       "surname": "DERRICK",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:46:27",
       "urn": 7040697
     },
@@ -4063,6 +4201,7 @@
       "portrait_thumbnail_filename": "4N4A2187_face_1_cluster_307.jpg",
       "position": 239,
       "surname": "PEARCE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:46:48",
       "urn": 7051698
     },
@@ -4096,6 +4235,7 @@
       "portrait_thumbnail_filename": "4N4A2216_face_2_cluster_355.jpg",
       "position": 241,
       "surname": "WILLIAMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:46:51",
       "urn": 4228004
     },
@@ -4115,6 +4255,7 @@
       "portrait_thumbnail_filename": "4N4A2210_face_1_cluster_340.jpg",
       "position": 242,
       "surname": "MELLOR",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:01",
       "urn": 4151665
     },
@@ -4162,6 +4303,7 @@
       "portrait_thumbnail_filename": "4N4A2190_face_1_cluster_310.jpg",
       "position": 245,
       "surname": "ANDREW",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:20",
       "urn": 4133233
     },
@@ -4195,6 +4337,7 @@
       "portrait_thumbnail_filename": "4N4A2165_face_1_cluster_272.jpg",
       "position": 247,
       "surname": "REYNOLDS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:31",
       "urn": 4220406
     },
@@ -4214,6 +4357,7 @@
       "portrait_thumbnail_filename": "4N4A2204_face_1_cluster_332.jpg",
       "position": 248,
       "surname": "WILLIAMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:34",
       "urn": 4037107
     },
@@ -4233,6 +4377,7 @@
       "portrait_thumbnail_filename": "4N4A2200_face_2_cluster_320.jpg",
       "position": 249,
       "surname": "JOSEPH",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:41",
       "urn": 4230332
     },
@@ -4266,6 +4411,7 @@
       "portrait_thumbnail_filename": "4N4A2199_face_2_cluster_318.jpg",
       "position": 251,
       "surname": "HARLEY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:45",
       "urn": 4230180
     },
@@ -4285,6 +4431,7 @@
       "portrait_thumbnail_filename": "4N4A2197_face_1_cluster_321.jpg",
       "position": 252,
       "surname": "EDWARDS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:47",
       "urn": 3916868
     },
@@ -4304,6 +4451,7 @@
       "portrait_thumbnail_filename": "4N4A2220_face_1_cluster_361.jpg",
       "position": 253,
       "surname": "CLARK",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:52",
       "urn": 7045432
     },
@@ -4337,6 +4485,7 @@
       "portrait_thumbnail_filename": "4N4A2196_face_3_cluster_319.jpg",
       "position": 255,
       "surname": "JONES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:57",
       "urn": 4165502
     },
@@ -4356,6 +4505,7 @@
       "portrait_thumbnail_filename": "4N4A2209_face_2_cluster_336.jpg",
       "position": 256,
       "surname": "MINTY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:58",
       "urn": 4091249
     },
@@ -4375,6 +4525,7 @@
       "portrait_thumbnail_filename": "4N4A2196_face_1_cluster_317.jpg",
       "position": 257,
       "surname": "ENGLISH",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:47:59",
       "urn": 7041077
     },
@@ -4394,6 +4545,7 @@
       "portrait_thumbnail_filename": "4N4A2214_face_3_cluster_352.jpg",
       "position": 258,
       "surname": "LEES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:48:02",
       "urn": 7034047
     },
@@ -4413,6 +4565,7 @@
       "portrait_thumbnail_filename": "4N4A2221_face_3_cluster_368.jpg",
       "position": 259,
       "surname": "RENDALL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:48:06",
       "urn": 4068327
     },
@@ -4460,6 +4613,7 @@
       "portrait_thumbnail_filename": "4N4A2211_face_1_cluster_342.jpg",
       "position": 262,
       "surname": "MADDISON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:48:20",
       "urn": 3419961
     },
@@ -4493,6 +4647,7 @@
       "portrait_thumbnail_filename": "4N4A2193_face_1_cluster_314.jpg",
       "position": 264,
       "surname": "HAEFFNER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:48:32",
       "urn": 7043549
     },
@@ -4527,6 +4682,7 @@
       "portrait_thumbnail_filename": "4N4A2202_face_3_cluster_326.jpg",
       "position": 266,
       "surname": "BABER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:48:39",
       "urn": 4005270
     },
@@ -4603,6 +4759,7 @@
       "portrait_thumbnail_filename": "4N4A2229_face_1_cluster_385.jpg",
       "position": 271,
       "surname": "BELL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:10",
       "urn": 7030121
     },
@@ -4636,6 +4793,7 @@
       "portrait_thumbnail_filename": "4N4A2242_face_2_cluster_403.jpg",
       "position": 273,
       "surname": "GOULD",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:21",
       "urn": 7051317
     },
@@ -4670,6 +4828,7 @@
       "portrait_thumbnail_filename": "4N4A2225_face_3_cluster_379.jpg",
       "position": 275,
       "surname": "GRIFFITHS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:25",
       "urn": 4127751
     },
@@ -4703,6 +4862,7 @@
       "portrait_thumbnail_filename": "4N4A2212_face_2_cluster_344.jpg",
       "position": 277,
       "surname": "MACRORY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:34",
       "urn": 7042718
     },
@@ -4736,6 +4896,7 @@
       "portrait_thumbnail_filename": "4N4A2241_face_1_cluster_401.jpg",
       "position": 279,
       "surname": "LEWIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:37",
       "urn": 4203938
     },
@@ -4755,6 +4916,7 @@
       "portrait_thumbnail_filename": "4N4A2231_face_2_cluster_387.jpg",
       "position": 280,
       "surname": "DOBBS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:42",
       "urn": 7032011
     },
@@ -4774,6 +4936,7 @@
       "portrait_thumbnail_filename": "4N4A2218_face_2_cluster_360.jpg",
       "position": 281,
       "surname": "JONES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:54",
       "urn": 4037123
     },
@@ -4793,6 +4956,7 @@
       "portrait_thumbnail_filename": "4N4A2214_face_1_cluster_349.jpg",
       "position": 282,
       "surname": "WILES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:54",
       "urn": 4124857
     },
@@ -4812,6 +4976,7 @@
       "portrait_thumbnail_filename": "4N4A2207_face_1_cluster_335.jpg",
       "position": 283,
       "surname": "BOWIE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:49:55",
       "urn": 7017791
     },
@@ -4831,6 +4996,7 @@
       "portrait_thumbnail_filename": "4N4A2263_face_1_cluster_429.jpg",
       "position": 284,
       "surname": "WARRILOW",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:50:00",
       "urn": 4071870
     },
@@ -4850,6 +5016,7 @@
       "portrait_thumbnail_filename": "4N4A2203_face_3_cluster_327.jpg",
       "position": 285,
       "surname": "JAMES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:50:06",
       "urn": 4233880
     },
@@ -4869,6 +5036,7 @@
       "portrait_thumbnail_filename": "4N4A2244_face_1_cluster_405.jpg",
       "position": 286,
       "surname": "ROBINS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:50:11",
       "urn": 4161828
     },
@@ -4888,6 +5056,7 @@
       "portrait_thumbnail_filename": "4N4A2185_face_1_cluster_304.jpg",
       "position": 287,
       "surname": "PERROTT",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:50:24",
       "urn": 4244126
     },
@@ -4949,6 +5118,7 @@
       "portrait_thumbnail_filename": "4N4A2224_face_1_cluster_378.jpg",
       "position": 291,
       "surname": "PREECE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:50:50",
       "urn": 4097523
     },
@@ -4968,6 +5138,7 @@
       "portrait_thumbnail_filename": "4N4A2232_face_1_cluster_386.jpg",
       "position": 292,
       "surname": "JENKINS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:50:55",
       "urn": 4153588
     },
@@ -4987,6 +5158,7 @@
       "portrait_thumbnail_filename": "4N4A2223_face_4_cluster_376.jpg",
       "position": 293,
       "surname": "EVANS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:50:58",
       "urn": 7049908
     },
@@ -5020,6 +5192,7 @@
       "portrait_thumbnail_filename": "4N4A2270_face_1_cluster_438.jpg",
       "position": 295,
       "surname": "CLABON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:51:06",
       "urn": 7040914
     },
@@ -5039,6 +5212,7 @@
       "portrait_thumbnail_filename": "4N4A2269_face_2_cluster_437.jpg",
       "position": 296,
       "surname": "NORTON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:51:06",
       "urn": 4211580
     },
@@ -5072,6 +5246,7 @@
       "portrait_thumbnail_filename": "4N4A2213_face_1_cluster_345.jpg",
       "position": 298,
       "surname": "CARLTON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:51:11",
       "urn": 7051094
     },
@@ -5091,6 +5266,7 @@
       "portrait_thumbnail_filename": "4N4A2238_face_2_cluster_398.jpg",
       "position": 299,
       "surname": "DAVIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:51:16",
       "urn": 3731739
     },
@@ -5110,6 +5286,7 @@
       "portrait_thumbnail_filename": "4N4A2262_face_1_cluster_428.jpg",
       "position": 300,
       "surname": "ROBINSON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:51:30",
       "urn": 3879879
     },
@@ -5171,6 +5348,7 @@
       "portrait_thumbnail_filename": "4N4A2246_face_2_cluster_407.jpg",
       "position": 304,
       "surname": "GOULD",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:51:46",
       "urn": 4174441
     },
@@ -5218,6 +5396,7 @@
       "portrait_thumbnail_filename": "4N4A2252_face_2_cluster_412.jpg",
       "position": 307,
       "surname": "DAVIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:52:04",
       "urn": 7043044
     },
@@ -5237,6 +5416,7 @@
       "portrait_thumbnail_filename": "4N4A2273_face_2_cluster_439.jpg",
       "position": 308,
       "surname": "FLETCHER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:52:21",
       "urn": 2804746
     },
@@ -5270,6 +5450,7 @@
       "portrait_thumbnail_filename": "4N4A2266_face_5_cluster_443.jpg",
       "position": 310,
       "surname": "MATTHEWS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:52:44",
       "urn": 4207189
     },
@@ -5289,6 +5470,7 @@
       "portrait_thumbnail_filename": "4N4A2278_face_1_cluster_463.jpg",
       "position": 311,
       "surname": "SKIVINGTON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:52:49",
       "urn": 7042010
     },
@@ -5308,6 +5490,7 @@
       "portrait_thumbnail_filename": "4N4A2264_face_1_cluster_431.jpg",
       "position": 312,
       "surname": "HANCOX",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:53:02",
       "urn": 7042161
     },
@@ -5341,6 +5524,7 @@
       "portrait_thumbnail_filename": "4N4A2218_face_1_cluster_357.jpg",
       "position": 314,
       "surname": "BAKER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:53:25",
       "urn": 4226912
     },
@@ -5374,6 +5558,7 @@
       "portrait_thumbnail_filename": "4N4A2271_face_3_cluster_447.jpg",
       "position": 316,
       "surname": "RUDALL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:53:32",
       "urn": 7045620
     },
@@ -5393,6 +5578,7 @@
       "portrait_thumbnail_filename": "4N4A2273_face_3_cluster_451.jpg",
       "position": 317,
       "surname": "GIBSON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:53:39",
       "urn": 4226555
     },
@@ -5412,6 +5598,7 @@
       "portrait_thumbnail_filename": "4N4A2258_face_1_cluster_424.jpg",
       "position": 318,
       "surname": "DAVIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:53:40",
       "urn": 4235879
     },
@@ -5431,6 +5618,7 @@
       "portrait_thumbnail_filename": "4N4A2256_face_1_cluster_418.jpg",
       "position": 319,
       "surname": "HURFORD",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:53:44",
       "urn": 7040468
     },
@@ -5464,6 +5652,7 @@
       "portrait_thumbnail_filename": "4N4A2281_face_2_cluster_466.jpg",
       "position": 321,
       "surname": "DUNN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:53:55",
       "urn": 4227094
     },
@@ -5483,6 +5672,7 @@
       "portrait_thumbnail_filename": "4N4A2243_face_1_cluster_402.jpg",
       "position": 322,
       "surname": "DERRICK",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:53:58",
       "urn": 7040696
     },
@@ -5516,6 +5706,7 @@
       "portrait_thumbnail_filename": "4N4A2275_face_2_cluster_452.jpg",
       "position": 324,
       "surname": "HOARE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:01",
       "urn": 4098998
     },
@@ -5535,6 +5726,7 @@
       "portrait_thumbnail_filename": "4N4A2267_face_4_cluster_442.jpg",
       "position": 325,
       "surname": "DAWE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:14",
       "urn": 4228005
     },
@@ -5554,6 +5746,7 @@
       "portrait_thumbnail_filename": "4N4A2282_face_4_cluster_473.jpg",
       "position": 326,
       "surname": "HOWELL",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:15",
       "urn": 7033802
     },
@@ -5573,6 +5766,7 @@
       "portrait_thumbnail_filename": "4N4A2283_face_2_cluster_468.jpg",
       "position": 327,
       "surname": "JOHNSTON",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:15",
       "urn": 7034673
     },
@@ -5592,6 +5786,7 @@
       "portrait_thumbnail_filename": "4N4A2277_face_1_cluster_458.jpg",
       "position": 328,
       "surname": "DAVIS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:17",
       "urn": 7048725
     },
@@ -5625,6 +5820,7 @@
       "portrait_thumbnail_filename": "4N4A2260_face_1_cluster_426.jpg",
       "position": 330,
       "surname": "STEPHENS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:44",
       "urn": 4131763
     },
@@ -5672,6 +5868,7 @@
       "portrait_thumbnail_filename": "4N4A2265_face_1_cluster_435.jpg",
       "position": 333,
       "surname": "STARK",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:56",
       "urn": 3974010
     },
@@ -5691,6 +5888,7 @@
       "portrait_thumbnail_filename": "4N4A2259_face_3_cluster_427.jpg",
       "position": 334,
       "surname": "CHIPPER",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:58",
       "urn": 7022352
     },
@@ -5710,6 +5908,7 @@
       "portrait_thumbnail_filename": "4N4A2288_face_1_cluster_479.jpg",
       "position": 335,
       "surname": "PECKHAM",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:54:59",
       "urn": 4248684
     },
@@ -5729,6 +5928,7 @@
       "portrait_thumbnail_filename": "4N4A2289_face_2_cluster_482.jpg",
       "position": 336,
       "surname": "GILES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:55:00",
       "urn": 4251187
     },
@@ -5748,6 +5948,7 @@
       "portrait_thumbnail_filename": "4N4A2280_face_1_cluster_470.jpg",
       "position": 337,
       "surname": "McMENEMY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:55:03",
       "urn": 3776888
     },
@@ -5781,6 +5982,7 @@
       "portrait_thumbnail_filename": "4N4A2265_face_2_cluster_436.jpg",
       "position": 339,
       "surname": "McENTEE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:55:07",
       "urn": 7018240
     },
@@ -5800,6 +6002,7 @@
       "portrait_thumbnail_filename": "4N4A2294_face_3_cluster_488.jpg",
       "position": 340,
       "surname": "LINCOLN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:55:11",
       "urn": 4243970
     },
@@ -5833,6 +6036,7 @@
       "portrait_thumbnail_filename": "4N4A2255_face_1_cluster_416.jpg",
       "position": 342,
       "surname": "PRICE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:55:26",
       "urn": 7043255
     },
@@ -5866,6 +6070,7 @@
       "portrait_thumbnail_filename": "4N4A2290_face_2_cluster_484.jpg",
       "position": 344,
       "surname": "JONES",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:55:41",
       "urn": 7032385
     },
@@ -5885,6 +6090,7 @@
       "portrait_thumbnail_filename": "4N4A2292_face_1_cluster_481.jpg",
       "position": 345,
       "surname": "WILLIAMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:56:01",
       "urn": 7042405
     },
@@ -5904,6 +6110,7 @@
       "portrait_thumbnail_filename": "4N4A2298_face_1_cluster_494.jpg",
       "position": 346,
       "surname": "STEWART",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:56:03",
       "urn": 4226249
     },
@@ -5923,6 +6130,7 @@
       "portrait_thumbnail_filename": "4N4A2297_face_1_cluster_493.jpg",
       "position": 347,
       "surname": "EVANS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:56:12",
       "urn": 7029790
     },
@@ -5985,6 +6193,7 @@
       "portrait_thumbnail_filename": "4N4A2295_face_2_cluster_489.jpg",
       "position": 351,
       "surname": "HANCOX",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:56:42",
       "urn": 3655822
     },
@@ -6032,6 +6241,7 @@
       "portrait_thumbnail_filename": "4N4A2300_face_1_cluster_496.jpg",
       "position": 354,
       "surname": "LAWRENCE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:58:04",
       "urn": 3057122
     },
@@ -6051,6 +6261,7 @@
       "portrait_thumbnail_filename": "4N4A2279_face_5_cluster_472.jpg",
       "position": 355,
       "surname": "GEE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:58:19",
       "urn": 4118896
     },
@@ -6070,6 +6281,7 @@
       "portrait_thumbnail_filename": "4N4A2285_face_1_cluster_476.jpg",
       "position": 356,
       "surname": "McLOUGHLIN",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:58:19",
       "urn": 4139552
     },
@@ -6089,6 +6301,7 @@
       "portrait_thumbnail_filename": "4N4A2303_face_1_cluster_501.jpg",
       "position": 357,
       "surname": "HOCKADAY",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:58:59",
       "urn": 4014128
     },
@@ -6108,6 +6321,7 @@
       "portrait_thumbnail_filename": "4N4A2260_face_2_cluster_425.jpg",
       "position": 358,
       "surname": "HOWE",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:59:11",
       "urn": 4204789
     },
@@ -6127,6 +6341,7 @@
       "portrait_thumbnail_filename": "4N4A2286_face_1_cluster_477.jpg",
       "position": 359,
       "surname": "LIPPIATT",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:59:20",
       "urn": 4183990
     },
@@ -6146,6 +6361,7 @@
       "portrait_thumbnail_filename": "4N4A2301_face_2_cluster_499.jpg",
       "position": 360,
       "surname": "BAYLISS",
+      "thumbnail_assignment_status": "resolved",
       "time": "00:59:35",
       "urn": 7018203
     },
@@ -6179,6 +6395,7 @@
       "portrait_thumbnail_filename": "4N4A2291_face_1_cluster_480.jpg",
       "position": 362,
       "surname": "PRICE-STEPHENS",
+      "thumbnail_assignment_status": "resolved",
       "time": "01:00:06",
       "urn": 4228463
     },
@@ -6226,6 +6443,7 @@
       "portrait_thumbnail_filename": "4N4A2304_face_1_cluster_502.jpg",
       "position": 365,
       "surname": "WATKINS",
+      "thumbnail_assignment_status": "resolved",
       "time": "01:01:16",
       "urn": 4232190
     },
@@ -6371,6 +6589,7 @@
       "portrait_thumbnail_filename": "4N4A2327_face_2_cluster_515.jpg",
       "position": 375,
       "surname": "WILLAMS",
+      "thumbnail_assignment_status": "resolved",
       "time": "01:15:44",
       "urn": 7034050
     }
