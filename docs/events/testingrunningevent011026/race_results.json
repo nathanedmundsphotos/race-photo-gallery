@@ -6375,7 +6375,7 @@
       "urn": 7034050
     }
   ],
-  "schema_version": 4,
+  "schema_version": 5,
   "series": {
     "discipline": "road",
     "round": 4,
